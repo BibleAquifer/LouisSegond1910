@@ -1,0 +1,6511 @@
+{
+  "documents": [
+    {
+      "docid": "WLCM",
+      "scheme": "BCVWP|token-string"
+    },
+    {
+      "docid": "LSG",
+      "scheme": "BCVWP|token-string"
+    }
+  ],
+  "meta": {
+    "conformsTo": "0.3",
+    "creator": "Mission Mutual"
+  },
+  "roles": [
+    "source",
+    "target"
+  ],
+  "type": "translation",
+  "records": [
+    {
+      "source": [
+        "o290010010011|דְּבַר"
+      ],
+      "target": [
+        "29001001002|parole"
+      ],
+      "meta": {
+        "id": "29001001.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010010021|יְהוָה"
+      ],
+      "target": [
+        "29001001005|Éternel"
+      ],
+      "meta": {
+        "id": "29001001.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010010061|יוֹאֵל"
+      ],
+      "target": [
+        "29001001010|Joël"
+      ],
+      "meta": {
+        "id": "29001001.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010010071|בֶּן"
+      ],
+      "target": [
+        "29001001012|fils"
+      ],
+      "meta": {
+        "id": "29001001.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010010081|פְּתוּאֵל"
+      ],
+      "target": [
+        "29001001014|Pethuel"
+      ],
+      "meta": {
+        "id": "29001001.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010020011|שִׁמְעוּ"
+      ],
+      "target": [
+        "29001002001|Écoutez"
+      ],
+      "meta": {
+        "id": "29001002.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010020032|זְּקֵנִים"
+      ],
+      "target": [
+        "29001002004|vieillards"
+      ],
+      "meta": {
+        "id": "29001002.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010020042|הַאֲזִינוּ"
+      ],
+      "target": [
+        "29001002008|oreille"
+      ],
+      "meta": {
+        "id": "29001002.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010020061|יוֹשְׁבֵי"
+      ],
+      "target": [
+        "29001002013|habitants"
+      ],
+      "meta": {
+        "id": "29001002.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010020072|אָרֶץ"
+      ],
+      "target": [
+        "29001002015|pays"
+      ],
+      "meta": {
+        "id": "29001002.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010020102|ימֵי"
+      ],
+      "target": [
+        "29001002024|temps"
+      ],
+      "meta": {
+        "id": "29001002.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010020103|כֶם"
+      ],
+      "target": [
+        "29001002024|temps"
+      ],
+      "meta": {
+        "id": "29001002.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010020112|אִם"
+      ],
+      "target": [
+        "29001002026|Ou"
+      ],
+      "meta": {
+        "id": "29001002.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010020122|ימֵי"
+      ],
+      "target": [
+        "29001002028|temps"
+      ],
+      "meta": {
+        "id": "29001002.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010020131|אֲבֹתֵי"
+      ],
+      "target": [
+        "29001002031|pères"
+      ],
+      "meta": {
+        "id": "29001002.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010020132|כֶם"
+      ],
+      "target": [
+        "29001002031|pères"
+      ],
+      "meta": {
+        "id": "29001002.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010030022|בְנֵי"
+      ],
+      "target": [
+        "29001003004|enfants"
+      ],
+      "meta": {
+        "id": "29001003.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010030042|בְנֵי"
+      ],
+      "target": [
+        "29001003009|enfants"
+      ],
+      "meta": {
+        "id": "29001003.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010030052|בְנֵי"
+      ],
+      "target": [
+        "29001003014|enfants"
+      ],
+      "meta": {
+        "id": "29001003.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010030062|בְנֵי"
+      ],
+      "target": [
+        "29001003018|enfants"
+      ],
+      "meta": {
+        "id": "29001003.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010030072|דוֹר"
+      ],
+      "target": [
+        "29001003021|génération"
+      ],
+      "meta": {
+        "id": "29001003.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010030081|אַחֵר"
+      ],
+      "target": [
+        "29001003023|suivra"
+      ],
+      "meta": {
+        "id": "29001003.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010040011|יֶתֶר"
+      ],
+      "target": [
+        "29001004004|laissé"
+      ],
+      "meta": {
+        "id": "29001004.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010040022|גָּזָם"
+      ],
+      "target": [
+        "29001004006|gazam"
+      ],
+      "meta": {
+        "id": "29001004.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010040031|אָכַל"
+      ],
+      "target": [
+        "29001004012|dévoré"
+      ],
+      "meta": {
+        "id": "29001004.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010040042|אַרְבֶּה"
+      ],
+      "target": [
+        "29001004009|sauterelle"
+      ],
+      "meta": {
+        "id": "29001004.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010040052|יֶתֶר"
+      ],
+      "target": [
+        "29001004017|laissé"
+      ],
+      "meta": {
+        "id": "29001004.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010040062|אַרְבֶּה"
+      ],
+      "target": [
+        "29001004019|sauterelle"
+      ],
+      "meta": {
+        "id": "29001004.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010040071|אָכַל"
+      ],
+      "target": [
+        "29001004025|dévoré"
+      ],
+      "meta": {
+        "id": "29001004.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010040082|יָּלֶק"
+      ],
+      "target": [
+        "29001004022|jélek"
+      ],
+      "meta": {
+        "id": "29001004.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010040092|יֶתֶר"
+      ],
+      "target": [
+        "29001004030|laissé"
+      ],
+      "meta": {
+        "id": "29001004.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010040102|יֶּלֶק"
+      ],
+      "target": [
+        "29001004032|jélek"
+      ],
+      "meta": {
+        "id": "29001004.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010040111|אָכַל"
+      ],
+      "target": [
+        "29001004038|dévoré"
+      ],
+      "meta": {
+        "id": "29001004.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010040122|חָסִיל"
+      ],
+      "target": [
+        "29001004035|hasil"
+      ],
+      "meta": {
+        "id": "29001004.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010050021|שִׁכּוֹרִים"
+      ],
+      "target": [
+        "29001005003|ivrognes"
+      ],
+      "meta": {
+        "id": "29001005.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010050032|בְכוּ"
+      ],
+      "target": [
+        "29001005006|pleurez"
+      ],
+      "meta": {
+        "id": "29001005.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010050042|הֵילִלוּ"
+      ],
+      "target": [
+        "29001005015|gémissez"
+      ],
+      "meta": {
+        "id": "29001005.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010050061|שֹׁתֵי"
+      ],
+      "target": [
+        "29001005011|buveurs"
+      ],
+      "meta": {
+        "id": "29001005.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010050071|יָיִן"
+      ],
+      "target": [
+        "29001005013|vin"
+      ],
+      "meta": {
+        "id": "29001005.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010050091|עָסִיס"
+      ],
+      "target": [
+        "29001005020|moût"
+      ],
+      "meta": {
+        "id": "29001005.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010050111|נִכְרַת"
+      ],
+      "target": [
+        "29001005023|enlevé"
+      ],
+      "meta": {
+        "id": "29001005.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010050122|פִּי"
+      ],
+      "target": [
+        "29001005026|bouche"
+      ],
+      "meta": {
+        "id": "29001005.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010050123|כֶם"
+      ],
+      "target": [
+        "29001005026|bouche"
+      ],
+      "meta": {
+        "id": "29001005.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010060021|גוֹי"
+      ],
+      "target": [
+        "29001006003|peuple"
+      ],
+      "meta": {
+        "id": "29001006.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010060031|עָלָה"
+      ],
+      "target": [
+        "29001006005|venu"
+      ],
+      "meta": {
+        "id": "29001006.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010060051|אַרְצִ"
+      ],
+      "target": [
+        "29001006009|pays"
+      ],
+      "meta": {
+        "id": "29001006.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010060052|י"
+      ],
+      "target": [
+        "29001006009|pays"
+      ],
+      "meta": {
+        "id": "29001006.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010060061|עָצוּם"
+      ],
+      "target": [
+        "29001006011|Puissant"
+      ],
+      "meta": {
+        "id": "29001006.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010060081|מִסְפָּר"
+      ],
+      "target": [
+        "29001006013|innombrable"
+      ],
+      "meta": {
+        "id": "29001006.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010060091|שִׁנָּי"
+      ],
+      "target": [
+        "29001006018|dents"
+      ],
+      "meta": {
+        "id": "29001006.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010060092|ו"
+      ],
+      "target": [
+        "29001006018|dents"
+      ],
+      "meta": {
+        "id": "29001006.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010060101|שִׁנֵּי"
+      ],
+      "target": [
+        "29001006023|Les"
+      ],
+      "meta": {
+        "id": "29001006.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010060111|אַרְיֵה"
+      ],
+      "target": [
+        "29001006021|lion"
+      ],
+      "meta": {
+        "id": "29001006.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010060122|מְתַלְּעוֹת"
+      ],
+      "target": [
+        "29001006024|mâchoires"
+      ],
+      "meta": {
+        "id": "29001006.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010060131|לָבִיא"
+      ],
+      "target": [
+        "29001006027|lionne"
+      ],
+      "meta": {
+        "id": "29001006.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010070011|שָׂם"
+      ],
+      "target": [
+        "29001007003|dévasté"
+      ],
+      "meta": {
+        "id": "29001007.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010070021|גַּפְנִ"
+      ],
+      "target": [
+        "29001007005|vigne"
+      ],
+      "meta": {
+        "id": "29001007.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010070022|י"
+      ],
+      "target": [
+        "29001007005|vigne"
+      ],
+      "meta": {
+        "id": "29001007.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010070032|שַׁמָּה"
+      ],
+      "target": [
+        "29001007004|ma"
+      ],
+      "meta": {
+        "id": "29001007.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010070042|תְאֵנָתִ"
+      ],
+      "target": [
+        "29001007013|figuier"
+      ],
+      "meta": {
+        "id": "29001007.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010070043|י"
+      ],
+      "target": [
+        "29001007013|figuier"
+      ],
+      "meta": {
+        "id": "29001007.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010070052|קְצָפָה"
+      ],
+      "target": [
+        "29001007011|morceaux"
+      ],
+      "meta": {
+        "id": "29001007.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010070061|חָשֹׂף"
+      ],
+      "target": [
+        "29001007018|dépouillé"
+      ],
+      "meta": {
+        "id": "29001007.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010070082|הִשְׁלִיךְ"
+      ],
+      "target": [
+        "29001007020|abattu"
+      ],
+      "meta": {
+        "id": "29001007.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010070091|הִלְבִּינוּ"
+      ],
+      "target": [
+        "29001007028|blanchi"
+      ],
+      "meta": {
+        "id": "29001007.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010070101|שָׂרִיגֶי"
+      ],
+      "target": [
+        "29001007023|rameaux"
+      ],
+      "meta": {
+        "id": "29001007.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010070102|הָ"
+      ],
+      "target": [
+        "29001007023|rameaux"
+      ],
+      "meta": {
+        "id": "29001007.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010080022|בְתוּלָה"
+      ],
+      "target": [
+        "29001008005|vierge"
+      ],
+      "meta": {
+        "id": "29001008.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010080031|חֲגֻרַת"
+      ],
+      "target": [
+        "29001008008|revêt"
+      ],
+      "meta": {
+        "id": "29001008.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010080041|שַׂק"
+      ],
+      "target": [
+        "29001008011|sac"
+      ],
+      "meta": {
+        "id": "29001008.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010080061|בַּעַל"
+      ],
+      "target": [
+        "29001008015|ami"
+      ],
+      "meta": {
+        "id": "29001008.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010080071|נְעוּרֶי"
+      ],
+      "target": [
+        "29001008018|jeunesse"
+      ],
+      "meta": {
+        "id": "29001008.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010080072|הָ"
+      ],
+      "target": [
+        "29001008018|jeunesse"
+      ],
+      "meta": {
+        "id": "29001008.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010090011|הָכְרַת"
+      ],
+      "target": [
+        "29001009004|disparaissent"
+      ],
+      "meta": {
+        "id": "29001009.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010090021|מִנְחָה"
+      ],
+      "target": [
+        "29001009001|Offrandes"
+      ],
+      "meta": {
+        "id": "29001009.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010090032|נֶסֶךְ"
+      ],
+      "target": [
+        "29001009003|libations"
+      ],
+      "meta": {
+        "id": "29001009.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010090042|בֵּית"
+      ],
+      "target": [
+        "29001009007|maison"
+      ],
+      "meta": {
+        "id": "29001009.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010090051|יְהוָה"
+      ],
+      "target": [
+        "29001009010|Éternel"
+      ],
+      "meta": {
+        "id": "29001009.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010090061|אָבְלוּ"
+      ],
+      "target": [
+        "29001009023|deuil"
+      ],
+      "meta": {
+        "id": "29001009.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010090072|כֹּהֲנִים"
+      ],
+      "target": [
+        "29001009013|sacrificateurs"
+      ],
+      "meta": {
+        "id": "29001009.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010090081|מְשָׁרְתֵי"
+      ],
+      "target": [
+        "29001009015|serviteurs"
+      ],
+      "meta": {
+        "id": "29001009.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010090091|יְהוָה"
+      ],
+      "target": [
+        "29001009018|Éternel"
+      ],
+      "meta": {
+        "id": "29001009.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010100011|שֻׁדַּד"
+      ],
+      "target": [
+        "29001010004|ravagés"
+      ],
+      "meta": {
+        "id": "29001010.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010100021|שָׂדֶה"
+      ],
+      "target": [
+        "29001010002|champs"
+      ],
+      "meta": {
+        "id": "29001010.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010100031|אָבְלָה"
+      ],
+      "target": [
+        "29001010009|attristée"
+      ],
+      "meta": {
+        "id": "29001010.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010100041|אֲדָמָה"
+      ],
+      "target": [
+        "29001010007|terre"
+      ],
+      "meta": {
+        "id": "29001010.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010100061|שֻׁדַּד"
+      ],
+      "target": [
+        "29001010015|détruits"
+      ],
+      "meta": {
+        "id": "29001010.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010100071|דָּגָן"
+      ],
+      "target": [
+        "29001010013|blés"
+      ],
+      "meta": {
+        "id": "29001010.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010100081|הוֹבִישׁ"
+      ],
+      "target": [
+        "29001010020|tari"
+      ],
+      "meta": {
+        "id": "29001010.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010100091|תִּירוֹשׁ"
+      ],
+      "target": [
+        "29001010018|moût"
+      ],
+      "meta": {
+        "id": "29001010.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010100101|אֻמְלַל"
+      ],
+      "target": [
+        "29001010025|desséchée"
+      ],
+      "meta": {
+        "id": "29001010.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010100111|יִצְהָר"
+      ],
+      "target": [
+        "29001010023|huile"
+      ],
+      "meta": {
+        "id": "29001010.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010110021|אִכָּרִים"
+      ],
+      "target": [
+        "29001011002|laboureurs"
+      ],
+      "meta": {
+        "id": "29001011.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010110031|הֵילִילוּ"
+      ],
+      "target": [
+        "29001011008|gémissent"
+      ],
+      "meta": {
+        "id": "29001011.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010110041|כֹּרְמִים"
+      ],
+      "target": [
+        "29001011007|vignerons"
+      ],
+      "meta": {
+        "id": "29001011.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010110061|חִטָּה"
+      ],
+      "target": [
+        "29001011013|froment"
+      ],
+      "meta": {
+        "id": "29001011.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010110081|שְׂעֹרָה"
+      ],
+      "target": [
+        "29001011017|orge"
+      ],
+      "meta": {
+        "id": "29001011.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010110101|אָבַד"
+      ],
+      "target": [
+        "29001011026|perdue"
+      ],
+      "meta": {
+        "id": "29001011.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010110111|קְצִיר"
+      ],
+      "target": [
+        "29001011022|moisson"
+      ],
+      "meta": {
+        "id": "29001011.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010110121|שָׂדֶה"
+      ],
+      "target": [
+        "29001011024|champs"
+      ],
+      "meta": {
+        "id": "29001011.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010120012|גֶּפֶן"
+      ],
+      "target": [
+        "29001012002|vigne"
+      ],
+      "meta": {
+        "id": "29001012.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010120021|הוֹבִישָׁה"
+      ],
+      "target": [
+        "29001012004|confuse"
+      ],
+      "meta": {
+        "id": "29001012.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010120033|תְּאֵנָה"
+      ],
+      "target": [
+        "29001012007|figuier"
+      ],
+      "meta": {
+        "id": "29001012.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010120041|אֻמְלָלָה"
+      ],
+      "target": [
+        "29001012008|languissant"
+      ],
+      "meta": {
+        "id": "29001012.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010120051|רִמּוֹן"
+      ],
+      "target": [
+        "29001012011|grenadier"
+      ],
+      "meta": {
+        "id": "29001012.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010120071|תָּמָר"
+      ],
+      "target": [
+        "29001012014|palmier"
+      ],
+      "meta": {
+        "id": "29001012.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010120082|תַפּוּחַ"
+      ],
+      "target": [
+        "29001012017|pommier"
+      ],
+      "meta": {
+        "id": "29001012.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010120101|עֲצֵי"
+      ],
+      "target": [
+        "29001012021|arbres"
+      ],
+      "meta": {
+        "id": "29001012.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010120112|שָּׂדֶה"
+      ],
+      "target": [
+        "29001012023|champs"
+      ],
+      "meta": {
+        "id": "29001012.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010120121|יָבֵשׁוּ"
+      ],
+      "target": [
+        "29001012025|flétris"
+      ],
+      "meta": {
+        "id": "29001012.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010120151|שָׂשׂוֹן"
+      ],
+      "target": [
+        "29001012028|joie"
+      ],
+      "meta": {
+        "id": "29001012.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010120171|בְּנֵי"
+      ],
+      "target": [
+        "29001012033|fils"
+      ],
+      "meta": {
+        "id": "29001012.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010120181|אָדָם"
+      ],
+      "target": [
+        "29001012036|homme"
+      ],
+      "meta": {
+        "id": "29001012.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010130022|סִפְדוּ"
+      ],
+      "target": [
+        "29001013005|pleurez"
+      ],
+      "meta": {
+        "id": "29001013.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010130032|כֹּהֲנִים"
+      ],
+      "target": [
+        "29001013001|Sacrificateurs"
+      ],
+      "meta": {
+        "id": "29001013.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010130051|מְשָׁרְתֵי"
+      ],
+      "target": [
+        "29001013009|serviteurs"
+      ],
+      "meta": {
+        "id": "29001013.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010130061|מִזְבֵּחַ"
+      ],
+      "target": [
+        "29001013012|autel"
+      ],
+      "meta": {
+        "id": "29001013.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010130071|בֹּאוּ"
+      ],
+      "target": [
+        "29001013014|Venez"
+      ],
+      "meta": {
+        "id": "29001013.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010130081|לִינוּ"
+      ],
+      "target": [
+        "29001013018|nuit"
+      ],
+      "meta": {
+        "id": "29001013.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010130092|שַּׂקִּים"
+      ],
+      "target": [
+        "29001013021|sacs"
+      ],
+      "meta": {
+        "id": "29001013.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010130101|מְשָׁרְתֵי"
+      ],
+      "target": [
+        "29001013009|serviteurs",
+        "29001013023|Serviteurs"
+      ],
+      "meta": {
+        "id": "29001013.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010130111|אֱלֹהָ"
+      ],
+      "target": [
+        "29001013026|Dieu"
+      ],
+      "meta": {
+        "id": "29001013.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010130112|י"
+      ],
+      "target": [
+        "29001013026|Dieu"
+      ],
+      "meta": {
+        "id": "29001013.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010130131|נִמְנַע"
+      ],
+      "target": [
+        "29001013033|disparu"
+      ],
+      "meta": {
+        "id": "29001013.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010130142|בֵּית"
+      ],
+      "target": [
+        "29001013036|maison"
+      ],
+      "meta": {
+        "id": "29001013.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010130151|אֱלֹהֵי"
+      ],
+      "target": [
+        "29001013039|Dieu"
+      ],
+      "meta": {
+        "id": "29001013.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010130152|כֶם"
+      ],
+      "target": [
+        "29001013039|Dieu"
+      ],
+      "meta": {
+        "id": "29001013.16",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010130161|מִנְחָה"
+      ],
+      "target": [
+        "29001013029|offrandes"
+      ],
+      "meta": {
+        "id": "29001013.17",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010130172|נָסֶךְ"
+      ],
+      "target": [
+        "29001013031|libations"
+      ],
+      "meta": {
+        "id": "29001013.18",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010140011|קַדְּשׁוּ"
+      ],
+      "target": [
+        "29001014001|Publiez"
+      ],
+      "meta": {
+        "id": "29001014.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010140021|צוֹם"
+      ],
+      "target": [
+        "29001014003|jeûne"
+      ],
+      "meta": {
+        "id": "29001014.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010140031|קִרְאוּ"
+      ],
+      "target": [
+        "29001014005|une",
+        "29001014006|convocation"
+      ],
+      "meta": {
+        "id": "29001014.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010140041|עֲצָרָה"
+      ],
+      "target": [
+        "29001014007|solennelle"
+      ],
+      "meta": {
+        "id": "29001014.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010140051|אִסְפוּ"
+      ],
+      "target": [
+        "29001014009|Assemblez"
+      ],
+      "meta": {
+        "id": "29001014.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010140061|זְקֵנִים"
+      ],
+      "target": [
+        "29001014011|vieillards"
+      ],
+      "meta": {
+        "id": "29001014.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010140081|יֹשְׁבֵי"
+      ],
+      "target": [
+        "29001014015|habitants"
+      ],
+      "meta": {
+        "id": "29001014.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010140092|אָרֶץ"
+      ],
+      "target": [
+        "29001014017|pays"
+      ],
+      "meta": {
+        "id": "29001014.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010140101|בֵּית"
+      ],
+      "target": [
+        "29001014021|maison"
+      ],
+      "meta": {
+        "id": "29001014.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010140111|יְהוָה"
+      ],
+      "target": [
+        "29001014024|Éternel"
+      ],
+      "meta": {
+        "id": "29001014.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010140121|אֱלֹהֵי"
+      ],
+      "target": [
+        "29001014027|Dieu"
+      ],
+      "meta": {
+        "id": "29001014.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010140122|כֶם"
+      ],
+      "target": [
+        "29001014027|Dieu"
+      ],
+      "meta": {
+        "id": "29001014.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010140132|זַעֲקוּ"
+      ],
+      "target": [
+        "29001014030|criez"
+      ],
+      "meta": {
+        "id": "29001014.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010140151|יְהוָה"
+      ],
+      "target": [
+        "29001014033|Éternel"
+      ],
+      "meta": {
+        "id": "29001014.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010150011|אֲהָהּ"
+      ],
+      "target": [
+        "29001015001|Ah"
+      ],
+      "meta": {
+        "id": "29001015.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010150022|יּוֹם"
+      ],
+      "target": [
+        "29001015004|jour"
+      ],
+      "meta": {
+        "id": "29001015.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010150041|קָרוֹב"
+      ],
+      "target": [
+        "29001015013|proche"
+      ],
+      "meta": {
+        "id": "29001015.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010150051|יוֹם"
+      ],
+      "target": [
+        "29001015008|jour"
+      ],
+      "meta": {
+        "id": "29001015.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010150061|יְהוָה"
+      ],
+      "target": [
+        "29001015011|Éternel"
+      ],
+      "meta": {
+        "id": "29001015.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010150073|שֹׁד"
+      ],
+      "target": [
+        "29001015019|ravage"
+      ],
+      "meta": {
+        "id": "29001015.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010150091|יָבוֹא"
+      ],
+      "target": [
+        "29001015016|vient"
+      ],
+      "meta": {
+        "id": "29001015.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010160031|עֵינֵי"
+      ],
+      "target": [
+        "29001016009|yeux"
+      ],
+      "meta": {
+        "id": "29001016.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010160032|נוּ"
+      ],
+      "target": [
+        "29001016009|yeux"
+      ],
+      "meta": {
+        "id": "29001016.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010160041|אֹכֶל"
+      ],
+      "target": [
+        "29001016002|nourriture"
+      ],
+      "meta": {
+        "id": "29001016.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010160051|נִכְרָת"
+      ],
+      "target": [
+        "29001016006|enlevée"
+      ],
+      "meta": {
+        "id": "29001016.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010160062|בֵּית"
+      ],
+      "target": [
+        "29001016022|maison"
+      ],
+      "meta": {
+        "id": "29001016.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010160071|אֱלֹהֵי"
+      ],
+      "target": [
+        "29001016025|Dieu"
+      ],
+      "meta": {
+        "id": "29001016.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010160072|נוּ"
+      ],
+      "target": [
+        "29001016025|Dieu"
+      ],
+      "meta": {
+        "id": "29001016.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010160081|שִׂמְחָה"
+      ],
+      "target": [
+        "29001016012|joie"
+      ],
+      "meta": {
+        "id": "29001016.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010160092|גִיל"
+      ],
+      "target": [
+        "29001016015|allégresse"
+      ],
+      "meta": {
+        "id": "29001016.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010170011|עָבְשׁוּ"
+      ],
+      "target": [
+        "29001017004|séché"
+      ],
+      "meta": {
+        "id": "29001017.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010170021|פְרֻדוֹת"
+      ],
+      "target": [
+        "29001017002|semences"
+      ],
+      "meta": {
+        "id": "29001017.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010170041|מֶגְרְפֹתֵי"
+      ],
+      "target": [
+        "29001017007|mottes"
+      ],
+      "meta": {
+        "id": "29001017.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010170042|הֶם"
+      ],
+      "target": [
+        "29001017007|mottes"
+      ],
+      "meta": {
+        "id": "29001017.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010170051|נָשַׁמּוּ"
+      ],
+      "target": [
+        "29001017012|vides"
+      ],
+      "meta": {
+        "id": "29001017.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010170061|אֹצָרוֹת"
+      ],
+      "target": [
+        "29001017010|greniers"
+      ],
+      "meta": {
+        "id": "29001017.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010170071|נֶהֶרְסוּ"
+      ],
+      "target": [
+        "29001017018|ruines"
+      ],
+      "meta": {
+        "id": "29001017.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010170081|מַמְּגֻרוֹת"
+      ],
+      "target": [
+        "29001017015|magasins"
+      ],
+      "meta": {
+        "id": "29001017.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010170101|הֹבִישׁ"
+      ],
+      "target": [
+        "29001017025|point"
+      ],
+      "meta": {
+        "id": "29001017.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010170111|דָּגָן"
+      ],
+      "target": [
+        "29001017027|blé"
+      ],
+      "meta": {
+        "id": "29001017.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010180021|נֶּאֶנְחָה"
+      ],
+      "target": [
+        "29001018004|gémissent"
+      ],
+      "meta": {
+        "id": "29001018.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010180031|בְהֵמָה"
+      ],
+      "target": [
+        "29001018003|bêtes"
+      ],
+      "meta": {
+        "id": "29001018.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010180041|נָבֹכוּ"
+      ],
+      "target": [
+        "29001018011|consternés"
+      ],
+      "meta": {
+        "id": "29001018.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010180051|עֶדְרֵי"
+      ],
+      "target": [
+        "29001018007|troupeaux"
+      ],
+      "meta": {
+        "id": "29001018.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010180061|בָקָר"
+      ],
+      "target": [
+        "29001018009|bœufs"
+      ],
+      "meta": {
+        "id": "29001018.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010180091|מִרְעֶה"
+      ],
+      "target": [
+        "29001018018|pâturage"
+      ],
+      "meta": {
+        "id": "29001018.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010180121|עֶדְרֵי"
+      ],
+      "target": [
+        "29001018023|troupeaux"
+      ],
+      "meta": {
+        "id": "29001018.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010180132|צֹּאן"
+      ],
+      "target": [
+        "29001018025|brebis"
+      ],
+      "meta": {
+        "id": "29001018.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010180141|נֶאְשָׁמוּ"
+      ],
+      "target": [
+        "29001018028|souffrance"
+      ],
+      "meta": {
+        "id": "29001018.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010190021|יְהוָה"
+      ],
+      "target": [
+        "29001019010|Éternel"
+      ],
+      "meta": {
+        "id": "29001019.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010190031|אֶקְרָא"
+      ],
+      "target": [
+        "29001019007|crie"
+      ],
+      "meta": {
+        "id": "29001019.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010190051|אֵשׁ"
+      ],
+      "target": [
+        "29001019014|feu"
+      ],
+      "meta": {
+        "id": "29001019.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010190061|אָכְלָה"
+      ],
+      "target": [
+        "29001019016|dévoré"
+      ],
+      "meta": {
+        "id": "29001019.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010190071|נְאוֹת"
+      ],
+      "target": [
+        "29001019018|plaines"
+      ],
+      "meta": {
+        "id": "29001019.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010190081|מִדְבָּר"
+      ],
+      "target": [
+        "29001019020|désert"
+      ],
+      "meta": {
+        "id": "29001019.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010190092|לֶהָבָה"
+      ],
+      "target": [
+        "29001019024|flamme"
+      ],
+      "meta": {
+        "id": "29001019.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010190101|לִהֲטָה"
+      ],
+      "target": [
+        "29001019026|brûlé"
+      ],
+      "meta": {
+        "id": "29001019.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010190121|עֲצֵי"
+      ],
+      "target": [
+        "29001019029|arbres"
+      ],
+      "meta": {
+        "id": "29001019.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010190132|שָּׂדֶה"
+      ],
+      "target": [
+        "29001019031|champs"
+      ],
+      "meta": {
+        "id": "29001019.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010200021|בַּהֲמוֹת"
+      ],
+      "target": [
+        "29001020002|bêtes"
+      ],
+      "meta": {
+        "id": "29001020.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010200031|שָׂדֶה"
+      ],
+      "target": [
+        "29001020004|champs"
+      ],
+      "meta": {
+        "id": "29001020.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010200041|תַּעֲרוֹג"
+      ],
+      "target": [
+        "29001020005|crient"
+      ],
+      "meta": {
+        "id": "29001020.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010200071|יָבְשׁוּ"
+      ],
+      "target": [
+        "29001020015|sec"
+      ],
+      "meta": {
+        "id": "29001020.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010200081|אֲפִיקֵי"
+      ],
+      "target": [
+        "29001020012|torrents"
+      ],
+      "meta": {
+        "id": "29001020.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010200091|מָיִם"
+      ],
+      "target": [
+        "29001020013|sont",
+        "29001020014|à"
+      ],
+      "meta": {
+        "id": "29001020.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010200102|אֵשׁ"
+      ],
+      "target": [
+        "29001020019|feu"
+      ],
+      "meta": {
+        "id": "29001020.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010200111|אָכְלָה"
+      ],
+      "target": [
+        "29001020021|dévoré"
+      ],
+      "meta": {
+        "id": "29001020.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010200121|נְאוֹת"
+      ],
+      "target": [
+        "29001020023|plaines"
+      ],
+      "meta": {
+        "id": "29001020.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290010200132|מִּדְבָּר"
+      ],
+      "target": [
+        "29001020025|désert"
+      ],
+      "meta": {
+        "id": "29001020.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020010011|תִּקְעוּ"
+      ],
+      "target": [
+        "29002001001|Sonnez"
+      ],
+      "meta": {
+        "id": "29002001.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020010021|שׁוֹפָר"
+      ],
+      "target": [
+        "29002001004|trompette"
+      ],
+      "meta": {
+        "id": "29002001.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020010032|צִיּוֹן"
+      ],
+      "target": [
+        "29002001006|Sion"
+      ],
+      "meta": {
+        "id": "29002001.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020010042|הָרִיעוּ"
+      ],
+      "target": [
+        "29002001009|retentir"
+      ],
+      "meta": {
+        "id": "29002001.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020010052|הַר"
+      ],
+      "target": [
+        "29002001012|montagne"
+      ],
+      "meta": {
+        "id": "29002001.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020010061|קָדְשִׁ"
+      ],
+      "target": [
+        "29002001013|sainte"
+      ],
+      "meta": {
+        "id": "29002001.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020010062|י"
+      ],
+      "target": [
+        "29002001013|sainte"
+      ],
+      "meta": {
+        "id": "29002001.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020010071|יִרְגְּזוּ"
+      ],
+      "target": [
+        "29002001021|tremblent"
+      ],
+      "meta": {
+        "id": "29002001.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020010091|יֹשְׁבֵי"
+      ],
+      "target": [
+        "29002001018|habitants"
+      ],
+      "meta": {
+        "id": "29002001.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020010102|אָרֶץ"
+      ],
+      "target": [
+        "29002001020|pays"
+      ],
+      "meta": {
+        "id": "29002001.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020010121|בָא"
+      ],
+      "target": [
+        "29002001029|vient"
+      ],
+      "meta": {
+        "id": "29002001.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020010131|יוֹם"
+      ],
+      "target": [
+        "29002001025|jour"
+      ],
+      "meta": {
+        "id": "29002001.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020010141|יְהוָה"
+      ],
+      "target": [
+        "29002001028|Éternel"
+      ],
+      "meta": {
+        "id": "29002001.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020010161|קָרוֹב"
+      ],
+      "target": [
+        "29002001034|proche"
+      ],
+      "meta": {
+        "id": "29002001.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020020011|יוֹם"
+      ],
+      "target": [
+        "29002002001|Jour"
+      ],
+      "meta": {
+        "id": "29002002.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020020021|חֹשֶׁךְ"
+      ],
+      "target": [
+        "29002002003|ténèbres"
+      ],
+      "meta": {
+        "id": "29002002.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020020032|אֲפֵלָה"
+      ],
+      "target": [
+        "29002002006|obscurité"
+      ],
+      "meta": {
+        "id": "29002002.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020020041|יוֹם"
+      ],
+      "target": [
+        "29002002008|Jour"
+      ],
+      "meta": {
+        "id": "29002002.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020020051|עָנָן"
+      ],
+      "target": [
+        "29002002010|nuées"
+      ],
+      "meta": {
+        "id": "29002002.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020020062|עֲרָפֶל"
+      ],
+      "target": [
+        "29002002013|brouillards"
+      ],
+      "meta": {
+        "id": "29002002.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020020072|שַׁחַר"
+      ],
+      "target": [
+        "29002002019|aurore"
+      ],
+      "meta": {
+        "id": "29002002.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020020081|פָּרֻשׂ"
+      ],
+      "target": [
+        "29002002021|répand"
+      ],
+      "meta": {
+        "id": "29002002.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020020102|הָרִים"
+      ],
+      "target": [
+        "29002002024|montagnes"
+      ],
+      "meta": {
+        "id": "29002002.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020020111|עַם"
+      ],
+      "target": [
+        "29002002028|peuple"
+      ],
+      "meta": {
+        "id": "29002002.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020020121|רַב"
+      ],
+      "target": [
+        "29002002029|nombreux"
+      ],
+      "meta": {
+        "id": "29002002.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020020132|עָצוּם"
+      ],
+      "target": [
+        "29002002031|puissant"
+      ],
+      "meta": {
+        "id": "29002002.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020020161|נִהְיָה"
+      ],
+      "target": [
+        "29002002041|eu"
+      ],
+      "meta": {
+        "id": "29002002.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020020182|עוֹלָם"
+      ],
+      "target": [
+        "29002002040|jamais"
+      ],
+      "meta": {
+        "id": "29002002.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020020192|אַחֲרָי"
+      ],
+      "target": [
+        "29002002051|dans",
+        "29002002052|la"
+      ],
+      "meta": {
+        "id": "29002002.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020020211|יוֹסֵף"
+      ],
+      "target": [
+        "29002002050|jamais"
+      ],
+      "meta": {
+        "id": "29002002.16",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020020231|שְׁנֵי"
+      ],
+      "target": [
+        "29002002053|suite"
+      ],
+      "meta": {
+        "id": "29002002.17",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020020241|דּוֹר"
+      ],
+      "target": [
+        "29002002055|âges"
+      ],
+      "meta": {
+        "id": "29002002.18",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020030012|פָנָי"
+      ],
+      "target": [
+        "29002003001|Devant"
+      ],
+      "meta": {
+        "id": "29002003.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020030013|ו"
+      ],
+      "target": [
+        "29002003001|Devant"
+      ],
+      "meta": {
+        "id": "29002003.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020030021|אָכְלָה"
+      ],
+      "target": [
+        "29002003006|dévorant"
+      ],
+      "meta": {
+        "id": "29002003.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020030031|אֵשׁ"
+      ],
+      "target": [
+        "29002003005|feu"
+      ],
+      "meta": {
+        "id": "29002003.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020030042|אַחֲרָי"
+      ],
+      "target": [
+        "29002003009|derrière"
+      ],
+      "meta": {
+        "id": "29002003.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020030043|ו"
+      ],
+      "target": [
+        "29002003009|derrière"
+      ],
+      "meta": {
+        "id": "29002003.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020030051|תְּלַהֵט"
+      ],
+      "target": [
+        "29002003013|brûlante"
+      ],
+      "meta": {
+        "id": "29002003.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020030061|לֶהָבָה"
+      ],
+      "target": [
+        "29002003012|flamme"
+      ],
+      "meta": {
+        "id": "29002003.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020030072|גַן"
+      ],
+      "target": [
+        "29002003021|jardin"
+      ],
+      "meta": {
+        "id": "29002003.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020030081|עֵדֶן"
+      ],
+      "target": [
+        "29002003023|Éden"
+      ],
+      "meta": {
+        "id": "29002003.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020030092|אָרֶץ"
+      ],
+      "target": [
+        "29002003016|pays"
+      ],
+      "meta": {
+        "id": "29002003.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020030102|פָנָי"
+      ],
+      "target": [
+        "29002003018|auparavant"
+      ],
+      "meta": {
+        "id": "29002003.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020030103|ו"
+      ],
+      "target": [
+        "29002003018|auparavant"
+      ],
+      "meta": {
+        "id": "29002003.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020030112|אַחֲרָי"
+      ],
+      "target": [
+        "29002003026|depuis"
+      ],
+      "meta": {
+        "id": "29002003.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020030113|ו"
+      ],
+      "target": [
+        "29002003026|depuis"
+      ],
+      "meta": {
+        "id": "29002003.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020030121|מִדְבַּר"
+      ],
+      "target": [
+        "29002003031|désert"
+      ],
+      "meta": {
+        "id": "29002003.16",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020030131|שְׁמָמָה"
+      ],
+      "target": [
+        "29002003032|affreux"
+      ],
+      "meta": {
+        "id": "29002003.17",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020030151|פְּלֵיטָה"
+      ],
+      "target": [
+        "29002003037|échappe"
+      ],
+      "meta": {
+        "id": "29002003.18",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020040012|מַרְאֵה"
+      ],
+      "target": [
+        "29002004003|voir"
+      ],
+      "meta": {
+        "id": "29002004.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020040021|סוּסִים"
+      ],
+      "target": [
+        "29002004008|chevaux"
+      ],
+      "meta": {
+        "id": "29002004.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020040031|מַרְאֵ"
+      ],
+      "target": [
+        "29002004006|dirait"
+      ],
+      "meta": {
+        "id": "29002004.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020040032|הוּ"
+      ],
+      "target": [
+        "29002004006|dirait"
+      ],
+      "meta": {
+        "id": "29002004.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020040043|פָרָשִׁים"
+      ],
+      "target": [
+        "29002004015|cavaliers"
+      ],
+      "meta": {
+        "id": "29002004.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020040061|יְרוּצוּ"
+      ],
+      "target": [
+        "29002004012|courent"
+      ],
+      "meta": {
+        "id": "29002004.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020040062|ן"
+      ],
+      "target": [
+        "29002004012|courent"
+      ],
+      "meta": {
+        "id": "29002004.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020050012|קוֹל"
+      ],
+      "target": [
+        "29002005003|entendre"
+      ],
+      "meta": {
+        "id": "29002005.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020050021|מַרְכָּבוֹת"
+      ],
+      "target": [
+        "29002005010|chars"
+      ],
+      "meta": {
+        "id": "29002005.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020050041|רָאשֵׁי"
+      ],
+      "target": [
+        "29002005013|sommet"
+      ],
+      "meta": {
+        "id": "29002005.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020050052|הָרִים"
+      ],
+      "target": [
+        "29002005015|montagnes"
+      ],
+      "meta": {
+        "id": "29002005.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020050061|יְרַקֵּדוּ"
+      ],
+      "target": [
+        "29002005018|bondissent"
+      ],
+      "meta": {
+        "id": "29002005.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020050062|ן"
+      ],
+      "target": [
+        "29002005018|bondissent"
+      ],
+      "meta": {
+        "id": "29002005.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020050072|קוֹל"
+      ],
+      "target": [
+        "29002005023|pétillement"
+      ],
+      "meta": {
+        "id": "29002005.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020050081|לַהַב"
+      ],
+      "target": [
+        "29002005026|flamme"
+      ],
+      "meta": {
+        "id": "29002005.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020050091|אֵשׁ"
+      ],
+      "target": [
+        "29002005028|feu"
+      ],
+      "meta": {
+        "id": "29002005.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020050101|אֹכְלָה"
+      ],
+      "target": [
+        "29002005032|consume"
+      ],
+      "meta": {
+        "id": "29002005.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020050111|קָשׁ"
+      ],
+      "target": [
+        "29002005034|chaume"
+      ],
+      "meta": {
+        "id": "29002005.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020050122|עַם"
+      ],
+      "target": [
+        "29002005040|armée"
+      ],
+      "meta": {
+        "id": "29002005.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020050131|עָצוּם"
+      ],
+      "target": [
+        "29002005041|puissante"
+      ],
+      "meta": {
+        "id": "29002005.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020050141|עֱרוּךְ"
+      ],
+      "target": [
+        "29002005044|prépare"
+      ],
+      "meta": {
+        "id": "29002005.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020050151|מִלְחָמָה"
+      ],
+      "target": [
+        "29002005046|combat"
+      ],
+      "meta": {
+        "id": "29002005.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020060012|פָּנָי"
+      ],
+      "target": [
+        "29002006001|Devant"
+      ],
+      "meta": {
+        "id": "29002006.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020060013|ו"
+      ],
+      "target": [
+        "29002006001|Devant"
+      ],
+      "meta": {
+        "id": "29002006.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020060021|יָחִילוּ"
+      ],
+      "target": [
+        "29002006005|tremblent"
+      ],
+      "meta": {
+        "id": "29002006.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020060031|עַמִּים"
+      ],
+      "target": [
+        "29002006004|peuples"
+      ],
+      "meta": {
+        "id": "29002006.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020060051|פָּנִים"
+      ],
+      "target": [
+        "29002006009|visages"
+      ],
+      "meta": {
+        "id": "29002006.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020060061|קִבְּצוּ"
+      ],
+      "target": [
+        "29002006010|pâlissent"
+      ],
+      "meta": {
+        "id": "29002006.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020070012|גִבּוֹרִים"
+      ],
+      "target": [
+        "29002007006|guerriers"
+      ],
+      "meta": {
+        "id": "29002007.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020070021|יְרֻצוּ"
+      ],
+      "target": [
+        "29002007003|élancent"
+      ],
+      "meta": {
+        "id": "29002007.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020070022|ן"
+      ],
+      "target": [
+        "29002007003|élancent"
+      ],
+      "meta": {
+        "id": "29002007.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020070032|אַנְשֵׁי"
+      ],
+      "target": [
+        "29002007018|Chacun"
+      ],
+      "meta": {
+        "id": "29002007.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020070041|מִלְחָמָה"
+      ],
+      "target": [
+        "29002007016|guerre"
+      ],
+      "meta": {
+        "id": "29002007.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020070051|יַעֲלוּ"
+      ],
+      "target": [
+        "29002007009|escaladent"
+      ],
+      "meta": {
+        "id": "29002007.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020070061|חוֹמָה"
+      ],
+      "target": [
+        "29002007011|murs"
+      ],
+      "meta": {
+        "id": "29002007.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020070082|דְרָכָי"
+      ],
+      "target": [
+        "29002007021|chemin"
+      ],
+      "meta": {
+        "id": "29002007.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020070083|ו"
+      ],
+      "target": [
+        "29002007021|chemin"
+      ],
+      "meta": {
+        "id": "29002007.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020070111|יְעַבְּטוּ"
+      ],
+      "target": [
+        "29002007025|écarter"
+      ],
+      "meta": {
+        "id": "29002007.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020070112|ן"
+      ],
+      "target": [
+        "29002007025|écarter"
+      ],
+      "meta": {
+        "id": "29002007.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020070121|אֹרְחוֹתָ"
+      ],
+      "target": [
+        "29002007028|route"
+      ],
+      "meta": {
+        "id": "29002007.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020070122|ם"
+      ],
+      "target": [
+        "29002007028|route"
+      ],
+      "meta": {
+        "id": "29002007.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020080012|אִישׁ"
+      ],
+      "target": [
+        "29002008007|uns"
+      ],
+      "meta": {
+        "id": "29002008.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020080021|אָחִי"
+      ],
+      "target": [
+        "29002008009|autres"
+      ],
+      "meta": {
+        "id": "29002008.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020080022|ו"
+      ],
+      "target": [
+        "29002008009|autres"
+      ],
+      "meta": {
+        "id": "29002008.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020080041|יִדְחָקוּ"
+      ],
+      "target": [
+        "29002008004|pressent"
+      ],
+      "meta": {
+        "id": "29002008.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020080042|ן"
+      ],
+      "target": [
+        "29002008004|pressent"
+      ],
+      "meta": {
+        "id": "29002008.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020080051|גֶּבֶר"
+      ],
+      "target": [
+        "29002008011|Chacun"
+      ],
+      "meta": {
+        "id": "29002008.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020080062|מְסִלָּת"
+      ],
+      "target": [
+        "29002008014|rang"
+      ],
+      "meta": {
+        "id": "29002008.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020080063|וֹ"
+      ],
+      "target": [
+        "29002008014|rang"
+      ],
+      "meta": {
+        "id": "29002008.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020080092|שֶּׁלַח"
+      ],
+      "target": [
+        "29002008022|traits"
+      ],
+      "meta": {
+        "id": "29002008.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020080101|יִפֹּלוּ"
+      ],
+      "target": [
+        "29002008018|précipitent"
+      ],
+      "meta": {
+        "id": "29002008.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020080121|יִבְצָעוּ"
+      ],
+      "target": [
+        "29002008026|marche"
+      ],
+      "meta": {
+        "id": "29002008.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020090012|עִיר"
+      ],
+      "target": [
+        "29002009006|ville"
+      ],
+      "meta": {
+        "id": "29002009.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020090021|יָשֹׁקּוּ"
+      ],
+      "target": [
+        "29002009003|répandent"
+      ],
+      "meta": {
+        "id": "29002009.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020090032|חוֹמָה"
+      ],
+      "target": [
+        "29002009011|murailles"
+      ],
+      "meta": {
+        "id": "29002009.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020090041|יְרֻצוּ"
+      ],
+      "target": [
+        "29002009008|Courent"
+      ],
+      "meta": {
+        "id": "29002009.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020090042|ן"
+      ],
+      "target": [
+        "29002009008|Courent"
+      ],
+      "meta": {
+        "id": "29002009.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020090052|בָּתִּים"
+      ],
+      "target": [
+        "29002009016|maisons"
+      ],
+      "meta": {
+        "id": "29002009.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020090061|יַעֲלוּ"
+      ],
+      "target": [
+        "29002009013|Montent"
+      ],
+      "meta": {
+        "id": "29002009.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020090082|חַלּוֹנִים"
+      ],
+      "target": [
+        "29002009021|fenêtres"
+      ],
+      "meta": {
+        "id": "29002009.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020090091|יָבֹאוּ"
+      ],
+      "target": [
+        "29002009018|Entrent"
+      ],
+      "meta": {
+        "id": "29002009.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020090102|גַּנָּב"
+      ],
+      "target": [
+        "29002009024|voleur"
+      ],
+      "meta": {
+        "id": "29002009.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020100012|פָנָי"
+      ],
+      "target": [
+        "29002010001|Devant"
+      ],
+      "meta": {
+        "id": "29002010.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020100013|ו"
+      ],
+      "target": [
+        "29002010001|Devant"
+      ],
+      "meta": {
+        "id": "29002010.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020100021|רָגְזָה"
+      ],
+      "target": [
+        "29002010005|tremble"
+      ],
+      "meta": {
+        "id": "29002010.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020100031|אֶרֶץ"
+      ],
+      "target": [
+        "29002010004|terre"
+      ],
+      "meta": {
+        "id": "29002010.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020100041|רָעֲשׁוּ"
+      ],
+      "target": [
+        "29002010010|ébranlés"
+      ],
+      "meta": {
+        "id": "29002010.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020100051|שָׁמָיִם"
+      ],
+      "target": [
+        "29002010008|cieux"
+      ],
+      "meta": {
+        "id": "29002010.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020100061|שֶׁמֶשׁ"
+      ],
+      "target": [
+        "29002010013|soleil"
+      ],
+      "meta": {
+        "id": "29002010.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020100072|יָרֵחַ"
+      ],
+      "target": [
+        "29002010016|lune"
+      ],
+      "meta": {
+        "id": "29002010.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020100081|קָדָרוּ"
+      ],
+      "target": [
+        "29002010018|obscurcissent"
+      ],
+      "meta": {
+        "id": "29002010.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020100092|כוֹכָבִים"
+      ],
+      "target": [
+        "29002010022|étoiles"
+      ],
+      "meta": {
+        "id": "29002010.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020100101|אָסְפוּ"
+      ],
+      "target": [
+        "29002010023|retirent"
+      ],
+      "meta": {
+        "id": "29002010.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020100111|נָגְהָ"
+      ],
+      "target": [
+        "29002010025|éclat"
+      ],
+      "meta": {
+        "id": "29002010.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020100112|ם"
+      ],
+      "target": [
+        "29002010025|éclat"
+      ],
+      "meta": {
+        "id": "29002010.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020110012|יהוָה"
+      ],
+      "target": [
+        "29002011002|Éternel"
+      ],
+      "meta": {
+        "id": "29002011.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020110021|נָתַן"
+      ],
+      "target": [
+        "29002011004|entendre"
+      ],
+      "meta": {
+        "id": "29002011.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020110031|קוֹל"
+      ],
+      "target": [
+        "29002011006|voix"
+      ],
+      "meta": {
+        "id": "29002011.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020110032|וֹ"
+      ],
+      "target": [
+        "29002011006|voix"
+      ],
+      "meta": {
+        "id": "29002011.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020110042|פְנֵי"
+      ],
+      "target": [
+        "29002011007|devant"
+      ],
+      "meta": {
+        "id": "29002011.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020110051|חֵיל"
+      ],
+      "target": [
+        "29002011009|armée"
+      ],
+      "meta": {
+        "id": "29002011.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020110052|וֹ"
+      ],
+      "target": [
+        "29002011009|armée"
+      ],
+      "meta": {
+        "id": "29002011.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020110071|רַב"
+      ],
+      "target": [
+        "29002011017|Et"
+      ],
+      "meta": {
+        "id": "29002011.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020110081|מְאֹד"
+      ],
+      "target": [
+        "29002011015|immense"
+      ],
+      "meta": {
+        "id": "29002011.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020110091|מַחֲנֵ"
+      ],
+      "target": [
+        "29002011013|camp"
+      ],
+      "meta": {
+        "id": "29002011.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020110092|הוּ"
+      ],
+      "target": [
+        "29002011013|camp"
+      ],
+      "meta": {
+        "id": "29002011.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020110111|עָצוּם"
+      ],
+      "target": [
+        "29002011024|puissant"
+      ],
+      "meta": {
+        "id": "29002011.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020110121|עֹשֵׂה"
+      ],
+      "target": [
+        "29002011019|exécuteur"
+      ],
+      "meta": {
+        "id": "29002011.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020110131|דְבָר"
+      ],
+      "target": [
+        "29002011022|parole"
+      ],
+      "meta": {
+        "id": "29002011.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020110132|וֹ"
+      ],
+      "target": [
+        "29002011022|parole"
+      ],
+      "meta": {
+        "id": "29002011.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020110151|גָדוֹל"
+      ],
+      "target": [
+        "29002011033|grand"
+      ],
+      "meta": {
+        "id": "29002011.16",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020110161|יוֹם"
+      ],
+      "target": [
+        "29002011028|jour"
+      ],
+      "meta": {
+        "id": "29002011.17",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020110171|יְהוָה"
+      ],
+      "target": [
+        "29002011031|Éternel"
+      ],
+      "meta": {
+        "id": "29002011.18",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020110182|נוֹרָא"
+      ],
+      "target": [
+        "29002011039|Qui",
+        "29002011040|pourra",
+        "29002011041|le"
+      ],
+      "meta": {
+        "id": "29002011.19",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020110191|מְאֹד"
+      ],
+      "target": [
+        "29002011037|terrible"
+      ],
+      "meta": {
+        "id": "29002011.20",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020110211|יְכִילֶ"
+      ],
+      "target": [
+        "29002011042|soutenir"
+      ],
+      "meta": {
+        "id": "29002011.21",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020110212|נּוּ"
+      ],
+      "target": [
+        "29002011042|soutenir"
+      ],
+      "meta": {
+        "id": "29002011.22",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020120031|נְאֻם"
+      ],
+      "target": [
+        "29002012004|dit"
+      ],
+      "meta": {
+        "id": "29002012.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020120041|יְהוָה"
+      ],
+      "target": [
+        "29002012006|Éternel"
+      ],
+      "meta": {
+        "id": "29002012.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020120051|שֻׁבוּ"
+      ],
+      "target": [
+        "29002012008|Revenez"
+      ],
+      "meta": {
+        "id": "29002012.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020120081|לְבַבְ"
+      ],
+      "target": [
+        "29002012014|cœur"
+      ],
+      "meta": {
+        "id": "29002012.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020120082|כֶם"
+      ],
+      "target": [
+        "29002012014|cœur"
+      ],
+      "meta": {
+        "id": "29002012.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020120093|צוֹם"
+      ],
+      "target": [
+        "29002012018|jeûnes"
+      ],
+      "meta": {
+        "id": "29002012.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020120103|בְכִי"
+      ],
+      "target": [
+        "29002012022|pleurs"
+      ],
+      "meta": {
+        "id": "29002012.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020120113|מִסְפֵּד"
+      ],
+      "target": [
+        "29002012025|lamentations"
+      ],
+      "meta": {
+        "id": "29002012.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020130012|קִרְעוּ"
+      ],
+      "target": [
+        "29002013001|Déchirez"
+      ],
+      "meta": {
+        "id": "29002013.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020130021|לְבַבְ"
+      ],
+      "target": [
+        "29002013003|cœurs"
+      ],
+      "meta": {
+        "id": "29002013.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020130022|כֶם"
+      ],
+      "target": [
+        "29002013003|cœurs"
+      ],
+      "meta": {
+        "id": "29002013.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020130041|בִּגְדֵי"
+      ],
+      "target": [
+        "29002013007|vêtements"
+      ],
+      "meta": {
+        "id": "29002013.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020130042|כֶם"
+      ],
+      "target": [
+        "29002013007|vêtements"
+      ],
+      "meta": {
+        "id": "29002013.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020130052|שׁוּבוּ"
+      ],
+      "target": [
+        "29002013010|revenez"
+      ],
+      "meta": {
+        "id": "29002013.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020130071|יְהוָה"
+      ],
+      "target": [
+        "29002013013|Éternel"
+      ],
+      "meta": {
+        "id": "29002013.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020130081|אֱלֹהֵי"
+      ],
+      "target": [
+        "29002013016|Dieu"
+      ],
+      "meta": {
+        "id": "29002013.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020130082|כֶם"
+      ],
+      "target": [
+        "29002013016|Dieu"
+      ],
+      "meta": {
+        "id": "29002013.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020130101|חַנּוּן"
+      ],
+      "target": [
+        "29002013021|compatissant"
+      ],
+      "meta": {
+        "id": "29002013.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020130112|רַחוּם"
+      ],
+      "target": [
+        "29002013023|miséricordieux"
+      ],
+      "meta": {
+        "id": "29002013.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020130131|אֶרֶךְ"
+      ],
+      "target": [
+        "29002013025|Lent"
+      ],
+      "meta": {
+        "id": "29002013.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020130141|אַפַּיִם"
+      ],
+      "target": [
+        "29002013028|colère"
+      ],
+      "meta": {
+        "id": "29002013.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020130152|רַב"
+      ],
+      "target": [
+        "29002013030|riche"
+      ],
+      "meta": {
+        "id": "29002013.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020130161|חֶסֶד"
+      ],
+      "target": [
+        "29002013032|bonté"
+      ],
+      "meta": {
+        "id": "29002013.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020130172|נִחָם"
+      ],
+      "target": [
+        "29002013037|repent"
+      ],
+      "meta": {
+        "id": "29002013.16",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020130192|רָעָה"
+      ],
+      "target": [
+        "29002013039|maux"
+      ],
+      "meta": {
+        "id": "29002013.17",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020140021|יוֹדֵעַ"
+      ],
+      "target": [
+        "29002014002|sait"
+      ],
+      "meta": {
+        "id": "29002014.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020140031|יָשׁוּב"
+      ],
+      "target": [
+        "29002014006|reviendra"
+      ],
+      "meta": {
+        "id": "29002014.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020140042|נִחָם"
+      ],
+      "target": [
+        "29002014011|repentira"
+      ],
+      "meta": {
+        "id": "29002014.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020140052|הִשְׁאִיר"
+      ],
+      "target": [
+        "29002014018|laissera"
+      ],
+      "meta": {
+        "id": "29002014.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020140061|אַחֲרָי"
+      ],
+      "target": [
+        "29002014020|après"
+      ],
+      "meta": {
+        "id": "29002014.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020140062|ו"
+      ],
+      "target": [
+        "29002014020|après"
+      ],
+      "meta": {
+        "id": "29002014.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020140071|בְּרָכָה"
+      ],
+      "target": [
+        "29002014023|bénédiction"
+      ],
+      "meta": {
+        "id": "29002014.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020140081|מִנְחָה"
+      ],
+      "target": [
+        "29002014026|offrandes"
+      ],
+      "meta": {
+        "id": "29002014.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020140092|נֶסֶךְ"
+      ],
+      "target": [
+        "29002014029|libations"
+      ],
+      "meta": {
+        "id": "29002014.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020140102|יהוָה"
+      ],
+      "target": [
+        "29002014032|Éternel"
+      ],
+      "meta": {
+        "id": "29002014.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020140111|אֱלֹהֵי"
+      ],
+      "target": [
+        "29002014035|Dieu"
+      ],
+      "meta": {
+        "id": "29002014.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020140112|כֶם"
+      ],
+      "target": [
+        "29002014035|Dieu"
+      ],
+      "meta": {
+        "id": "29002014.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020150011|תִּקְעוּ"
+      ],
+      "target": [
+        "29002015001|Sonnez"
+      ],
+      "meta": {
+        "id": "29002015.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020150021|שׁוֹפָר"
+      ],
+      "target": [
+        "29002015004|trompette"
+      ],
+      "meta": {
+        "id": "29002015.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020150032|צִיּוֹן"
+      ],
+      "target": [
+        "29002015006|Sion"
+      ],
+      "meta": {
+        "id": "29002015.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020150041|קַדְּשׁוּ"
+      ],
+      "target": [
+        "29002015008|Publiez"
+      ],
+      "meta": {
+        "id": "29002015.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020150051|צוֹם"
+      ],
+      "target": [
+        "29002015010|jeûne"
+      ],
+      "meta": {
+        "id": "29002015.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020150061|קִרְאוּ"
+      ],
+      "target": [
+        "29002015012|une"
+      ],
+      "meta": {
+        "id": "29002015.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020150071|עֲצָרָה"
+      ],
+      "target": [
+        "29002015013|convocation"
+      ],
+      "meta": {
+        "id": "29002015.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020160011|אִסְפוּ"
+      ],
+      "target": [
+        "29002016001|Assemblez"
+      ],
+      "meta": {
+        "id": "29002016.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020160021|עָם"
+      ],
+      "target": [
+        "29002016003|peuple"
+      ],
+      "meta": {
+        "id": "29002016.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020160031|קַדְּשׁוּ"
+      ],
+      "target": [
+        "29002016007|sainte"
+      ],
+      "meta": {
+        "id": "29002016.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020160041|קָהָל"
+      ],
+      "target": [
+        "29002016008|réunion"
+      ],
+      "meta": {
+        "id": "29002016.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020160051|קִבְצוּ"
+      ],
+      "target": [
+        "29002016010|Assemblez"
+      ],
+      "meta": {
+        "id": "29002016.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020160061|זְקֵנִים"
+      ],
+      "target": [
+        "29002016012|vieillards"
+      ],
+      "meta": {
+        "id": "29002016.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020160071|אִסְפוּ"
+      ],
+      "target": [
+        "29002016014|Assemblez"
+      ],
+      "meta": {
+        "id": "29002016.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020160081|עוֹלָלִים"
+      ],
+      "target": [
+        "29002016016|enfants"
+      ],
+      "meta": {
+        "id": "29002016.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020160092|יֹנְקֵי"
+      ],
+      "target": [
+        "29002016020|nourrissons"
+      ],
+      "meta": {
+        "id": "29002016.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020160101|שָׁדָיִם"
+      ],
+      "target": [
+        "29002016023|mamelle"
+      ],
+      "meta": {
+        "id": "29002016.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020160111|יֵצֵא"
+      ],
+      "target": [
+        "29002016028|sorte"
+      ],
+      "meta": {
+        "id": "29002016.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020160121|חָתָן"
+      ],
+      "target": [
+        "29002016027|époux"
+      ],
+      "meta": {
+        "id": "29002016.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020160132|חֶדְר"
+      ],
+      "target": [
+        "29002016031|demeure"
+      ],
+      "meta": {
+        "id": "29002016.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020160133|וֹ"
+      ],
+      "target": [
+        "29002016031|demeure"
+      ],
+      "meta": {
+        "id": "29002016.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020160142|כַלָּה"
+      ],
+      "target": [
+        "29002016035|épouse"
+      ],
+      "meta": {
+        "id": "29002016.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020160152|חֻפָּתָ"
+      ],
+      "target": [
+        "29002016038|chambre"
+      ],
+      "meta": {
+        "id": "29002016.16",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020160153|הּ"
+      ],
+      "target": [
+        "29002016038|chambre"
+      ],
+      "meta": {
+        "id": "29002016.17",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020170033|מִּזְבֵּחַ"
+      ],
+      "target": [
+        "29002017007|autel"
+      ],
+      "meta": {
+        "id": "29002017.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020170041|יִבְכּוּ"
+      ],
+      "target": [
+        "29002017008|Pleurent"
+      ],
+      "meta": {
+        "id": "29002017.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020170052|כֹּהֲנִים"
+      ],
+      "target": [
+        "29002017010|sacrificateurs"
+      ],
+      "meta": {
+        "id": "29002017.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020170061|מְשָׁרְתֵי"
+      ],
+      "target": [
+        "29002017012|Serviteurs"
+      ],
+      "meta": {
+        "id": "29002017.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020170071|יְהוָה"
+      ],
+      "target": [
+        "29002017015|Éternel"
+      ],
+      "meta": {
+        "id": "29002017.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020170082|יֹאמְרוּ"
+      ],
+      "target": [
+        "29002017020|disent"
+      ],
+      "meta": {
+        "id": "29002017.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020170091|חוּסָ"
+      ],
+      "target": [
+        "29002017024|épargne"
+      ],
+      "meta": {
+        "id": "29002017.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020170092|ה"
+      ],
+      "target": [
+        "29002017024|épargne"
+      ],
+      "meta": {
+        "id": "29002017.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020170101|יְהוָה"
+      ],
+      "target": [
+        "29002017022|Éternel"
+      ],
+      "meta": {
+        "id": "29002017.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020170121|עַמֶּ"
+      ],
+      "target": [
+        "29002017026|peuple"
+      ],
+      "meta": {
+        "id": "29002017.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020170122|ךָ"
+      ],
+      "target": [
+        "29002017026|peuple"
+      ],
+      "meta": {
+        "id": "29002017.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020170141|תִּתֵּן"
+      ],
+      "target": [
+        "29002017029|livre"
+      ],
+      "meta": {
+        "id": "29002017.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020170151|נַחֲלָתְ"
+      ],
+      "target": [
+        "29002017032|héritage"
+      ],
+      "meta": {
+        "id": "29002017.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020170162|חֶרְפָּה"
+      ],
+      "target": [
+        "29002017035|opprobre"
+      ],
+      "meta": {
+        "id": "29002017.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020170172|מְשָׁל"
+      ],
+      "target": [
+        "29002017038|railleries"
+      ],
+      "meta": {
+        "id": "29002017.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020170191|גּוֹיִם"
+      ],
+      "target": [
+        "29002017040|nations"
+      ],
+      "meta": {
+        "id": "29002017.16",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020170222|עַמִּים"
+      ],
+      "target": [
+        "29002017046|peuples"
+      ],
+      "meta": {
+        "id": "29002017.18",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020170241|אֱלֹהֵי"
+      ],
+      "target": [
+        "29002017051|Dieu"
+      ],
+      "meta": {
+        "id": "29002017.19",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020170242|הֶם"
+      ],
+      "target": [
+        "29002017051|Dieu"
+      ],
+      "meta": {
+        "id": "29002017.20",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020180012|יְקַנֵּא"
+      ],
+      "target": [
+        "29002018006|jalousie"
+      ],
+      "meta": {
+        "id": "29002018.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020180021|יְהוָה"
+      ],
+      "target": [
+        "29002018002|Éternel"
+      ],
+      "meta": {
+        "id": "29002018.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020180032|אַרְצ"
+      ],
+      "target": [
+        "29002018009|pays"
+      ],
+      "meta": {
+        "id": "29002018.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020180033|וֹ"
+      ],
+      "target": [
+        "29002018009|pays"
+      ],
+      "meta": {
+        "id": "29002018.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020180042|יַּחְמֹל"
+      ],
+      "target": [
+        "29002018013|épargne"
+      ],
+      "meta": {
+        "id": "29002018.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020180061|עַמּ"
+      ],
+      "target": [
+        "29002018015|peuple"
+      ],
+      "meta": {
+        "id": "29002018.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020180062|וֹ"
+      ],
+      "target": [
+        "29002018015|peuple"
+      ],
+      "meta": {
+        "id": "29002018.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020190012|יַּעַן"
+      ],
+      "target": [
+        "29002019003|répond"
+      ],
+      "meta": {
+        "id": "29002019.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020190021|יְהוָה"
+      ],
+      "target": [
+        "29002019002|Éternel"
+      ],
+      "meta": {
+        "id": "29002019.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020190032|יֹּאמֶר"
+      ],
+      "target": [
+        "29002019006|dit"
+      ],
+      "meta": {
+        "id": "29002019.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020190042|עַמּ"
+      ],
+      "target": [
+        "29002019009|peuple"
+      ],
+      "meta": {
+        "id": "29002019.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020190043|וֹ"
+      ],
+      "target": [
+        "29002019009|peuple"
+      ],
+      "meta": {
+        "id": "29002019.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020190061|שֹׁלֵחַ"
+      ],
+      "target": [
+        "29002019015|enverrai"
+      ],
+      "meta": {
+        "id": "29002019.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020190092|דָּגָן"
+      ],
+      "target": [
+        "29002019017|blé"
+      ],
+      "meta": {
+        "id": "29002019.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020190103|תִּירוֹשׁ"
+      ],
+      "target": [
+        "29002019020|moût"
+      ],
+      "meta": {
+        "id": "29002019.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020190113|יִּצְהָר"
+      ],
+      "target": [
+        "29002019024|huile"
+      ],
+      "meta": {
+        "id": "29002019.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020190122|שְׂבַעְתֶּם"
+      ],
+      "target": [
+        "29002019030|rassasiés"
+      ],
+      "meta": {
+        "id": "29002019.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020190151|אֶתֵּן"
+      ],
+      "target": [
+        "29002019036|livrerai"
+      ],
+      "meta": {
+        "id": "29002019.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020190181|חֶרְפָּה"
+      ],
+      "target": [
+        "29002019040|opprobre"
+      ],
+      "meta": {
+        "id": "29002019.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020190192|גּוֹיִם"
+      ],
+      "target": [
+        "29002019043|nations"
+      ],
+      "meta": {
+        "id": "29002019.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020200022|צְּפוֹנִי"
+      ],
+      "target": [
+        "29002020008|nord"
+      ],
+      "meta": {
+        "id": "29002020.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020200031|אַרְחִיק"
+      ],
+      "target": [
+        "29002020002|éloignerai"
+      ],
+      "meta": {
+        "id": "29002020.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020200052|הִדַּחְתִּי"
+      ],
+      "target": [
+        "29002020012|chasserai"
+      ],
+      "meta": {
+        "id": "29002020.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020200053|ו"
+      ],
+      "target": [
+        "29002020012|chasserai"
+      ],
+      "meta": {
+        "id": "29002020.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020200071|אֶרֶץ"
+      ],
+      "target": [
+        "29002020015|terre"
+      ],
+      "meta": {
+        "id": "29002020.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020200081|צִיָּה"
+      ],
+      "target": [
+        "29002020016|aride"
+      ],
+      "meta": {
+        "id": "29002020.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020200092|שְׁמָמָה"
+      ],
+      "target": [
+        "29002020018|déserte"
+      ],
+      "meta": {
+        "id": "29002020.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020200132|יָּם"
+      ],
+      "target": [
+        "29002020024|mer"
+      ],
+      "meta": {
+        "id": "29002020.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020200142|קַּדְמֹנִי"
+      ],
+      "target": [
+        "29002020025|orientale"
+      ],
+      "meta": {
+        "id": "29002020.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020200172|יָּם"
+      ],
+      "target": [
+        "29002020031|mer"
+      ],
+      "meta": {
+        "id": "29002020.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020200182|אַחֲרוֹן"
+      ],
+      "target": [
+        "29002020032|occidentale"
+      ],
+      "meta": {
+        "id": "29002020.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020200192|עָלָה"
+      ],
+      "target": [
+        "29002020038|répandra"
+      ],
+      "meta": {
+        "id": "29002020.16",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020200201|בָאְשׁ"
+      ],
+      "target": [
+        "29002020036|infection"
+      ],
+      "meta": {
+        "id": "29002020.17",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020200202|וֹ"
+      ],
+      "target": [
+        "29002020036|infection"
+      ],
+      "meta": {
+        "id": "29002020.18",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020200212|תַעַל"
+      ],
+      "target": [
+        "29002020043|élèvera"
+      ],
+      "meta": {
+        "id": "29002020.19",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020200221|צַחֲנָת"
+      ],
+      "target": [
+        "29002020041|puanteur"
+      ],
+      "meta": {
+        "id": "29002020.20",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020200222|וֹ"
+      ],
+      "target": [
+        "29002020041|puanteur"
+      ],
+      "meta": {
+        "id": "29002020.21",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020200241|הִגְדִּיל"
+      ],
+      "target": [
+        "29002020055|choses"
+      ],
+      "meta": {
+        "id": "29002020.22",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020200252|עֲשׂוֹת"
+      ],
+      "target": [
+        "29002020052|fait"
+      ],
+      "meta": {
+        "id": "29002020.23",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020210021|תִּירְאִי"
+      ],
+      "target": [
+        "29002021004|crains"
+      ],
+      "meta": {
+        "id": "29002021.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020210031|אֲדָמָה"
+      ],
+      "target": [
+        "29002021001|Terre"
+      ],
+      "meta": {
+        "id": "29002021.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020210041|גִּילִי"
+      ],
+      "target": [
+        "29002021010|allégresse"
+      ],
+      "meta": {
+        "id": "29002021.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020210071|הִגְדִּיל"
+      ],
+      "target": [
+        "29002021020|choses"
+      ],
+      "meta": {
+        "id": "29002021.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020210081|יְהוָה"
+      ],
+      "target": [
+        "29002021016|Éternel"
+      ],
+      "meta": {
+        "id": "29002021.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020210092|עֲשׂוֹת"
+      ],
+      "target": [
+        "29002021017|fait"
+      ],
+      "meta": {
+        "id": "29002021.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020220021|תִּירְאוּ"
+      ],
+      "target": [
+        "29002022006|craignez"
+      ],
+      "meta": {
+        "id": "29002022.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020220031|בַּהֲמוֹת"
+      ],
+      "target": [
+        "29002022001|Bêtes"
+      ],
+      "meta": {
+        "id": "29002022.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020220041|שָׂדַי"
+      ],
+      "target": [
+        "29002022003|champs"
+      ],
+      "meta": {
+        "id": "29002022.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020220061|דָשְׁאוּ"
+      ],
+      "target": [
+        "29002022014|reverdiront"
+      ],
+      "meta": {
+        "id": "29002022.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020220071|נְאוֹת"
+      ],
+      "target": [
+        "29002022011|plaines"
+      ],
+      "meta": {
+        "id": "29002022.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020220081|מִדְבָּר"
+      ],
+      "target": [
+        "29002022013|désert"
+      ],
+      "meta": {
+        "id": "29002022.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020220101|עֵץ"
+      ],
+      "target": [
+        "29002022018|arbres"
+      ],
+      "meta": {
+        "id": "29002022.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020220111|נָשָׂא"
+      ],
+      "target": [
+        "29002022019|porteront"
+      ],
+      "meta": {
+        "id": "29002022.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020220121|פִרְי"
+      ],
+      "target": [
+        "29002022021|fruits"
+      ],
+      "meta": {
+        "id": "29002022.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020220122|וֹ"
+      ],
+      "target": [
+        "29002022021|fruits"
+      ],
+      "meta": {
+        "id": "29002022.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020220131|תְּאֵנָה"
+      ],
+      "target": [
+        "29002022024|figuier"
+      ],
+      "meta": {
+        "id": "29002022.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020220142|גֶפֶן"
+      ],
+      "target": [
+        "29002022027|vigne"
+      ],
+      "meta": {
+        "id": "29002022.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020220151|נָתְנוּ"
+      ],
+      "target": [
+        "29002022028|donneront"
+      ],
+      "meta": {
+        "id": "29002022.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020220161|חֵילָ"
+      ],
+      "target": [
+        "29002022030|richesses"
+      ],
+      "meta": {
+        "id": "29002022.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020220162|ם"
+      ],
+      "target": [
+        "29002022030|richesses"
+      ],
+      "meta": {
+        "id": "29002022.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020230012|בְנֵי"
+      ],
+      "target": [
+        "29002023004|enfants"
+      ],
+      "meta": {
+        "id": "29002023.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020230021|צִיּוֹן"
+      ],
+      "target": [
+        "29002023006|Sion"
+      ],
+      "meta": {
+        "id": "29002023.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020230031|גִּילוּ"
+      ],
+      "target": [
+        "29002023011|allégresse"
+      ],
+      "meta": {
+        "id": "29002023.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020230052|יהוָה"
+      ],
+      "target": [
+        "29002023016|Éternel"
+      ],
+      "meta": {
+        "id": "29002023.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020230061|אֱלֹהֵי"
+      ],
+      "target": [
+        "29002023019|Dieu"
+      ],
+      "meta": {
+        "id": "29002023.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020230062|כֶם"
+      ],
+      "target": [
+        "29002023019|Dieu"
+      ],
+      "meta": {
+        "id": "29002023.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020230081|נָתַן"
+      ],
+      "target": [
+        "29002023024|donnera"
+      ],
+      "meta": {
+        "id": "29002023.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020230112|מּוֹרֶה"
+      ],
+      "target": [
+        "29002023026|pluie"
+      ],
+      "meta": {
+        "id": "29002023.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020230122|צְדָקָה"
+      ],
+      "target": [
+        "29002023029|temps"
+      ],
+      "meta": {
+        "id": "29002023.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020230132|יּוֹרֶד"
+      ],
+      "target": [
+        "29002023033|enverra"
+      ],
+      "meta": {
+        "id": "29002023.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020230151|גֶּשֶׁם"
+      ],
+      "target": [
+        "29002023035|pluie"
+      ],
+      "meta": {
+        "id": "29002023.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020230161|מוֹרֶה"
+      ],
+      "target": [
+        "29002023038|première"
+      ],
+      "meta": {
+        "id": "29002023.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020230182|רִאשׁוֹן"
+      ],
+      "target": [
+        "29002023045|autrefois"
+      ],
+      "meta": {
+        "id": "29002023.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020240012|מָלְאוּ"
+      ],
+      "target": [
+        "29002024004|rempliront"
+      ],
+      "meta": {
+        "id": "29002024.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020240022|גֳּרָנוֹת"
+      ],
+      "target": [
+        "29002024002|aires"
+      ],
+      "meta": {
+        "id": "29002024.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020240031|בָּר"
+      ],
+      "target": [
+        "29002024006|blé"
+      ],
+      "meta": {
+        "id": "29002024.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020240042|הֵשִׁיקוּ"
+      ],
+      "target": [
+        "29002024011|regorgeront"
+      ],
+      "meta": {
+        "id": "29002024.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020240052|יְקָבִים"
+      ],
+      "target": [
+        "29002024010|cuves"
+      ],
+      "meta": {
+        "id": "29002024.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020240061|תִּירוֹשׁ"
+      ],
+      "target": [
+        "29002024013|moût"
+      ],
+      "meta": {
+        "id": "29002024.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020240072|יִצְהָר"
+      ],
+      "target": [
+        "29002024016|huile"
+      ],
+      "meta": {
+        "id": "29002024.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020250012|שִׁלַּמְתִּי"
+      ],
+      "target": [
+        "29002025003|remplacerai"
+      ],
+      "meta": {
+        "id": "29002025.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020250042|שָּׁנִים"
+      ],
+      "target": [
+        "29002025005|années"
+      ],
+      "meta": {
+        "id": "29002025.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020250061|אָכַל"
+      ],
+      "target": [
+        "29002025008|dévorées"
+      ],
+      "meta": {
+        "id": "29002025.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020250072|אַרְבֶּה"
+      ],
+      "target": [
+        "29002025010|sauterelle"
+      ],
+      "meta": {
+        "id": "29002025.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020250082|יֶּלֶק"
+      ],
+      "target": [
+        "29002025013|jélek"
+      ],
+      "meta": {
+        "id": "29002025.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020250093|חָסִיל"
+      ],
+      "target": [
+        "29002025016|hasil"
+      ],
+      "meta": {
+        "id": "29002025.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020250103|גָּזָם"
+      ],
+      "target": [
+        "29002025019|gazam"
+      ],
+      "meta": {
+        "id": "29002025.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020250111|חֵילִ"
+      ],
+      "target": [
+        "29002025023|armée"
+      ],
+      "meta": {
+        "id": "29002025.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020250112|י"
+      ],
+      "target": [
+        "29002025023|armée"
+      ],
+      "meta": {
+        "id": "29002025.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020250122|גָּדוֹל"
+      ],
+      "target": [
+        "29002025022|grande"
+      ],
+      "meta": {
+        "id": "29002025.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020250141|שִׁלַּחְתִּי"
+      ],
+      "target": [
+        "29002025027|envoyée"
+      ],
+      "meta": {
+        "id": "29002025.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020260012|אֲכַלְתֶּם"
+      ],
+      "target": [
+        "29002026002|mangerez"
+      ],
+      "meta": {
+        "id": "29002026.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020260021|אָכוֹל"
+      ],
+      "target": [
+        "29002026003|et",
+        "29002026004|vous",
+        "29002026005|vous"
+      ],
+      "meta": {
+        "id": "29002026.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020260032|שָׂבוֹעַ"
+      ],
+      "target": [
+        "29002026006|rassasierez"
+      ],
+      "meta": {
+        "id": "29002026.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020260042|הִלַּלְתֶּם"
+      ],
+      "target": [
+        "29002026010|célébrerez"
+      ],
+      "meta": {
+        "id": "29002026.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020260061|שֵׁם"
+      ],
+      "target": [
+        "29002026012|nom"
+      ],
+      "meta": {
+        "id": "29002026.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020260071|יְהוָה"
+      ],
+      "target": [
+        "29002026015|Éternel"
+      ],
+      "meta": {
+        "id": "29002026.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020260081|אֱלֹהֵי"
+      ],
+      "target": [
+        "29002026018|Dieu"
+      ],
+      "meta": {
+        "id": "29002026.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020260082|כֶם"
+      ],
+      "target": [
+        "29002026018|Dieu"
+      ],
+      "meta": {
+        "id": "29002026.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020260101|עָשָׂה"
+      ],
+      "target": [
+        "29002026022|fait"
+      ],
+      "meta": {
+        "id": "29002026.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020260122|הַפְלִיא"
+      ],
+      "target": [
+        "29002026026|prodiges"
+      ],
+      "meta": {
+        "id": "29002026.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020260141|יֵבֹשׁוּ"
+      ],
+      "target": [
+        "29002026037|confusion"
+      ],
+      "meta": {
+        "id": "29002026.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020260151|עַמִּ"
+      ],
+      "target": [
+        "29002026030|peuple"
+      ],
+      "meta": {
+        "id": "29002026.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020260152|י"
+      ],
+      "target": [
+        "29002026030|peuple"
+      ],
+      "meta": {
+        "id": "29002026.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020260162|עוֹלָם"
+      ],
+      "target": [
+        "29002026034|jamais"
+      ],
+      "meta": {
+        "id": "29002026.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020270012|ידַעְתֶּם"
+      ],
+      "target": [
+        "29002027003|saurez"
+      ],
+      "meta": {
+        "id": "29002027.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020270032|קֶרֶב"
+      ],
+      "target": [
+        "29002027008|milieu"
+      ],
+      "meta": {
+        "id": "29002027.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020270041|יִשְׂרָאֵל"
+      ],
+      "target": [
+        "29002027010|Israël"
+      ],
+      "meta": {
+        "id": "29002027.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020270071|יְהוָה"
+      ],
+      "target": [
+        "29002027016|Éternel"
+      ],
+      "meta": {
+        "id": "29002027.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020270081|אֱלֹהֵי"
+      ],
+      "target": [
+        "29002027019|Dieu"
+      ],
+      "meta": {
+        "id": "29002027.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020270082|כֶם"
+      ],
+      "target": [
+        "29002027019|Dieu"
+      ],
+      "meta": {
+        "id": "29002027.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020270121|יֵבֹשׁוּ"
+      ],
+      "target": [
+        "29002027041|confusion"
+      ],
+      "meta": {
+        "id": "29002027.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020270131|עַמִּ"
+      ],
+      "target": [
+        "29002027034|peuple"
+      ],
+      "meta": {
+        "id": "29002027.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020270132|י"
+      ],
+      "target": [
+        "29002027034|peuple"
+      ],
+      "meta": {
+        "id": "29002027.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "o290020270142|עוֹלָם"
+      ],
+      "target": [
+        "29002027038|jamais"
+      ],
+      "meta": {
+        "id": "29002027.10",
+        "process": "manual"
+      }
+    }
+  ]
+}

@@ -1,0 +1,10625 @@
+{
+  "documents": [
+    {
+      "docid": "SBLGNT",
+      "scheme": "BCVWP|token-string"
+    },
+    {
+      "docid": "LSG",
+      "scheme": "BCVWP|token-string"
+    }
+  ],
+  "meta": {
+    "conformsTo": "0.3",
+    "creator": "Mission Mutual"
+  },
+  "roles": [
+    "source",
+    "target"
+  ],
+  "type": "translation",
+  "records": [
+    {
+      "source": [
+        "n61001001001|Συμεὼν"
+      ],
+      "target": [
+        "61001001001|Simon",
+        "61001001002|Pierre"
+      ],
+      "meta": {
+        "id": "61001001.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001001002|Πέτρος"
+      ],
+      "target": [
+        "61001001002|Pierre"
+      ],
+      "meta": {
+        "id": "61001001.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001001003|δοῦλος"
+      ],
+      "target": [
+        "61001001004|serviteur"
+      ],
+      "meta": {
+        "id": "61001001.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001001004|καὶ"
+      ],
+      "target": [
+        "61001001005|et"
+      ],
+      "meta": {
+        "id": "61001001.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001001005|ἀπόστολος"
+      ],
+      "target": [
+        "61001001006|apôtre"
+      ],
+      "meta": {
+        "id": "61001001.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001001009|ἰσότιμον"
+      ],
+      "target": [
+        "61001001021|prix"
+      ],
+      "meta": {
+        "id": "61001001.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001001010|ἡμῖν"
+      ],
+      "target": [
+        "61001001024|nôtre"
+      ],
+      "meta": {
+        "id": "61001001.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001001011|λαχοῦσιν"
+      ],
+      "target": [
+        "61001001016|partage"
+      ],
+      "meta": {
+        "id": "61001001.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001001012|πίστιν"
+      ],
+      "target": [
+        "61001001018|foi"
+      ],
+      "meta": {
+        "id": "61001001.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001001013|ἐν"
+      ],
+      "target": [
+        "61001001026|par"
+      ],
+      "meta": {
+        "id": "61001001.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001001014|δικαιοσύνῃ"
+      ],
+      "target": [
+        "61001001028|justice"
+      ],
+      "meta": {
+        "id": "61001001.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001001016|θεοῦ"
+      ],
+      "target": [
+        "61001001031|Dieu"
+      ],
+      "meta": {
+        "id": "61001001.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001001017|ἡμῶν"
+      ],
+      "target": [
+        "61001001030|notre"
+      ],
+      "meta": {
+        "id": "61001001.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001001018|καὶ"
+      ],
+      "target": [
+        "61001001032|et"
+      ],
+      "meta": {
+        "id": "61001001.16",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001001019|σωτῆρος"
+      ],
+      "target": [
+        "61001001034|Sauveur"
+      ],
+      "meta": {
+        "id": "61001001.17",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001002001|χάρις"
+      ],
+      "target": [
+        "61001002003|grâce"
+      ],
+      "meta": {
+        "id": "61001002.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001002002|ὑμῖν"
+      ],
+      "target": [
+        "61001002007|vous"
+      ],
+      "meta": {
+        "id": "61001002.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001002003|καὶ"
+      ],
+      "target": [
+        "61001002004|et"
+      ],
+      "meta": {
+        "id": "61001002.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001002004|εἰρήνη"
+      ],
+      "target": [
+        "61001002006|paix"
+      ],
+      "meta": {
+        "id": "61001002.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001002005|πληθυνθείη"
+      ],
+      "target": [
+        "61001002009|multipliées"
+      ],
+      "meta": {
+        "id": "61001002.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001002006|ἐν"
+      ],
+      "target": [
+        "61001002010|par"
+      ],
+      "meta": {
+        "id": "61001002.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001002007|ἐπιγνώσει"
+      ],
+      "target": [
+        "61001002012|connaissance"
+      ],
+      "meta": {
+        "id": "61001002.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001002009|θεοῦ"
+      ],
+      "target": [
+        "61001002014|Dieu"
+      ],
+      "meta": {
+        "id": "61001002.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001002010|καὶ"
+      ],
+      "target": [
+        "61001002015|et"
+      ],
+      "meta": {
+        "id": "61001002.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001002011|Ἰησοῦ"
+      ],
+      "target": [
+        "61001002017|Jésus"
+      ],
+      "meta": {
+        "id": "61001002.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001002013|κυρίου"
+      ],
+      "target": [
+        "61001002018|notre",
+        "61001002019|Seigneur"
+      ],
+      "meta": {
+        "id": "61001002.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001002014|ἡμῶν"
+      ],
+      "target": [
+        "61001002018|notre"
+      ],
+      "meta": {
+        "id": "61001002.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001003001|Ὡς"
+      ],
+      "target": [
+        "61001003001|Comme"
+      ],
+      "meta": {
+        "id": "61001003.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001003002|πάντα"
+      ],
+      "target": [
+        "61001003008|tout"
+      ],
+      "meta": {
+        "id": "61001003.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001003003|ἡμῖν"
+      ],
+      "target": [
+        "61001003005|nous"
+      ],
+      "meta": {
+        "id": "61001003.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001003005|θείας"
+      ],
+      "target": [
+        "61001003003|divine"
+      ],
+      "meta": {
+        "id": "61001003.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001003006|δυνάμεως"
+      ],
+      "target": [
+        "61001003004|puissance"
+      ],
+      "meta": {
+        "id": "61001003.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001003007|αὐτοῦ"
+      ],
+      "target": [
+        "61001003002|sa"
+      ],
+      "meta": {
+        "id": "61001003.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001003009|πρὸς"
+      ],
+      "target": [
+        "61001003011|contribue"
+      ],
+      "meta": {
+        "id": "61001003.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001003010|ζωὴν"
+      ],
+      "target": [
+        "61001003014|vie"
+      ],
+      "meta": {
+        "id": "61001003.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001003011|καὶ"
+      ],
+      "target": [
+        "61001003015|et"
+      ],
+      "meta": {
+        "id": "61001003.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001003012|εὐσέβειαν"
+      ],
+      "target": [
+        "61001003018|piété"
+      ],
+      "meta": {
+        "id": "61001003.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001003013|δεδωρημένης"
+      ],
+      "target": [
+        "61001003007|donné"
+      ],
+      "meta": {
+        "id": "61001003.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001003014|διὰ"
+      ],
+      "target": [
+        "61001003021|moyen"
+      ],
+      "meta": {
+        "id": "61001003.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001003016|ἐπιγνώσεως"
+      ],
+      "target": [
+        "61001003024|connaissance"
+      ],
+      "meta": {
+        "id": "61001003.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001003018|καλέσαντος"
+      ],
+      "target": [
+        "61001003030|appelés"
+      ],
+      "meta": {
+        "id": "61001003.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001003019|ἡμᾶς"
+      ],
+      "target": [
+        "61001003028|nous"
+      ],
+      "meta": {
+        "id": "61001003.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001003021|δόξῃ"
+      ],
+      "target": [
+        "61001003034|gloire"
+      ],
+      "meta": {
+        "id": "61001003.16",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001003022|καὶ"
+      ],
+      "target": [
+        "61001003035|et"
+      ],
+      "meta": {
+        "id": "61001003.17",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001003023|ἀρετῇ"
+      ],
+      "target": [
+        "61001003038|vertu"
+      ],
+      "meta": {
+        "id": "61001003.18",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001004001|δι"
+      ],
+      "target": [
+        "61001004001|lesquelles"
+      ],
+      "meta": {
+        "id": "61001004.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001004004|τίμια"
+      ],
+      "target": [
+        "61001004013|précieuses"
+      ],
+      "meta": {
+        "id": "61001004.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001004005|καὶ"
+      ],
+      "target": [
+        "61001004010|et"
+      ],
+      "meta": {
+        "id": "61001004.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001004006|μέγιστα"
+      ],
+      "target": [
+        "61001004009|grandes"
+      ],
+      "meta": {
+        "id": "61001004.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001004007|ἡμῖν"
+      ],
+      "target": [
+        "61001004002|nous"
+      ],
+      "meta": {
+        "id": "61001004.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001004008|ἐπαγγέλματα"
+      ],
+      "target": [
+        "61001004014|promesses"
+      ],
+      "meta": {
+        "id": "61001004.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001004009|δεδώρηται"
+      ],
+      "target": [
+        "61001004003|assurent"
+      ],
+      "meta": {
+        "id": "61001004.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001004010|ἵνα"
+      ],
+      "target": [
+        "61001004016|afin"
+      ],
+      "meta": {
+        "id": "61001004.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001004011|διὰ"
+      ],
+      "target": [
+        "61001004018|par"
+      ],
+      "meta": {
+        "id": "61001004.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001004012|τούτων"
+      ],
+      "target": [
+        "61001004019|elles"
+      ],
+      "meta": {
+        "id": "61001004.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001004013|γένησθε"
+      ],
+      "target": [
+        "61001004021|deveniez"
+      ],
+      "meta": {
+        "id": "61001004.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001004014|θείας"
+      ],
+      "target": [
+        "61001004026|divine"
+      ],
+      "meta": {
+        "id": "61001004.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001004015|κοινωνοὶ"
+      ],
+      "target": [
+        "61001004022|participants"
+      ],
+      "meta": {
+        "id": "61001004.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001004016|φύσεως"
+      ],
+      "target": [
+        "61001004025|nature"
+      ],
+      "meta": {
+        "id": "61001004.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001004017|ἀποφυγόντες"
+      ],
+      "target": [
+        "61001004029|fuyant"
+      ],
+      "meta": {
+        "id": "61001004.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001004019|ἐν"
+      ],
+      "target": [
+        "61001004034|dans"
+      ],
+      "meta": {
+        "id": "61001004.16",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001004021|κόσμῳ"
+      ],
+      "target": [
+        "61001004036|monde"
+      ],
+      "meta": {
+        "id": "61001004.17",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001004022|ἐν"
+      ],
+      "target": [
+        "61001004037|par"
+      ],
+      "meta": {
+        "id": "61001004.18",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001004023|ἐπιθυμίᾳ"
+      ],
+      "target": [
+        "61001004039|convoitise"
+      ],
+      "meta": {
+        "id": "61001004.19",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001004024|φθορᾶς"
+      ],
+      "target": [
+        "61001004031|corruption"
+      ],
+      "meta": {
+        "id": "61001004.20",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001005002|αὐτὸ"
+      ],
+      "target": [
+        "61001005005|même"
+      ],
+      "meta": {
+        "id": "61001005.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001005003|τοῦτο"
+      ],
+      "target": [
+        "61001005004|cela"
+      ],
+      "meta": {
+        "id": "61001005.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001005004|δὲ"
+      ],
+      "target": [
+        "61001005001|à"
+      ],
+      "meta": {
+        "id": "61001005.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001005005|σπουδὴν"
+      ],
+      "target": [
+        "61001005010|efforts"
+      ],
+      "meta": {
+        "id": "61001005.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001005006|πᾶσαν"
+      ],
+      "target": [
+        "61001005008|tous"
+      ],
+      "meta": {
+        "id": "61001005.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001005007|παρεισενέγκαντες"
+      ],
+      "target": [
+        "61001005007|faites"
+      ],
+      "meta": {
+        "id": "61001005.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001005008|ἐπιχορηγήσατε"
+      ],
+      "target": [
+        "61001005012|joindre"
+      ],
+      "meta": {
+        "id": "61001005.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001005009|ἐν"
+      ],
+      "target": [
+        "61001005013|à"
+      ],
+      "meta": {
+        "id": "61001005.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001005011|πίστει"
+      ],
+      "target": [
+        "61001005015|foi"
+      ],
+      "meta": {
+        "id": "61001005.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001005012|ὑμῶν"
+      ],
+      "target": [
+        "61001005014|votre"
+      ],
+      "meta": {
+        "id": "61001005.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001005014|ἀρετήν"
+      ],
+      "target": [
+        "61001005017|vertu"
+      ],
+      "meta": {
+        "id": "61001005.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001005015|ἐν"
+      ],
+      "target": [
+        "61001005019|à"
+      ],
+      "meta": {
+        "id": "61001005.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001005016|δὲ"
+      ],
+      "target": [
+        "61001005002|cause",
+        "61001005003|de"
+      ],
+      "meta": {
+        "id": "61001005.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001005018|ἀρετῇ"
+      ],
+      "target": [
+        "61001005021|vertu"
+      ],
+      "meta": {
+        "id": "61001005.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001005020|γνῶσιν"
+      ],
+      "target": [
+        "61001005023|science"
+      ],
+      "meta": {
+        "id": "61001005.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001006001|ἐν"
+      ],
+      "target": [
+        "61001006001|à"
+      ],
+      "meta": {
+        "id": "61001006.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001006004|γνώσει"
+      ],
+      "target": [
+        "61001006003|science"
+      ],
+      "meta": {
+        "id": "61001006.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001006006|ἐγκράτειαν"
+      ],
+      "target": [
+        "61001006005|tempérance"
+      ],
+      "meta": {
+        "id": "61001006.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001006007|ἐν"
+      ],
+      "target": [
+        "61001006007|à"
+      ],
+      "meta": {
+        "id": "61001006.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001006010|ἐγκρατείᾳ"
+      ],
+      "target": [
+        "61001006009|tempérance"
+      ],
+      "meta": {
+        "id": "61001006.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001006012|ὑπομονήν"
+      ],
+      "target": [
+        "61001006011|patience"
+      ],
+      "meta": {
+        "id": "61001006.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001006013|ἐν"
+      ],
+      "target": [
+        "61001006013|à"
+      ],
+      "meta": {
+        "id": "61001006.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001006016|ὑπομονῇ"
+      ],
+      "target": [
+        "61001006015|patience"
+      ],
+      "meta": {
+        "id": "61001006.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001006018|εὐσέβειαν"
+      ],
+      "target": [
+        "61001006017|piété"
+      ],
+      "meta": {
+        "id": "61001006.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001007001|ἐν"
+      ],
+      "target": [
+        "61001007001|à"
+      ],
+      "meta": {
+        "id": "61001007.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001007004|εὐσεβείᾳ"
+      ],
+      "target": [
+        "61001007003|piété"
+      ],
+      "meta": {
+        "id": "61001007.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001007006|φιλαδελφίαν"
+      ],
+      "target": [
+        "61001007006|fraternel"
+      ],
+      "meta": {
+        "id": "61001007.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001007007|ἐν"
+      ],
+      "target": [
+        "61001007008|à"
+      ],
+      "meta": {
+        "id": "61001007.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001007010|φιλαδελφίᾳ"
+      ],
+      "target": [
+        "61001007011|fraternel"
+      ],
+      "meta": {
+        "id": "61001007.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001007012|ἀγάπην"
+      ],
+      "target": [
+        "61001007013|charité"
+      ],
+      "meta": {
+        "id": "61001007.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001008001|ταῦτα"
+      ],
+      "target": [
+        "61001008004|choses"
+      ],
+      "meta": {
+        "id": "61001008.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001008002|γὰρ"
+      ],
+      "target": [
+        "61001008001|Car"
+      ],
+      "meta": {
+        "id": "61001008.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001008003|ὑμῖν"
+      ],
+      "target": [
+        "61001008007|vous"
+      ],
+      "meta": {
+        "id": "61001008.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001008004|ὑπάρχοντα"
+      ],
+      "target": [
+        "61001008005|sont"
+      ],
+      "meta": {
+        "id": "61001008.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001008005|καὶ"
+      ],
+      "target": [
+        "61001008009|et"
+      ],
+      "meta": {
+        "id": "61001008.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001008006|πλεονάζοντα"
+      ],
+      "target": [
+        "61001008013|abondance"
+      ],
+      "meta": {
+        "id": "61001008.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001008007|οὐ"
+      ],
+      "target": [
+        "61001008019|point"
+      ],
+      "meta": {
+        "id": "61001008.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001008008|ἀργοὺς"
+      ],
+      "target": [
+        "61001008020|oisifs"
+      ],
+      "meta": {
+        "id": "61001008.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001008009|οὐδὲ"
+      ],
+      "target": [
+        "61001008021|ni"
+      ],
+      "meta": {
+        "id": "61001008.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001008010|ἀκάρπους"
+      ],
+      "target": [
+        "61001008022|stériles"
+      ],
+      "meta": {
+        "id": "61001008.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001008011|καθίστησιν"
+      ],
+      "target": [
+        "61001008018|laisseront"
+      ],
+      "meta": {
+        "id": "61001008.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001008012|εἰς"
+      ],
+      "target": [
+        "61001008023|pour"
+      ],
+      "meta": {
+        "id": "61001008.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001008015|κυρίου"
+      ],
+      "target": [
+        "61001008027|notre",
+        "61001008028|Seigneur"
+      ],
+      "meta": {
+        "id": "61001008.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001008016|ἡμῶν"
+      ],
+      "target": [
+        "61001008027|notre"
+      ],
+      "meta": {
+        "id": "61001008.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001008019|ἐπίγνωσιν"
+      ],
+      "target": [
+        "61001008025|connaissance"
+      ],
+      "meta": {
+        "id": "61001008.17",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001009001|ᾧ"
+      ],
+      "target": [
+        "61001009004|qui"
+      ],
+      "meta": {
+        "id": "61001009.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001009002|γὰρ"
+      ],
+      "target": [
+        "61001009001|Mais"
+      ],
+      "meta": {
+        "id": "61001009.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001009003|μὴ"
+      ],
+      "target": [
+        "61001009009|point"
+      ],
+      "meta": {
+        "id": "61001009.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001009005|ταῦτα"
+      ],
+      "target": [
+        "61001009006|choses"
+      ],
+      "meta": {
+        "id": "61001009.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001009006|τυφλός"
+      ],
+      "target": [
+        "61001009011|aveugle"
+      ],
+      "meta": {
+        "id": "61001009.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001009007|ἐστιν"
+      ],
+      "target": [
+        "61001009010|est"
+      ],
+      "meta": {
+        "id": "61001009.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001009008|μυωπάζων"
+      ],
+      "target": [
+        "61001009018|loin"
+      ],
+      "meta": {
+        "id": "61001009.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001009009|λήθην"
+      ],
+      "target": [
+        "61001009025|oubli"
+      ],
+      "meta": {
+        "id": "61001009.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001009010|λαβὼν"
+      ],
+      "target": [
+        "61001009026|la"
+      ],
+      "meta": {
+        "id": "61001009.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001009012|καθαρισμοῦ"
+      ],
+      "target": [
+        "61001009027|purification"
+      ],
+      "meta": {
+        "id": "61001009.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001009014|πάλαι"
+      ],
+      "target": [
+        "61001009030|anciens"
+      ],
+      "meta": {
+        "id": "61001009.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001009015|αὐτοῦ"
+      ],
+      "target": [
+        "61001009029|ses"
+      ],
+      "meta": {
+        "id": "61001009.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001010001|διὸ"
+      ],
+      "target": [
+        "61001010003|pourquoi"
+      ],
+      "meta": {
+        "id": "61001010.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001010002|μᾶλλον"
+      ],
+      "target": [
+        "61001010010|plus"
+      ],
+      "meta": {
+        "id": "61001010.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001010003|ἀδελφοί"
+      ],
+      "target": [
+        "61001010005|frères"
+      ],
+      "meta": {
+        "id": "61001010.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001010006|ὑμῶν"
+      ],
+      "target": [
+        "61001010013|votre"
+      ],
+      "meta": {
+        "id": "61001010.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001010008|κλῆσιν"
+      ],
+      "target": [
+        "61001010014|vocation"
+      ],
+      "meta": {
+        "id": "61001010.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001010009|καὶ"
+      ],
+      "target": [
+        "61001010015|et"
+      ],
+      "meta": {
+        "id": "61001010.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001010010|ἐκλογὴν"
+      ],
+      "target": [
+        "61001010017|élection"
+      ],
+      "meta": {
+        "id": "61001010.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001010011|ποιεῖσθαι"
+      ],
+      "target": [
+        "61001010012|affermir"
+      ],
+      "meta": {
+        "id": "61001010.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001010012|ταῦτα"
+      ],
+      "target": [
+        "61001010023|cela"
+      ],
+      "meta": {
+        "id": "61001010.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001010013|γὰρ"
+      ],
+      "target": [
+        "61001010019|car"
+      ],
+      "meta": {
+        "id": "61001010.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001010014|ποιοῦντες"
+      ],
+      "target": [
+        "61001010022|faisant"
+      ],
+      "meta": {
+        "id": "61001010.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001010018|ποτε"
+      ],
+      "target": [
+        "61001010027|broncherez"
+      ],
+      "meta": {
+        "id": "61001010.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001011001|οὕτως"
+      ],
+      "target": [
+        "61001011003|ainsi"
+      ],
+      "meta": {
+        "id": "61001011.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001011002|γὰρ"
+      ],
+      "target": [
+        "61001011006|effet"
+      ],
+      "meta": {
+        "id": "61001011.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001011003|πλουσίως"
+      ],
+      "target": [
+        "61001011023|pleinement"
+      ],
+      "meta": {
+        "id": "61001011.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001011004|ἐπιχορηγηθήσεται"
+      ],
+      "target": [
+        "61001011024|accordée"
+      ],
+      "meta": {
+        "id": "61001011.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001011005|ὑμῖν"
+      ],
+      "target": [
+        "61001011021|vous"
+      ],
+      "meta": {
+        "id": "61001011.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001011007|εἴσοδος"
+      ],
+      "target": [
+        "61001011010|entrée"
+      ],
+      "meta": {
+        "id": "61001011.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001011008|εἰς"
+      ],
+      "target": [
+        "61001011011|dans"
+      ],
+      "meta": {
+        "id": "61001011.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001011010|αἰώνιον"
+      ],
+      "target": [
+        "61001011014|éternel"
+      ],
+      "meta": {
+        "id": "61001011.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001011011|βασιλείαν"
+      ],
+      "target": [
+        "61001011013|royaume"
+      ],
+      "meta": {
+        "id": "61001011.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001011013|κυρίου"
+      ],
+      "target": [
+        "61001011016|notre",
+        "61001011017|Seigneur"
+      ],
+      "meta": {
+        "id": "61001011.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001011014|ἡμῶν"
+      ],
+      "target": [
+        "61001011016|notre"
+      ],
+      "meta": {
+        "id": "61001011.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001011015|καὶ"
+      ],
+      "target": [
+        "61001011018|et"
+      ],
+      "meta": {
+        "id": "61001011.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001011016|σωτῆρος"
+      ],
+      "target": [
+        "61001011019|Sauveur"
+      ],
+      "meta": {
+        "id": "61001011.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001012001|Διὸ"
+      ],
+      "target": [
+        "61001012002|pourquoi"
+      ],
+      "meta": {
+        "id": "61001012.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001012004|ὑμᾶς"
+      ],
+      "target": [
+        "61001012007|vous"
+      ],
+      "meta": {
+        "id": "61001012.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001012005|ὑπομιμνῄσκειν"
+      ],
+      "target": [
+        "61001012008|rappeler"
+      ],
+      "meta": {
+        "id": "61001012.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001012006|περὶ"
+      ],
+      "target": [
+        "61001012009|ces"
+      ],
+      "meta": {
+        "id": "61001012.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001012007|τούτων"
+      ],
+      "target": [
+        "61001012010|choses"
+      ],
+      "meta": {
+        "id": "61001012.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001012008|καίπερ"
+      ],
+      "target": [
+        "61001012013|que"
+      ],
+      "meta": {
+        "id": "61001012.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001012009|εἰδότας"
+      ],
+      "target": [
+        "61001012016|sachiez"
+      ],
+      "meta": {
+        "id": "61001012.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001012010|καὶ"
+      ],
+      "target": [
+        "61001012017|et"
+      ],
+      "meta": {
+        "id": "61001012.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001012011|ἐστηριγμένους"
+      ],
+      "target": [
+        "61001012021|affermis"
+      ],
+      "meta": {
+        "id": "61001012.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001012012|ἐν"
+      ],
+      "target": [
+        "61001012022|dans"
+      ],
+      "meta": {
+        "id": "61001012.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001012014|παρούσῃ"
+      ],
+      "target": [
+        "61001012025|présente"
+      ],
+      "meta": {
+        "id": "61001012.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001012015|ἀληθείᾳ"
+      ],
+      "target": [
+        "61001012024|vérité"
+      ],
+      "meta": {
+        "id": "61001012.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001013001|δίκαιον"
+      ],
+      "target": [
+        "61001013006|devoir"
+      ],
+      "meta": {
+        "id": "61001013.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001013002|δὲ"
+      ],
+      "target": [
+        "61001013001|Et"
+      ],
+      "meta": {
+        "id": "61001013.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001013003|ἡγοῦμαι"
+      ],
+      "target": [
+        "61001013003|regarde"
+      ],
+      "meta": {
+        "id": "61001013.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001013004|ἐφ"
+      ],
+      "target": [
+        "61001013010|que"
+      ],
+      "meta": {
+        "id": "61001013.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001013005|ὅσον"
+      ],
+      "target": [
+        "61001013011|je"
+      ],
+      "meta": {
+        "id": "61001013.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001013006|εἰμὶ"
+      ],
+      "target": [
+        "61001013012|suis"
+      ],
+      "meta": {
+        "id": "61001013.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001013007|ἐν"
+      ],
+      "target": [
+        "61001013013|dans"
+      ],
+      "meta": {
+        "id": "61001013.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001013008|τούτῳ"
+      ],
+      "target": [
+        "61001013014|cette"
+      ],
+      "meta": {
+        "id": "61001013.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001013010|σκηνώματι"
+      ],
+      "target": [
+        "61001013015|tente"
+      ],
+      "meta": {
+        "id": "61001013.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001013011|διεγείρειν"
+      ],
+      "target": [
+        "61001013021|éveil"
+      ],
+      "meta": {
+        "id": "61001013.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001013012|ὑμᾶς"
+      ],
+      "target": [
+        "61001013018|vous"
+      ],
+      "meta": {
+        "id": "61001013.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001013013|ἐν"
+      ],
+      "target": [
+        "61001013022|par"
+      ],
+      "meta": {
+        "id": "61001013.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001013014|ὑπομνήσει"
+      ],
+      "target": [
+        "61001013024|avertissements"
+      ],
+      "meta": {
+        "id": "61001013.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001014001|εἰδὼς"
+      ],
+      "target": [
+        "61001014003|sais"
+      ],
+      "meta": {
+        "id": "61001014.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001014002|ὅτι"
+      ],
+      "target": [
+        "61001014004|que"
+      ],
+      "meta": {
+        "id": "61001014.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001014003|ταχινή"
+      ],
+      "target": [
+        "61001014008|subitement"
+      ],
+      "meta": {
+        "id": "61001014.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001014004|ἐστιν"
+      ],
+      "target": [
+        "61001014007|quitterai"
+      ],
+      "meta": {
+        "id": "61001014.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001014009|μου"
+      ],
+      "target": [
+        "61001014006|la"
+      ],
+      "meta": {
+        "id": "61001014.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001014010|καθὼς"
+      ],
+      "target": [
+        "61001014011|que"
+      ],
+      "meta": {
+        "id": "61001014.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001014011|καὶ"
+      ],
+      "target": [
+        "61001014010|ainsi"
+      ],
+      "meta": {
+        "id": "61001014.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001014013|κύριος"
+      ],
+      "target": [
+        "61001014012|notre",
+        "61001014013|Seigneur"
+      ],
+      "meta": {
+        "id": "61001014.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001014014|ἡμῶν"
+      ],
+      "target": [
+        "61001014012|notre"
+      ],
+      "meta": {
+        "id": "61001014.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001014017|ἐδήλωσέν"
+      ],
+      "target": [
+        "61001014019|connaître"
+      ],
+      "meta": {
+        "id": "61001014.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001014018|μοι"
+      ],
+      "target": [
+        "61001014015|me"
+      ],
+      "meta": {
+        "id": "61001014.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001015001|σπουδάσω"
+      ],
+      "target": [
+        "61001015004|soin"
+      ],
+      "meta": {
+        "id": "61001015.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001015002|δὲ"
+      ],
+      "target": [
+        "61001015001|Mais"
+      ],
+      "meta": {
+        "id": "61001015.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001015003|καὶ"
+      ],
+      "target": [
+        "61001015003|aurai"
+      ],
+      "meta": {
+        "id": "61001015.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001015004|ἑκάστοτε"
+      ],
+      "target": [
+        "61001015011|toujours"
+      ],
+      "meta": {
+        "id": "61001015.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001015005|ἔχειν"
+      ],
+      "target": [
+        "61001015010|puissiez"
+      ],
+      "meta": {
+        "id": "61001015.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001015006|ὑμᾶς"
+      ],
+      "target": [
+        "61001015009|vous"
+      ],
+      "meta": {
+        "id": "61001015.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001015007|μετὰ"
+      ],
+      "target": [
+        "61001015006|après"
+      ],
+      "meta": {
+        "id": "61001015.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001015009|ἐμὴν"
+      ],
+      "target": [
+        "61001015007|mon"
+      ],
+      "meta": {
+        "id": "61001015.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001015010|ἔξοδον"
+      ],
+      "target": [
+        "61001015008|départ"
+      ],
+      "meta": {
+        "id": "61001015.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001015012|τούτων"
+      ],
+      "target": [
+        "61001015016|choses"
+      ],
+      "meta": {
+        "id": "61001015.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001015013|μνήμην"
+      ],
+      "target": [
+        "61001015013|souvenir"
+      ],
+      "meta": {
+        "id": "61001015.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001016001|Οὐ"
+      ],
+      "target": [
+        "61001016004|pas"
+      ],
+      "meta": {
+        "id": "61001016.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001016002|γὰρ"
+      ],
+      "target": [
+        "61001016001|Ce"
+      ],
+      "meta": {
+        "id": "61001016.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001016003|σεσοφισμένοις"
+      ],
+      "target": [
+        "61001016014|conçues"
+      ],
+      "meta": {
+        "id": "61001016.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001016004|μύθοις"
+      ],
+      "target": [
+        "61001016012|fables"
+      ],
+      "meta": {
+        "id": "61001016.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001016005|ἐξακολουθήσαντες"
+      ],
+      "target": [
+        "61001016010|suivant"
+      ],
+      "meta": {
+        "id": "61001016.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001016006|ἐγνωρίσαμεν"
+      ],
+      "target": [
+        "61001016021|connaître"
+      ],
+      "meta": {
+        "id": "61001016.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001016007|ὑμῖν"
+      ],
+      "target": [
+        "61001016018|vous"
+      ],
+      "meta": {
+        "id": "61001016.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001016010|κυρίου"
+      ],
+      "target": [
+        "61001016028|notre",
+        "61001016029|Seigneur"
+      ],
+      "meta": {
+        "id": "61001016.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001016011|ἡμῶν"
+      ],
+      "target": [
+        "61001016028|notre"
+      ],
+      "meta": {
+        "id": "61001016.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001016014|δύναμιν"
+      ],
+      "target": [
+        "61001016023|puissance"
+      ],
+      "meta": {
+        "id": "61001016.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001016015|καὶ"
+      ],
+      "target": [
+        "61001016024|et"
+      ],
+      "meta": {
+        "id": "61001016.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001016016|παρουσίαν"
+      ],
+      "target": [
+        "61001016026|avènement"
+      ],
+      "meta": {
+        "id": "61001016.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001016017|ἀλλ"
+      ],
+      "target": [
+        "61001016032|mais"
+      ],
+      "meta": {
+        "id": "61001016.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001016018|ἐπόπται"
+      ],
+      "target": [
+        "61001016037|vu"
+      ],
+      "meta": {
+        "id": "61001016.16",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001016019|γενηθέντες"
+      ],
+      "target": [
+        "61001016036|ayant"
+      ],
+      "meta": {
+        "id": "61001016.17",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001016021|ἐκείνου"
+      ],
+      "target": [
+        "61001016038|sa"
+      ],
+      "meta": {
+        "id": "61001016.18",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001016022|μεγαλειότητος"
+      ],
+      "target": [
+        "61001016039|majesté"
+      ],
+      "meta": {
+        "id": "61001016.19",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001017001|λαβὼν"
+      ],
+      "target": [
+        "61001017004|reçu"
+      ],
+      "meta": {
+        "id": "61001017.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001017002|γὰρ"
+      ],
+      "target": [
+        "61001017001|Car"
+      ],
+      "meta": {
+        "id": "61001017.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001017003|παρὰ"
+      ],
+      "target": [
+        "61001017005|de"
+      ],
+      "meta": {
+        "id": "61001017.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001017004|θεοῦ"
+      ],
+      "target": [
+        "61001017006|Dieu"
+      ],
+      "meta": {
+        "id": "61001017.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001017005|πατρὸς"
+      ],
+      "target": [
+        "61001017008|Père"
+      ],
+      "meta": {
+        "id": "61001017.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001017006|τιμὴν"
+      ],
+      "target": [
+        "61001017009|honneur"
+      ],
+      "meta": {
+        "id": "61001017.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001017007|καὶ"
+      ],
+      "target": [
+        "61001017010|et"
+      ],
+      "meta": {
+        "id": "61001017.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001017008|δόξαν"
+      ],
+      "target": [
+        "61001017011|gloire"
+      ],
+      "meta": {
+        "id": "61001017.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001017009|φωνῆς"
+      ],
+      "target": [
+        "61001017021|voix"
+      ],
+      "meta": {
+        "id": "61001017.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001017010|ἐνεχθείσης"
+      ],
+      "target": [
+        "61001017019|entendre"
+      ],
+      "meta": {
+        "id": "61001017.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001017011|αὐτῷ"
+      ],
+      "target": [
+        "61001017017|lui"
+      ],
+      "meta": {
+        "id": "61001017.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001017012|τοιᾶσδε"
+      ],
+      "target": [
+        "61001017020|une"
+      ],
+      "meta": {
+        "id": "61001017.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001017013|ὑπὸ"
+      ],
+      "target": [
+        "61001017013|quand",
+        "61001017014|la"
+      ],
+      "meta": {
+        "id": "61001017.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001017015|μεγαλοπρεποῦς"
+      ],
+      "target": [
+        "61001017016|magnifique"
+      ],
+      "meta": {
+        "id": "61001017.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001017016|δόξης"
+      ],
+      "target": [
+        "61001017015|gloire"
+      ],
+      "meta": {
+        "id": "61001017.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001017018|υἱός"
+      ],
+      "target": [
+        "61001017028|Fils"
+      ],
+      "meta": {
+        "id": "61001017.16",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001017019|μου"
+      ],
+      "target": [
+        "61001017027|mon"
+      ],
+      "meta": {
+        "id": "61001017.17",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001017024|ἐστιν"
+      ],
+      "target": [
+        "61001017026|est"
+      ],
+      "meta": {
+        "id": "61001017.21",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001017025|εἰς"
+      ],
+      "target": [
+        "61001017031|en"
+      ],
+      "meta": {
+        "id": "61001017.22",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001017026|ὃν"
+      ],
+      "target": [
+        "61001017032|qui"
+      ],
+      "meta": {
+        "id": "61001017.23",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001017028|εὐδόκησα"
+      ],
+      "target": [
+        "61001017038|affection"
+      ],
+      "meta": {
+        "id": "61001017.24",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001018001|καὶ"
+      ],
+      "target": [
+        "61001018001|Et"
+      ],
+      "meta": {
+        "id": "61001018.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001018002|ταύτην"
+      ],
+      "target": [
+        "61001018005|cette"
+      ],
+      "meta": {
+        "id": "61001018.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001018004|φωνὴν"
+      ],
+      "target": [
+        "61001018006|voix"
+      ],
+      "meta": {
+        "id": "61001018.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001018005|ἡμεῖς"
+      ],
+      "target": [
+        "61001018002|nous"
+      ],
+      "meta": {
+        "id": "61001018.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001018006|ἠκούσαμεν"
+      ],
+      "target": [
+        "61001018004|entendu"
+      ],
+      "meta": {
+        "id": "61001018.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001018007|ἐξ"
+      ],
+      "target": [
+        "61001018008|du"
+      ],
+      "meta": {
+        "id": "61001018.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001018008|οὐρανοῦ"
+      ],
+      "target": [
+        "61001018009|ciel"
+      ],
+      "meta": {
+        "id": "61001018.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001018009|ἐνεχθεῖσαν"
+      ],
+      "target": [
+        "61001018007|venant"
+      ],
+      "meta": {
+        "id": "61001018.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001018010|σὺν"
+      ],
+      "target": [
+        "61001018014|avec"
+      ],
+      "meta": {
+        "id": "61001018.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001018011|αὐτῷ"
+      ],
+      "target": [
+        "61001018015|lui"
+      ],
+      "meta": {
+        "id": "61001018.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001018012|ὄντες"
+      ],
+      "target": [
+        "61001018013|étions"
+      ],
+      "meta": {
+        "id": "61001018.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001018013|ἐν"
+      ],
+      "target": [
+        "61001018016|sur"
+      ],
+      "meta": {
+        "id": "61001018.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001018015|ἁγίῳ"
+      ],
+      "target": [
+        "61001018018|sainte"
+      ],
+      "meta": {
+        "id": "61001018.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001018016|ὄρει"
+      ],
+      "target": [
+        "61001018019|montagne"
+      ],
+      "meta": {
+        "id": "61001018.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001019001|καὶ"
+      ],
+      "target": [
+        "61001019001|Et"
+      ],
+      "meta": {
+        "id": "61001019.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001019002|ἔχομεν"
+      ],
+      "target": [
+        "61001019003|tenons"
+      ],
+      "meta": {
+        "id": "61001019.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001019003|βεβαιότερον"
+      ],
+      "target": [
+        "61001019008|certaine"
+      ],
+      "meta": {
+        "id": "61001019.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001019005|προφητικὸν"
+      ],
+      "target": [
+        "61001019011|prophétique"
+      ],
+      "meta": {
+        "id": "61001019.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001019006|λόγον"
+      ],
+      "target": [
+        "61001019010|parole"
+      ],
+      "meta": {
+        "id": "61001019.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001019007|ᾧ"
+      ],
+      "target": [
+        "61001019014|laquelle"
+      ],
+      "meta": {
+        "id": "61001019.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001019008|καλῶς"
+      ],
+      "target": [
+        "61001019017|bien"
+      ],
+      "meta": {
+        "id": "61001019.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001019009|ποιεῖτε"
+      ],
+      "target": [
+        "61001019016|faites"
+      ],
+      "meta": {
+        "id": "61001019.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001019010|προσέχοντες"
+      ],
+      "target": [
+        "61001019020|attention"
+      ],
+      "meta": {
+        "id": "61001019.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001019011|ὡς"
+      ],
+      "target": [
+        "61001019022|comme"
+      ],
+      "meta": {
+        "id": "61001019.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001019012|λύχνῳ"
+      ],
+      "target": [
+        "61001019025|lampe"
+      ],
+      "meta": {
+        "id": "61001019.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001019013|φαίνοντι"
+      ],
+      "target": [
+        "61001019027|brille"
+      ],
+      "meta": {
+        "id": "61001019.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001019014|ἐν"
+      ],
+      "target": [
+        "61001019028|dans"
+      ],
+      "meta": {
+        "id": "61001019.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001019015|αὐχμηρῷ"
+      ],
+      "target": [
+        "61001019031|obscur"
+      ],
+      "meta": {
+        "id": "61001019.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001019016|τόπῳ"
+      ],
+      "target": [
+        "61001019030|lieu"
+      ],
+      "meta": {
+        "id": "61001019.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001019017|ἕως"
+      ],
+      "target": [
+        "61001019034|à"
+      ],
+      "meta": {
+        "id": "61001019.16",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001019019|ἡμέρα"
+      ],
+      "target": [
+        "61001019038|jour"
+      ],
+      "meta": {
+        "id": "61001019.17",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001019020|διαυγάσῃ"
+      ],
+      "target": [
+        "61001019041|paraître"
+      ],
+      "meta": {
+        "id": "61001019.18",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001019021|καὶ"
+      ],
+      "target": [
+        "61001019001|Et",
+        "61001019042|et"
+      ],
+      "meta": {
+        "id": "61001019.19",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001019022|φωσφόρος"
+      ],
+      "target": [
+        "61001019047|matin"
+      ],
+      "meta": {
+        "id": "61001019.20",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001019023|ἀνατείλῃ"
+      ],
+      "target": [
+        "61001019049|lève"
+      ],
+      "meta": {
+        "id": "61001019.21",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001019024|ἐν"
+      ],
+      "target": [
+        "61001019050|dans"
+      ],
+      "meta": {
+        "id": "61001019.22",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001019026|καρδίαις"
+      ],
+      "target": [
+        "61001019052|cœurs"
+      ],
+      "meta": {
+        "id": "61001019.23",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001019027|ὑμῶν"
+      ],
+      "target": [
+        "61001019051|vos"
+      ],
+      "meta": {
+        "id": "61001019.24",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001020001|τοῦτο"
+      ],
+      "target": [
+        "61001020002|tout"
+      ],
+      "meta": {
+        "id": "61001020.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001020002|πρῶτον"
+      ],
+      "target": [
+        "61001020004|abord"
+      ],
+      "meta": {
+        "id": "61001020.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001020003|γινώσκοντες"
+      ],
+      "target": [
+        "61001020001|sachant"
+      ],
+      "meta": {
+        "id": "61001020.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001020006|προφητεία"
+      ],
+      "target": [
+        "61001020008|prophétie"
+      ],
+      "meta": {
+        "id": "61001020.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001020007|γραφῆς"
+      ],
+      "target": [
+        "61001020011|Écriture"
+      ],
+      "meta": {
+        "id": "61001020.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001020008|ἰδίας"
+      ],
+      "target": [
+        "61001020019|particulière"
+      ],
+      "meta": {
+        "id": "61001020.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001020009|ἐπιλύσεως"
+      ],
+      "target": [
+        "61001020018|interprétation"
+      ],
+      "meta": {
+        "id": "61001020.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001020010|οὐ"
+      ],
+      "target": [
+        "61001020007|aucune"
+      ],
+      "meta": {
+        "id": "61001020.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001020011|γίνεται"
+      ],
+      "target": [
+        "61001020014|être"
+      ],
+      "meta": {
+        "id": "61001020.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001021001|οὐ"
+      ],
+      "target": [
+        "61001021005|pas"
+      ],
+      "meta": {
+        "id": "61001021.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001021002|γὰρ"
+      ],
+      "target": [
+        "61001021001|car"
+      ],
+      "meta": {
+        "id": "61001021.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001021003|θελήματι"
+      ],
+      "target": [
+        "61001021008|volonté"
+      ],
+      "meta": {
+        "id": "61001021.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001021004|ἀνθρώπου"
+      ],
+      "target": [
+        "61001021010|homme"
+      ],
+      "meta": {
+        "id": "61001021.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001021005|ἠνέχθη"
+      ],
+      "target": [
+        "61001021017|apportée"
+      ],
+      "meta": {
+        "id": "61001021.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001021006|προφητεία"
+      ],
+      "target": [
+        "61001021013|prophétie"
+      ],
+      "meta": {
+        "id": "61001021.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001021007|ποτέ"
+      ],
+      "target": [
+        "61001021015|jamais"
+      ],
+      "meta": {
+        "id": "61001021.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001021008|ἀλλὰ"
+      ],
+      "target": [
+        "61001021019|mais"
+      ],
+      "meta": {
+        "id": "61001021.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001021009|ὑπὸ"
+      ],
+      "target": [
+        "61001021023|par"
+      ],
+      "meta": {
+        "id": "61001021.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001021012|φερόμενοι"
+      ],
+      "target": [
+        "61001021022|poussés"
+      ],
+      "meta": {
+        "id": "61001021.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001021013|ἐλάλησαν"
+      ],
+      "target": [
+        "61001021030|parlé"
+      ],
+      "meta": {
+        "id": "61001021.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001021015|θεοῦ"
+      ],
+      "target": [
+        "61001021035|Dieu"
+      ],
+      "meta": {
+        "id": "61001021.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61001021016|ἄνθρωποι"
+      ],
+      "target": [
+        "61001021028|hommes"
+      ],
+      "meta": {
+        "id": "61001021.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002001001|Ἐγένοντο"
+      ],
+      "target": [
+        "61002001004|eu"
+      ],
+      "meta": {
+        "id": "61002001.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002001002|δὲ"
+      ],
+      "target": [
+        "61002001001|Il"
+      ],
+      "meta": {
+        "id": "61002001.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002001003|καὶ"
+      ],
+      "target": [
+        "61002001012|et"
+      ],
+      "meta": {
+        "id": "61002001.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002001004|ψευδοπροφῆται"
+      ],
+      "target": [
+        "61002001010|prophètes"
+      ],
+      "meta": {
+        "id": "61002001.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002001005|ἐν"
+      ],
+      "target": [
+        "61002001005|parmi"
+      ],
+      "meta": {
+        "id": "61002001.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002001007|λαῷ"
+      ],
+      "target": [
+        "61002001007|peuple"
+      ],
+      "meta": {
+        "id": "61002001.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002001008|ὡς"
+      ],
+      "target": [
+        "61002001017|même"
+      ],
+      "meta": {
+        "id": "61002001.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002001009|καὶ"
+      ],
+      "target": [
+        "61002001031|qui"
+      ],
+      "meta": {
+        "id": "61002001.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002001010|ἐν"
+      ],
+      "target": [
+        "61002001018|parmi"
+      ],
+      "meta": {
+        "id": "61002001.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002001011|ὑμῖν"
+      ],
+      "target": [
+        "61002001019|vous"
+      ],
+      "meta": {
+        "id": "61002001.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002001012|ἔσονται"
+      ],
+      "target": [
+        "61002001015|aura"
+      ],
+      "meta": {
+        "id": "61002001.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002001013|ψευδοδιδάσκαλοι"
+      ],
+      "target": [
+        "61002001022|docteurs"
+      ],
+      "meta": {
+        "id": "61002001.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002001014|οἵτινες"
+      ],
+      "target": [
+        "61002001024|qui"
+      ],
+      "meta": {
+        "id": "61002001.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002001015|παρεισάξουσιν"
+      ],
+      "target": [
+        "61002001025|introduiront"
+      ],
+      "meta": {
+        "id": "61002001.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002001016|αἱρέσεις"
+      ],
+      "target": [
+        "61002001027|sectes"
+      ],
+      "meta": {
+        "id": "61002001.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002001017|ἀπωλείας"
+      ],
+      "target": [
+        "61002001028|pernicieuses"
+      ],
+      "meta": {
+        "id": "61002001.16",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002001020|ἀγοράσαντα"
+      ],
+      "target": [
+        "61002001039|rachetés"
+      ],
+      "meta": {
+        "id": "61002001.17",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002001021|αὐτοὺς"
+      ],
+      "target": [
+        "61002001037|les"
+      ],
+      "meta": {
+        "id": "61002001.18",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002001022|δεσπότην"
+      ],
+      "target": [
+        "61002001035|maître"
+      ],
+      "meta": {
+        "id": "61002001.19",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002001023|ἀρνούμενοι"
+      ],
+      "target": [
+        "61002001033|reniant"
+      ],
+      "meta": {
+        "id": "61002001.20",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002001024|ἐπάγοντες"
+      ],
+      "target": [
+        "61002001041|attireront"
+      ],
+      "meta": {
+        "id": "61002001.21",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002001025|ἑαυτοῖς"
+      ],
+      "target": [
+        "61002001043|eux"
+      ],
+      "meta": {
+        "id": "61002001.22",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002001026|ταχινὴν"
+      ],
+      "target": [
+        "61002001046|soudaine"
+      ],
+      "meta": {
+        "id": "61002001.23",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002001027|ἀπώλειαν"
+      ],
+      "target": [
+        "61002001045|ruine"
+      ],
+      "meta": {
+        "id": "61002001.24",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002002002|πολλοὶ"
+      ],
+      "target": [
+        "61002002001|Plusieurs"
+      ],
+      "meta": {
+        "id": "61002002.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002002003|ἐξακολουθήσουσιν"
+      ],
+      "target": [
+        "61002002003|suivront"
+      ],
+      "meta": {
+        "id": "61002002.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002002004|αὐτῶν"
+      ],
+      "target": [
+        "61002002005|leurs"
+      ],
+      "meta": {
+        "id": "61002002.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002002007|δι"
+      ],
+      "target": [
+        "61002002017|cause"
+      ],
+      "meta": {
+        "id": "61002002.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002002008|οὓς"
+      ],
+      "target": [
+        "61002002019|eux"
+      ],
+      "meta": {
+        "id": "61002002.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002002010|ὁδὸς"
+      ],
+      "target": [
+        "61002002010|voie"
+      ],
+      "meta": {
+        "id": "61002002.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002002012|ἀληθείας"
+      ],
+      "target": [
+        "61002002013|vérité"
+      ],
+      "meta": {
+        "id": "61002002.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002002013|βλασφημηθήσεται"
+      ],
+      "target": [
+        "61002002015|calomniée"
+      ],
+      "meta": {
+        "id": "61002002.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002003001|καὶ"
+      ],
+      "target": [
+        "61002003022|et"
+      ],
+      "meta": {
+        "id": "61002003.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002003002|ἐν"
+      ],
+      "target": [
+        "61002003001|Par"
+      ],
+      "meta": {
+        "id": "61002003.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002003003|πλεονεξίᾳ"
+      ],
+      "target": [
+        "61002003002|cupidité"
+      ],
+      "meta": {
+        "id": "61002003.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002003004|πλαστοῖς"
+      ],
+      "target": [
+        "61002003012|trompeuses"
+      ],
+      "meta": {
+        "id": "61002003.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002003005|λόγοις"
+      ],
+      "target": [
+        "61002003011|paroles"
+      ],
+      "meta": {
+        "id": "61002003.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002003006|ὑμᾶς"
+      ],
+      "target": [
+        "61002003007|vous"
+      ],
+      "meta": {
+        "id": "61002003.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002003007|ἐμπορεύσονται"
+      ],
+      "target": [
+        "61002003005|trafiqueront"
+      ],
+      "meta": {
+        "id": "61002003.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002003008|οἷς"
+      ],
+      "target": [
+        "61002003014|eux"
+      ],
+      "meta": {
+        "id": "61002003.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002003010|κρίμα"
+      ],
+      "target": [
+        "61002003020|condamnation"
+      ],
+      "meta": {
+        "id": "61002003.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002003011|ἔκπαλαι"
+      ],
+      "target": [
+        "61002003018|longtemps"
+      ],
+      "meta": {
+        "id": "61002003.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002003012|οὐ"
+      ],
+      "target": [
+        "61002003017|depuis",
+        "61002003028|point"
+      ],
+      "meta": {
+        "id": "61002003.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002003013|ἀργεῖ"
+      ],
+      "target": [
+        "61002003016|menace"
+      ],
+      "meta": {
+        "id": "61002003.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002003016|ἀπώλεια"
+      ],
+      "target": [
+        "61002003025|ruine"
+      ],
+      "meta": {
+        "id": "61002003.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002003017|αὐτῶν"
+      ],
+      "target": [
+        "61002003026|ne"
+      ],
+      "meta": {
+        "id": "61002003.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002003018|οὐ"
+      ],
+      "target": [
+        "61002003028|point"
+      ],
+      "meta": {
+        "id": "61002003.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002003019|νυστάζει"
+      ],
+      "target": [
+        "61002003027|sommeille"
+      ],
+      "meta": {
+        "id": "61002003.16",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002004001|Εἰ"
+      ],
+      "target": [
+        "61002004003|si"
+      ],
+      "meta": {
+        "id": "61002004.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002004002|γὰρ"
+      ],
+      "target": [
+        "61002004001|Car"
+      ],
+      "meta": {
+        "id": "61002004.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002004004|θεὸς"
+      ],
+      "target": [
+        "61002004004|Dieu"
+      ],
+      "meta": {
+        "id": "61002004.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002004005|ἀγγέλων"
+      ],
+      "target": [
+        "61002004010|anges"
+      ],
+      "meta": {
+        "id": "61002004.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002004006|ἁμαρτησάντων"
+      ],
+      "target": [
+        "61002004013|péché"
+      ],
+      "meta": {
+        "id": "61002004.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002004007|οὐ"
+      ],
+      "target": [
+        "61002004007|pas"
+      ],
+      "meta": {
+        "id": "61002004.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002004008|ἐφείσατο"
+      ],
+      "target": [
+        "61002004008|épargné"
+      ],
+      "meta": {
+        "id": "61002004.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002004009|ἀλλὰ"
+      ],
+      "target": [
+        "61002004015|mais"
+      ],
+      "meta": {
+        "id": "61002004.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002004010|σειραῖς"
+      ],
+      "target": [
+        "61002004021|dans",
+        "61002004022|les"
+      ],
+      "meta": {
+        "id": "61002004.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002004011|ζόφου"
+      ],
+      "target": [
+        "61002004025|ténèbres"
+      ],
+      "meta": {
+        "id": "61002004.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002004012|ταρταρώσας"
+      ],
+      "target": [
+        "61002004023|abîmes"
+      ],
+      "meta": {
+        "id": "61002004.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002004013|παρέδωκεν"
+      ],
+      "target": [
+        "61002004020|précipités"
+      ],
+      "meta": {
+        "id": "61002004.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002004014|εἰς"
+      ],
+      "target": [
+        "61002004029|pour"
+      ],
+      "meta": {
+        "id": "61002004.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002004015|κρίσιν"
+      ],
+      "target": [
+        "61002004031|jugement"
+      ],
+      "meta": {
+        "id": "61002004.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002004016|τηρουμένους"
+      ],
+      "target": [
+        "61002004028|réserve"
+      ],
+      "meta": {
+        "id": "61002004.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002005002|ἀρχαίου"
+      ],
+      "target": [
+        "61002005008|ancien"
+      ],
+      "meta": {
+        "id": "61002005.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002005003|κόσμου"
+      ],
+      "target": [
+        "61002005009|monde"
+      ],
+      "meta": {
+        "id": "61002005.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002005004|οὐ"
+      ],
+      "target": [
+        "61002005005|pas"
+      ],
+      "meta": {
+        "id": "61002005.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002005005|ἐφείσατο"
+      ],
+      "target": [
+        "61002005006|épargné"
+      ],
+      "meta": {
+        "id": "61002005.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002005006|ἀλλὰ"
+      ],
+      "target": [
+        "61002005011|mais"
+      ],
+      "meta": {
+        "id": "61002005.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002005007|ὄγδοον"
+      ],
+      "target": [
+        "61002005019|huitième"
+      ],
+      "meta": {
+        "id": "61002005.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002005008|Νῶε"
+      ],
+      "target": [
+        "61002005016|Noé"
+      ],
+      "meta": {
+        "id": "61002005.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002005009|δικαιοσύνης"
+      ],
+      "target": [
+        "61002005025|justice"
+      ],
+      "meta": {
+        "id": "61002005.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002005010|κήρυκα"
+      ],
+      "target": [
+        "61002005022|prédicateur"
+      ],
+      "meta": {
+        "id": "61002005.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002005011|ἐφύλαξεν"
+      ],
+      "target": [
+        "61002005015|sauvé"
+      ],
+      "meta": {
+        "id": "61002005.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002005012|κατακλυσμὸν"
+      ],
+      "target": [
+        "61002005032|déluge"
+      ],
+      "meta": {
+        "id": "61002005.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002005013|κόσμῳ"
+      ],
+      "target": [
+        "61002005035|monde"
+      ],
+      "meta": {
+        "id": "61002005.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002005014|ἀσεβῶν"
+      ],
+      "target": [
+        "61002005037|impies"
+      ],
+      "meta": {
+        "id": "61002005.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002005015|ἐπάξας"
+      ],
+      "target": [
+        "61002005030|venir"
+      ],
+      "meta": {
+        "id": "61002005.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002006001|καὶ"
+      ],
+      "target": [
+        "61002006016|et"
+      ],
+      "meta": {
+        "id": "61002006.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002006002|πόλεις"
+      ],
+      "target": [
+        "61002006013|villes"
+      ],
+      "meta": {
+        "id": "61002006.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002006003|Σοδόμων"
+      ],
+      "target": [
+        "61002006015|Sodome"
+      ],
+      "meta": {
+        "id": "61002006.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002006005|Γομόρρας"
+      ],
+      "target": [
+        "61002006018|Gomorrhe"
+      ],
+      "meta": {
+        "id": "61002006.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002006006|τεφρώσας"
+      ],
+      "target": [
+        "61002006011|cendres"
+      ],
+      "meta": {
+        "id": "61002006.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002006007|καταστροφῇ"
+      ],
+      "target": [
+        "61002006007|destruction"
+      ],
+      "meta": {
+        "id": "61002006.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002006008|κατέκρινεν"
+      ],
+      "target": [
+        "61002006004|condamné"
+      ],
+      "meta": {
+        "id": "61002006.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002006009|ὑπόδειγμα"
+      ],
+      "target": [
+        "61002006023|exemple"
+      ],
+      "meta": {
+        "id": "61002006.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002006010|μελλόντων"
+      ],
+      "target": [
+        "61002006027|venir"
+      ],
+      "meta": {
+        "id": "61002006.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002006012|τεθεικώς"
+      ],
+      "target": [
+        "61002006021|donnant"
+      ],
+      "meta": {
+        "id": "61002006.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002007001|καὶ"
+      ],
+      "target": [
+        "61002007001|et"
+      ],
+      "meta": {
+        "id": "61002007.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002007002|δίκαιον"
+      ],
+      "target": [
+        "61002007007|juste"
+      ],
+      "meta": {
+        "id": "61002007.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002007003|Λὼτ"
+      ],
+      "target": [
+        "61002007008|Lot"
+      ],
+      "meta": {
+        "id": "61002007.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002007004|καταπονούμενον"
+      ],
+      "target": [
+        "61002007011|attristé"
+      ],
+      "meta": {
+        "id": "61002007.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002007005|ὑπὸ"
+      ],
+      "target": [
+        "61002007012|de"
+      ],
+      "meta": {
+        "id": "61002007.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002007008|ἀθέσμων"
+      ],
+      "target": [
+        "61002007019|frein"
+      ],
+      "meta": {
+        "id": "61002007.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002007010|ἀσελγείᾳ"
+      ],
+      "target": [
+        "61002007022|dissolution"
+      ],
+      "meta": {
+        "id": "61002007.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002007011|ἀναστροφῆς"
+      ],
+      "target": [
+        "61002007014|conduite"
+      ],
+      "meta": {
+        "id": "61002007.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002007012|ἐρρύσατο"
+      ],
+      "target": [
+        "61002007005|délivré"
+      ],
+      "meta": {
+        "id": "61002007.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002008001|βλέμματι"
+      ],
+      "target": [
+        "61002008024|voyait"
+      ],
+      "meta": {
+        "id": "61002008.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002008002|γὰρ"
+      ],
+      "target": [
+        "61002008002|car"
+      ],
+      "meta": {
+        "id": "61002008.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002008003|καὶ"
+      ],
+      "target": [
+        "61002008025|et"
+      ],
+      "meta": {
+        "id": "61002008.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002008004|ἀκοῇ"
+      ],
+      "target": [
+        "61002008026|entendait"
+      ],
+      "meta": {
+        "id": "61002008.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002008006|δίκαιος"
+      ],
+      "target": [
+        "61002008004|juste"
+      ],
+      "meta": {
+        "id": "61002008.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002008007|ἐγκατοικῶν"
+      ],
+      "target": [
+        "61002008007|habitait"
+      ],
+      "meta": {
+        "id": "61002008.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002008008|ἐν"
+      ],
+      "target": [
+        "61002008009|milieu"
+      ],
+      "meta": {
+        "id": "61002008.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002008009|αὐτοῖς"
+      ],
+      "target": [
+        "61002008011|eux"
+      ],
+      "meta": {
+        "id": "61002008.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002008010|ἡμέραν"
+      ],
+      "target": [
+        "61002008014|journellement"
+      ],
+      "meta": {
+        "id": "61002008.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002008012|ἡμέρας"
+      ],
+      "target": [
+        "61002008015|son"
+      ],
+      "meta": {
+        "id": "61002008.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002008013|ψυχὴν"
+      ],
+      "target": [
+        "61002008016|âme"
+      ],
+      "meta": {
+        "id": "61002008.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002008014|δικαίαν"
+      ],
+      "target": [
+        "61002008017|juste"
+      ],
+      "meta": {
+        "id": "61002008.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002008015|ἀνόμοις"
+      ],
+      "target": [
+        "61002008030|criminelles"
+      ],
+      "meta": {
+        "id": "61002008.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002008016|ἔργοις"
+      ],
+      "target": [
+        "61002008029|œuvres"
+      ],
+      "meta": {
+        "id": "61002008.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002008017|ἐβασάνιζεν"
+      ],
+      "target": [
+        "61002008013|tourmentait"
+      ],
+      "meta": {
+        "id": "61002008.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002009001|οἶδεν"
+      ],
+      "target": [
+        "61002009003|sait"
+      ],
+      "meta": {
+        "id": "61002009.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002009002|κύριος"
+      ],
+      "target": [
+        "61002009002|Seigneur"
+      ],
+      "meta": {
+        "id": "61002009.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002009003|εὐσεβεῖς"
+      ],
+      "target": [
+        "61002009010|pieux"
+      ],
+      "meta": {
+        "id": "61002009.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002009004|ἐκ"
+      ],
+      "target": [
+        "61002009005|de"
+      ],
+      "meta": {
+        "id": "61002009.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002009005|πειρασμοῦ"
+      ],
+      "target": [
+        "61002009007|épreuve"
+      ],
+      "meta": {
+        "id": "61002009.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002009006|ῥύεσθαι"
+      ],
+      "target": [
+        "61002009004|délivrer"
+      ],
+      "meta": {
+        "id": "61002009.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002009007|ἀδίκους"
+      ],
+      "target": [
+        "61002009015|injustes"
+      ],
+      "meta": {
+        "id": "61002009.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002009008|δὲ"
+      ],
+      "target": [
+        "61002009012|et"
+      ],
+      "meta": {
+        "id": "61002009.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002009009|εἰς"
+      ],
+      "target": [
+        "61002009017|être"
+      ],
+      "meta": {
+        "id": "61002009.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002009010|ἡμέραν"
+      ],
+      "target": [
+        "61002009020|jour"
+      ],
+      "meta": {
+        "id": "61002009.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002009011|κρίσεως"
+      ],
+      "target": [
+        "61002009022|jugement"
+      ],
+      "meta": {
+        "id": "61002009.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002009012|κολαζομένους"
+      ],
+      "target": [
+        "61002009018|punis"
+      ],
+      "meta": {
+        "id": "61002009.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002009013|τηρεῖν"
+      ],
+      "target": [
+        "61002009013|réserver"
+      ],
+      "meta": {
+        "id": "61002009.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002010001|μάλιστα"
+      ],
+      "target": [
+        "61002010002|surtout"
+      ],
+      "meta": {
+        "id": "61002010.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002010002|δὲ"
+      ],
+      "target": [
+        "61002010001|ceux"
+      ],
+      "meta": {
+        "id": "61002010.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002010004|ὀπίσω"
+      ],
+      "target": [
+        "61002010005|après"
+      ],
+      "meta": {
+        "id": "61002010.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002010005|σαρκὸς"
+      ],
+      "target": [
+        "61002010007|chair"
+      ],
+      "meta": {
+        "id": "61002010.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002010006|ἐν"
+      ],
+      "target": [
+        "61002010008|dans"
+      ],
+      "meta": {
+        "id": "61002010.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002010007|ἐπιθυμίᾳ"
+      ],
+      "target": [
+        "61002010010|désir"
+      ],
+      "meta": {
+        "id": "61002010.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002010008|μιασμοῦ"
+      ],
+      "target": [
+        "61002010012|impureté"
+      ],
+      "meta": {
+        "id": "61002010.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002010009|πορευομένους"
+      ],
+      "target": [
+        "61002010004|vont"
+      ],
+      "meta": {
+        "id": "61002010.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002010010|καὶ"
+      ],
+      "target": [
+        "61002010013|et"
+      ],
+      "meta": {
+        "id": "61002010.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002010011|κυριότητος"
+      ],
+      "target": [
+        "61002010017|autorité"
+      ],
+      "meta": {
+        "id": "61002010.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002010012|καταφρονοῦντας"
+      ],
+      "target": [
+        "61002010015|méprisent"
+      ],
+      "meta": {
+        "id": "61002010.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002010013|Τολμηταὶ"
+      ],
+      "target": [
+        "61002010019|Audacieux"
+      ],
+      "meta": {
+        "id": "61002010.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002010014|αὐθάδεις"
+      ],
+      "target": [
+        "61002010021|arrogants"
+      ],
+      "meta": {
+        "id": "61002010.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002010015|δόξας"
+      ],
+      "target": [
+        "61002010030|gloires"
+      ],
+      "meta": {
+        "id": "61002010.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002010016|οὐ"
+      ],
+      "target": [
+        "61002010026|pas"
+      ],
+      "meta": {
+        "id": "61002010.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002010017|τρέμουσιν"
+      ],
+      "target": [
+        "61002010025|craignent"
+      ],
+      "meta": {
+        "id": "61002010.16",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002010018|βλασφημοῦντες"
+      ],
+      "target": [
+        "61002010028|injurier"
+      ],
+      "meta": {
+        "id": "61002010.17",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002011001|ὅπου"
+      ],
+      "target": [
+        "61002011001|tandis"
+      ],
+      "meta": {
+        "id": "61002011.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002011002|ἄγγελοι"
+      ],
+      "target": [
+        "61002011004|anges"
+      ],
+      "meta": {
+        "id": "61002011.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002011003|ἰσχύϊ"
+      ],
+      "target": [
+        "61002011008|force"
+      ],
+      "meta": {
+        "id": "61002011.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002011004|καὶ"
+      ],
+      "target": [
+        "61002011009|et"
+      ],
+      "meta": {
+        "id": "61002011.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002011005|δυνάμει"
+      ],
+      "target": [
+        "61002011011|puissance"
+      ],
+      "meta": {
+        "id": "61002011.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002011006|μείζονες"
+      ],
+      "target": [
+        "61002011007|en"
+      ],
+      "meta": {
+        "id": "61002011.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002011007|ὄντες"
+      ],
+      "target": [
+        "61002011006|supérieurs"
+      ],
+      "meta": {
+        "id": "61002011.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002011008|οὐ"
+      ],
+      "target": [
+        "61002011015|pas"
+      ],
+      "meta": {
+        "id": "61002011.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002011009|φέρουσιν"
+      ],
+      "target": [
+        "61002011014|portent"
+      ],
+      "meta": {
+        "id": "61002011.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002011011|αὐτῶν"
+      ],
+      "target": [
+        "61002011017|elles"
+      ],
+      "meta": {
+        "id": "61002011.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002011012|βλάσφημον"
+      ],
+      "target": [
+        "61002011020|injurieux"
+      ],
+      "meta": {
+        "id": "61002011.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002011013|κρίσιν"
+      ],
+      "target": [
+        "61002011019|jugement"
+      ],
+      "meta": {
+        "id": "61002011.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002012001|οὗτοι"
+      ],
+      "target": [
+        "61002012002|eux"
+      ],
+      "meta": {
+        "id": "61002012.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002012002|δέ"
+      ],
+      "target": [
+        "61002012001|Mais"
+      ],
+      "meta": {
+        "id": "61002012.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002012003|ὡς"
+      ],
+      "target": [
+        "61002012004|semblables"
+      ],
+      "meta": {
+        "id": "61002012.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002012004|ἄλογα"
+      ],
+      "target": [
+        "61002012007|brutes"
+      ],
+      "meta": {
+        "id": "61002012.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002012005|ζῷα"
+      ],
+      "target": [
+        "61002012008|qui",
+        "61002012010|abandonnent",
+        "61002012011|à",
+        "61002012012|leurs",
+        "61002012013|penchants"
+      ],
+      "meta": {
+        "id": "61002012.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002012006|γεγεννημένα"
+      ],
+      "target": [
+        "61002012018|nées"
+      ],
+      "meta": {
+        "id": "61002012.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002012007|φυσικὰ"
+      ],
+      "target": [
+        "61002012014|naturels"
+      ],
+      "meta": {
+        "id": "61002012.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002012008|εἰς"
+      ],
+      "target": [
+        "61002012019|pour"
+      ],
+      "meta": {
+        "id": "61002012.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002012009|ἅλωσιν"
+      ],
+      "target": [
+        "61002012021|prises"
+      ],
+      "meta": {
+        "id": "61002012.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002012010|καὶ"
+      ],
+      "target": [
+        "61002012022|et"
+      ],
+      "meta": {
+        "id": "61002012.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002012011|φθοράν"
+      ],
+      "target": [
+        "61002012023|détruites"
+      ],
+      "meta": {
+        "id": "61002012.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002012012|ἐν"
+      ],
+      "target": [
+        "61002012031|de"
+      ],
+      "meta": {
+        "id": "61002012.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002012013|οἷς"
+      ],
+      "target": [
+        "61002012032|ce"
+      ],
+      "meta": {
+        "id": "61002012.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002012014|ἀγνοοῦσιν"
+      ],
+      "target": [
+        "61002012035|ignorent"
+      ],
+      "meta": {
+        "id": "61002012.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002012015|βλασφημοῦντες"
+      ],
+      "target": [
+        "61002012030|injurieuse"
+      ],
+      "meta": {
+        "id": "61002012.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002012016|ἐν"
+      ],
+      "target": [
+        "61002012040|par"
+      ],
+      "meta": {
+        "id": "61002012.16",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002012018|φθορᾷ"
+      ],
+      "target": [
+        "61002012043|corruption"
+      ],
+      "meta": {
+        "id": "61002012.17",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002012019|αὐτῶν"
+      ],
+      "target": [
+        "61002012042|propre"
+      ],
+      "meta": {
+        "id": "61002012.18",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002013002|μισθὸν"
+      ],
+      "target": [
+        "61002013004|salaire"
+      ],
+      "meta": {
+        "id": "61002013.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002013003|ἀδικίας"
+      ],
+      "target": [
+        "61002013007|iniquité"
+      ],
+      "meta": {
+        "id": "61002013.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002013004|ἡδονὴν"
+      ],
+      "target": [
+        "61002013012|délices"
+      ],
+      "meta": {
+        "id": "61002013.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002013005|ἡγούμενοι"
+      ],
+      "target": [
+        "61002013010|trouvent"
+      ],
+      "meta": {
+        "id": "61002013.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002013007|ἐν"
+      ],
+      "target": [
+        "61002013018|en"
+      ],
+      "meta": {
+        "id": "61002013.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002013008|ἡμέρᾳ"
+      ],
+      "target": [
+        "61002013020|jour"
+      ],
+      "meta": {
+        "id": "61002013.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002013009|τρυφήν"
+      ],
+      "target": [
+        "61002013017|plaisir"
+      ],
+      "meta": {
+        "id": "61002013.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002013010|σπίλοι"
+      ],
+      "target": [
+        "61002013023|tarés"
+      ],
+      "meta": {
+        "id": "61002013.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002013011|καὶ"
+      ],
+      "target": [
+        "61002013024|et"
+      ],
+      "meta": {
+        "id": "61002013.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002013012|μῶμοι"
+      ],
+      "target": [
+        "61002013025|souillés"
+      ],
+      "meta": {
+        "id": "61002013.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002013013|ἐντρυφῶντες"
+      ],
+      "target": [
+        "61002013029|délectent"
+      ],
+      "meta": {
+        "id": "61002013.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002013014|ἐν"
+      ],
+      "target": [
+        "61002013030|dans"
+      ],
+      "meta": {
+        "id": "61002013.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002013016|ἀπάταις"
+      ],
+      "target": [
+        "61002013032|tromperies"
+      ],
+      "meta": {
+        "id": "61002013.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002013017|αὐτῶν"
+      ],
+      "target": [
+        "61002013031|leurs"
+      ],
+      "meta": {
+        "id": "61002013.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002013018|συνευωχούμενοι"
+      ],
+      "target": [
+        "61002013037|chère"
+      ],
+      "meta": {
+        "id": "61002013.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002013019|ὑμῖν"
+      ],
+      "target": [
+        "61002013039|vous"
+      ],
+      "meta": {
+        "id": "61002013.16",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002014001|ὀφθαλμοὺς"
+      ],
+      "target": [
+        "61002014004|yeux"
+      ],
+      "meta": {
+        "id": "61002014.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002014002|ἔχοντες"
+      ],
+      "target": [
+        "61002014002|ont"
+      ],
+      "meta": {
+        "id": "61002014.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002014003|μεστοὺς"
+      ],
+      "target": [
+        "61002014005|pleins"
+      ],
+      "meta": {
+        "id": "61002014.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002014004|μοιχαλίδος"
+      ],
+      "target": [
+        "61002014007|adultère"
+      ],
+      "meta": {
+        "id": "61002014.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002014005|καὶ"
+      ],
+      "target": [
+        "61002014008|et"
+      ],
+      "meta": {
+        "id": "61002014.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002014006|ἀκαταπαύστους"
+      ],
+      "target": [
+        "61002014009|insatiables"
+      ],
+      "meta": {
+        "id": "61002014.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002014007|ἁμαρτίας"
+      ],
+      "target": [
+        "61002014011|péché"
+      ],
+      "meta": {
+        "id": "61002014.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002014008|δελεάζοντες"
+      ],
+      "target": [
+        "61002014014|amorcent"
+      ],
+      "meta": {
+        "id": "61002014.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002014009|ψυχὰς"
+      ],
+      "target": [
+        "61002014016|âmes"
+      ],
+      "meta": {
+        "id": "61002014.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002014010|ἀστηρίκτους"
+      ],
+      "target": [
+        "61002014018|affermies"
+      ],
+      "meta": {
+        "id": "61002014.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002014011|καρδίαν"
+      ],
+      "target": [
+        "61002014023|cœur"
+      ],
+      "meta": {
+        "id": "61002014.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002014012|γεγυμνασμένην"
+      ],
+      "target": [
+        "61002014024|exercé"
+      ],
+      "meta": {
+        "id": "61002014.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002014013|πλεονεξίας"
+      ],
+      "target": [
+        "61002014027|cupidité"
+      ],
+      "meta": {
+        "id": "61002014.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002014014|ἔχοντες"
+      ],
+      "target": [
+        "61002014021|ont"
+      ],
+      "meta": {
+        "id": "61002014.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002014015|κατάρας"
+      ],
+      "target": [
+        "61002014034|malédiction"
+      ],
+      "meta": {
+        "id": "61002014.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002014016|τέκνα"
+      ],
+      "target": [
+        "61002014032|enfants"
+      ],
+      "meta": {
+        "id": "61002014.16",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002015001|καταλιπόντες"
+      ],
+      "target": [
+        "61002015003|quitté"
+      ],
+      "meta": {
+        "id": "61002015.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002015002|εὐθεῖαν"
+      ],
+      "target": [
+        "61002015005|droit"
+      ],
+      "meta": {
+        "id": "61002015.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002015003|ὁδὸν"
+      ],
+      "target": [
+        "61002015006|chemin"
+      ],
+      "meta": {
+        "id": "61002015.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002015004|ἐπλανήθησαν"
+      ],
+      "target": [
+        "61002015011|égarés"
+      ],
+      "meta": {
+        "id": "61002015.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002015005|ἐξακολουθήσαντες"
+      ],
+      "target": [
+        "61002015013|suivant"
+      ],
+      "meta": {
+        "id": "61002015.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002015007|ὁδῷ"
+      ],
+      "target": [
+        "61002015015|voie"
+      ],
+      "meta": {
+        "id": "61002015.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002015009|Βαλαὰμ"
+      ],
+      "target": [
+        "61002015017|Balaam"
+      ],
+      "meta": {
+        "id": "61002015.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002015011|Βοσὸρ"
+      ],
+      "target": [
+        "61002015021|Bosor"
+      ],
+      "meta": {
+        "id": "61002015.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002015012|ὃς"
+      ],
+      "target": [
+        "61002015023|qui"
+      ],
+      "meta": {
+        "id": "61002015.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002015013|μισθὸν"
+      ],
+      "target": [
+        "61002015026|salaire"
+      ],
+      "meta": {
+        "id": "61002015.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002015014|ἀδικίας"
+      ],
+      "target": [
+        "61002015029|iniquité"
+      ],
+      "meta": {
+        "id": "61002015.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002015015|ἠγάπησεν"
+      ],
+      "target": [
+        "61002015024|aima"
+      ],
+      "meta": {
+        "id": "61002015.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002016001|ἔλεγξιν"
+      ],
+      "target": [
+        "61002016004|repris"
+      ],
+      "meta": {
+        "id": "61002016.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002016002|δὲ"
+      ],
+      "target": [
+        "61002016001|mais"
+      ],
+      "meta": {
+        "id": "61002016.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002016003|ἔσχεν"
+      ],
+      "target": [
+        "61002016003|fut"
+      ],
+      "meta": {
+        "id": "61002016.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002016004|ἰδίας"
+      ],
+      "target": [
+        "61002016006|sa"
+      ],
+      "meta": {
+        "id": "61002016.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002016005|παρανομίας"
+      ],
+      "target": [
+        "61002016007|transgression"
+      ],
+      "meta": {
+        "id": "61002016.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002016006|ὑποζύγιον"
+      ],
+      "target": [
+        "61002016010|ânesse"
+      ],
+      "meta": {
+        "id": "61002016.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002016007|ἄφωνον"
+      ],
+      "target": [
+        "61002016011|muette"
+      ],
+      "meta": {
+        "id": "61002016.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002016008|ἐν"
+      ],
+      "target": [
+        "61002016015|une"
+      ],
+      "meta": {
+        "id": "61002016.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002016009|ἀνθρώπου"
+      ],
+      "target": [
+        "61002016018|homme"
+      ],
+      "meta": {
+        "id": "61002016.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002016010|φωνῇ"
+      ],
+      "target": [
+        "61002016016|voix"
+      ],
+      "meta": {
+        "id": "61002016.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002016011|φθεγξάμενον"
+      ],
+      "target": [
+        "61002016014|entendre"
+      ],
+      "meta": {
+        "id": "61002016.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002016012|ἐκώλυσεν"
+      ],
+      "target": [
+        "61002016020|arrêta"
+      ],
+      "meta": {
+        "id": "61002016.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002016015|προφήτου"
+      ],
+      "target": [
+        "61002016024|prophète"
+      ],
+      "meta": {
+        "id": "61002016.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002016016|παραφρονίαν"
+      ],
+      "target": [
+        "61002016022|démence"
+      ],
+      "meta": {
+        "id": "61002016.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002017002|εἰσιν"
+      ],
+      "target": [
+        "61002017003|sont"
+      ],
+      "meta": {
+        "id": "61002017.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002017003|πηγαὶ"
+      ],
+      "target": [
+        "61002017005|fontaines"
+      ],
+      "meta": {
+        "id": "61002017.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002017004|ἄνυδροι"
+      ],
+      "target": [
+        "61002017007|eau"
+      ],
+      "meta": {
+        "id": "61002017.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002017006|ὁμίχλαι"
+      ],
+      "target": [
+        "61002017010|nuées"
+      ],
+      "meta": {
+        "id": "61002017.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002017007|ὑπὸ"
+      ],
+      "target": [
+        "61002017013|un"
+      ],
+      "meta": {
+        "id": "61002017.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002017008|λαίλαπος"
+      ],
+      "target": [
+        "61002017014|tourbillon"
+      ],
+      "meta": {
+        "id": "61002017.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002017009|ἐλαυνόμεναι"
+      ],
+      "target": [
+        "61002017012|chasse"
+      ],
+      "meta": {
+        "id": "61002017.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002017010|οἷς"
+      ],
+      "target": [
+        "61002017020|leur"
+      ],
+      "meta": {
+        "id": "61002017.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002017012|ζόφος"
+      ],
+      "target": [
+        "61002017017|obscurité"
+      ],
+      "meta": {
+        "id": "61002017.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002017014|σκότους"
+      ],
+      "target": [
+        "61002017019|ténèbres"
+      ],
+      "meta": {
+        "id": "61002017.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002017015|τετήρηται"
+      ],
+      "target": [
+        "61002017022|réservée"
+      ],
+      "meta": {
+        "id": "61002017.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002018001|ὑπέρογκα"
+      ],
+      "target": [
+        "61002018004|enflés"
+      ],
+      "meta": {
+        "id": "61002018.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002018002|γὰρ"
+      ],
+      "target": [
+        "61002018001|Avec"
+      ],
+      "meta": {
+        "id": "61002018.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002018003|ματαιότητος"
+      ],
+      "target": [
+        "61002018006|vanité"
+      ],
+      "meta": {
+        "id": "61002018.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002018004|φθεγγόμενοι"
+      ],
+      "target": [
+        "61002018003|discours"
+      ],
+      "meta": {
+        "id": "61002018.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002018005|δελεάζουσιν"
+      ],
+      "target": [
+        "61002018009|amorcent"
+      ],
+      "meta": {
+        "id": "61002018.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002018006|ἐν"
+      ],
+      "target": [
+        "61002018010|par"
+      ],
+      "meta": {
+        "id": "61002018.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002018007|ἐπιθυμίαις"
+      ],
+      "target": [
+        "61002018012|convoitises"
+      ],
+      "meta": {
+        "id": "61002018.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002018008|σαρκὸς"
+      ],
+      "target": [
+        "61002018015|chair"
+      ],
+      "meta": {
+        "id": "61002018.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002018009|ἀσελγείαις"
+      ],
+      "target": [
+        "61002018019|dissolutions"
+      ],
+      "meta": {
+        "id": "61002018.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002018012|ἀποφεύγοντας"
+      ],
+      "target": [
+        "61002018027|échapper"
+      ],
+      "meta": {
+        "id": "61002018.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002018014|ἐν"
+      ],
+      "target": [
+        "61002018032|dans"
+      ],
+      "meta": {
+        "id": "61002018.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002018015|πλάνῃ"
+      ],
+      "target": [
+        "61002018034|égarement"
+      ],
+      "meta": {
+        "id": "61002018.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002018016|ἀναστρεφομένους"
+      ],
+      "target": [
+        "61002018031|vivent"
+      ],
+      "meta": {
+        "id": "61002018.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002019001|ἐλευθερίαν"
+      ],
+      "target": [
+        "61002019005|liberté"
+      ],
+      "meta": {
+        "id": "61002019.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002019002|αὐτοῖς"
+      ],
+      "target": [
+        "61002019002|leur"
+      ],
+      "meta": {
+        "id": "61002019.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002019003|ἐπαγγελλόμενοι"
+      ],
+      "target": [
+        "61002019003|promettent"
+      ],
+      "meta": {
+        "id": "61002019.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002019005|δοῦλοι"
+      ],
+      "target": [
+        "61002019011|esclaves"
+      ],
+      "meta": {
+        "id": "61002019.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002019006|ὑπάρχοντες"
+      ],
+      "target": [
+        "61002019009|sont"
+      ],
+      "meta": {
+        "id": "61002019.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002019008|φθορᾶς"
+      ],
+      "target": [
+        "61002019014|corruption"
+      ],
+      "meta": {
+        "id": "61002019.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002019009|ᾧ"
+      ],
+      "target": [
+        "61002019022|qui"
+      ],
+      "meta": {
+        "id": "61002019.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002019010|γάρ"
+      ],
+      "target": [
+        "61002019016|car"
+      ],
+      "meta": {
+        "id": "61002019.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002019011|τις"
+      ],
+      "target": [
+        "61002019017|chacun"
+      ],
+      "meta": {
+        "id": "61002019.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002019012|ἥττηται"
+      ],
+      "target": [
+        "61002019026|lui"
+      ],
+      "meta": {
+        "id": "61002019.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002019014|καὶ"
+      ],
+      "target": [
+        "61002019021|ce"
+      ],
+      "meta": {
+        "id": "61002019.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002019015|δεδούλωται"
+      ],
+      "target": [
+        "61002019019|esclave"
+      ],
+      "meta": {
+        "id": "61002019.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002020001|εἰ"
+      ],
+      "target": [
+        "61002020004|si"
+      ],
+      "meta": {
+        "id": "61002020.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002020002|γὰρ"
+      ],
+      "target": [
+        "61002020002|effet"
+      ],
+      "meta": {
+        "id": "61002020.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002020003|ἀποφυγόντες"
+      ],
+      "target": [
+        "61002020009|retirés"
+      ],
+      "meta": {
+        "id": "61002020.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002020005|μιάσματα"
+      ],
+      "target": [
+        "61002020011|souillures"
+      ],
+      "meta": {
+        "id": "61002020.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002020007|κόσμου"
+      ],
+      "target": [
+        "61002020013|monde"
+      ],
+      "meta": {
+        "id": "61002020.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002020008|ἐν"
+      ],
+      "target": [
+        "61002020015|par"
+      ],
+      "meta": {
+        "id": "61002020.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002020009|ἐπιγνώσει"
+      ],
+      "target": [
+        "61002020017|connaissance"
+      ],
+      "meta": {
+        "id": "61002020.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002020011|κυρίου"
+      ],
+      "target": [
+        "61002020019|Seigneur"
+      ],
+      "meta": {
+        "id": "61002020.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002020012|καὶ"
+      ],
+      "target": [
+        "61002020020|et"
+      ],
+      "meta": {
+        "id": "61002020.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002020013|σωτῆρος"
+      ],
+      "target": [
+        "61002020021|Sauveur"
+      ],
+      "meta": {
+        "id": "61002020.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002020016|τούτοις"
+      ],
+      "target": [
+        "61002020028|de"
+      ],
+      "meta": {
+        "id": "61002020.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002020017|δὲ"
+      ],
+      "target": [
+        "61002020030|et"
+      ],
+      "meta": {
+        "id": "61002020.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002020018|πάλιν"
+      ],
+      "target": [
+        "61002020029|nouveau"
+      ],
+      "meta": {
+        "id": "61002020.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002020019|ἐμπλακέντες"
+      ],
+      "target": [
+        "61002020027|engagent"
+      ],
+      "meta": {
+        "id": "61002020.16",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002020021|γέγονεν"
+      ],
+      "target": [
+        "61002020032|vaincus"
+      ],
+      "meta": {
+        "id": "61002020.18",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002020022|αὐτοῖς"
+      ],
+      "target": [
+        "61002020034|leur"
+      ],
+      "meta": {
+        "id": "61002020.19",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002020024|ἔσχατα"
+      ],
+      "target": [
+        "61002020036|condition"
+      ],
+      "meta": {
+        "id": "61002020.20",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002020025|χείρονα"
+      ],
+      "target": [
+        "61002020038|pire"
+      ],
+      "meta": {
+        "id": "61002020.21",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002020027|πρώτων"
+      ],
+      "target": [
+        "61002020041|première"
+      ],
+      "meta": {
+        "id": "61002020.22",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002021001|κρεῖττον"
+      ],
+      "target": [
+        "61002021002|mieux"
+      ],
+      "meta": {
+        "id": "61002021.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002021002|γὰρ"
+      ],
+      "target": [
+        "61002021001|Car"
+      ],
+      "meta": {
+        "id": "61002021.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002021003|ἦν"
+      ],
+      "target": [
+        "61002021003|valait"
+      ],
+      "meta": {
+        "id": "61002021.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002021004|αὐτοῖς"
+      ],
+      "target": [
+        "61002021005|eux"
+      ],
+      "meta": {
+        "id": "61002021.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002021005|μὴ"
+      ],
+      "target": [
+        "61002021008|pas"
+      ],
+      "meta": {
+        "id": "61002021.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002021006|ἐπεγνωκέναι"
+      ],
+      "target": [
+        "61002021009|connu"
+      ],
+      "meta": {
+        "id": "61002021.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002021008|ὁδὸν"
+      ],
+      "target": [
+        "61002021011|voie"
+      ],
+      "meta": {
+        "id": "61002021.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002021010|δικαιοσύνης"
+      ],
+      "target": [
+        "61002021014|justice"
+      ],
+      "meta": {
+        "id": "61002021.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002021011|ἢ"
+      ],
+      "target": [
+        "61002021016|que"
+      ],
+      "meta": {
+        "id": "61002021.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002021012|ἐπιγνοῦσιν"
+      ],
+      "target": [
+        "61002021024|connue"
+      ],
+      "meta": {
+        "id": "61002021.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002021014|ἐκ"
+      ],
+      "target": [
+        "61002021026|du"
+      ],
+      "meta": {
+        "id": "61002021.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002021016|παραδοθείσης"
+      ],
+      "target": [
+        "61002021033|donné"
+      ],
+      "meta": {
+        "id": "61002021.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002021017|αὐτοῖς"
+      ],
+      "target": [
+        "61002021030|leur"
+      ],
+      "meta": {
+        "id": "61002021.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002021018|ἁγίας"
+      ],
+      "target": [
+        "61002021027|saint"
+      ],
+      "meta": {
+        "id": "61002021.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002021019|ἐντολῆς"
+      ],
+      "target": [
+        "61002021028|commandement"
+      ],
+      "meta": {
+        "id": "61002021.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002022001|συμβέβηκεν"
+      ],
+      "target": [
+        "61002022004|arrivé"
+      ],
+      "meta": {
+        "id": "61002022.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002022002|αὐτοῖς"
+      ],
+      "target": [
+        "61002022002|leur"
+      ],
+      "meta": {
+        "id": "61002022.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002022003|τὸ"
+      ],
+      "target": [
+        "61002022007|dit"
+      ],
+      "meta": {
+        "id": "61002022.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002022005|ἀληθοῦς"
+      ],
+      "target": [
+        "61002022010|vrai"
+      ],
+      "meta": {
+        "id": "61002022.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002022006|παροιμίας"
+      ],
+      "target": [
+        "61002022009|proverbe"
+      ],
+      "meta": {
+        "id": "61002022.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002022007|Κύων"
+      ],
+      "target": [
+        "61002022013|chien"
+      ],
+      "meta": {
+        "id": "61002022.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002022008|ἐπιστρέψας"
+      ],
+      "target": [
+        "61002022015|retourné"
+      ],
+      "meta": {
+        "id": "61002022.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002022009|ἐπὶ"
+      ],
+      "target": [
+        "61002022016|à"
+      ],
+      "meta": {
+        "id": "61002022.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002022012|ἐξέραμα"
+      ],
+      "target": [
+        "61002022021|vomi"
+      ],
+      "meta": {
+        "id": "61002022.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002022013|καί"
+      ],
+      "target": [
+        "61002022023|et"
+      ],
+      "meta": {
+        "id": "61002022.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002022014|Ὗς"
+      ],
+      "target": [
+        "61002022025|truie"
+      ],
+      "meta": {
+        "id": "61002022.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002022015|λουσαμένη"
+      ],
+      "target": [
+        "61002022026|lavée"
+      ],
+      "meta": {
+        "id": "61002022.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002022016|εἰς"
+      ],
+      "target": [
+        "61002022030|dans",
+        "61002022031|le"
+      ],
+      "meta": {
+        "id": "61002022.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002022017|κυλισμὸν"
+      ],
+      "target": [
+        "61002022029|vautrée"
+      ],
+      "meta": {
+        "id": "61002022.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61002022018|βορβόρου"
+      ],
+      "target": [
+        "61002022032|bourbier"
+      ],
+      "meta": {
+        "id": "61002022.16",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003001001|Ταύτην"
+      ],
+      "target": [
+        "61003001002|déjà"
+      ],
+      "meta": {
+        "id": "61003001.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003001004|δευτέραν"
+      ],
+      "target": [
+        "61003001007|seconde"
+      ],
+      "meta": {
+        "id": "61003001.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003001005|ὑμῖν"
+      ],
+      "target": [
+        "61003001011|vous"
+      ],
+      "meta": {
+        "id": "61003001.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003001006|γράφω"
+      ],
+      "target": [
+        "61003001012|écris"
+      ],
+      "meta": {
+        "id": "61003001.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003001007|ἐπιστολήν"
+      ],
+      "target": [
+        "61003001008|lettre"
+      ],
+      "meta": {
+        "id": "61003001.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003001008|ἐν"
+      ],
+      "target": [
+        "61003001014|Dans"
+      ],
+      "meta": {
+        "id": "61003001.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003001009|αἷς"
+      ],
+      "target": [
+        "61003001020|autre"
+      ],
+      "meta": {
+        "id": "61003001.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003001010|διεγείρω"
+      ],
+      "target": [
+        "61003001024|éveiller"
+      ],
+      "meta": {
+        "id": "61003001.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003001011|ὑμῶν"
+      ],
+      "target": [
+        "61003001028|votre"
+      ],
+      "meta": {
+        "id": "61003001.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003001012|ἐν"
+      ],
+      "target": [
+        "61003001025|par"
+      ],
+      "meta": {
+        "id": "61003001.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003001013|ὑπομνήσει"
+      ],
+      "target": [
+        "61003001027|avertissements"
+      ],
+      "meta": {
+        "id": "61003001.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003001015|εἰλικρινῆ"
+      ],
+      "target": [
+        "61003001029|saine"
+      ],
+      "meta": {
+        "id": "61003001.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003001016|διάνοιαν"
+      ],
+      "target": [
+        "61003001030|intelligence"
+      ],
+      "meta": {
+        "id": "61003001.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003002001|μνησθῆναι"
+      ],
+      "target": [
+        "61003002005|souveniez"
+      ],
+      "meta": {
+        "id": "61003002.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003002003|προειρημένων"
+      ],
+      "target": [
+        "61003002010|avance"
+      ],
+      "meta": {
+        "id": "61003002.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003002004|ῥημάτων"
+      ],
+      "target": [
+        "61003002007|choses"
+      ],
+      "meta": {
+        "id": "61003002.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003002005|ὑπὸ"
+      ],
+      "target": [
+        "61003002011|par"
+      ],
+      "meta": {
+        "id": "61003002.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003002007|ἁγίων"
+      ],
+      "target": [
+        "61003002013|saints"
+      ],
+      "meta": {
+        "id": "61003002.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003002008|προφητῶν"
+      ],
+      "target": [
+        "61003002014|prophètes"
+      ],
+      "meta": {
+        "id": "61003002.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003002009|καὶ"
+      ],
+      "target": [
+        "61003002016|et"
+      ],
+      "meta": {
+        "id": "61003002.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003002012|ἀποστόλων"
+      ],
+      "target": [
+        "61003002027|apôtres"
+      ],
+      "meta": {
+        "id": "61003002.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003002014|ἐντολῆς"
+      ],
+      "target": [
+        "61003002018|commandement"
+      ],
+      "meta": {
+        "id": "61003002.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003002016|κυρίου"
+      ],
+      "target": [
+        "61003002020|Seigneur"
+      ],
+      "meta": {
+        "id": "61003002.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003002017|καὶ"
+      ],
+      "target": [
+        "61003002021|et"
+      ],
+      "meta": {
+        "id": "61003002.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003002018|σωτῆρος"
+      ],
+      "target": [
+        "61003002022|Sauveur"
+      ],
+      "meta": {
+        "id": "61003002.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003003001|τοῦτο"
+      ],
+      "target": [
+        "61003003004|que"
+      ],
+      "meta": {
+        "id": "61003003.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003003002|πρῶτον"
+      ],
+      "target": [
+        "61003003003|tout"
+      ],
+      "meta": {
+        "id": "61003003.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003003003|γινώσκοντες"
+      ],
+      "target": [
+        "61003003001|sachant"
+      ],
+      "meta": {
+        "id": "61003003.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003003005|ἐλεύσονται"
+      ],
+      "target": [
+        "61003003012|viendra"
+      ],
+      "meta": {
+        "id": "61003003.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003003006|ἐπ"
+      ],
+      "target": [
+        "61003003006|dans"
+      ],
+      "meta": {
+        "id": "61003003.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003003007|ἐσχάτων"
+      ],
+      "target": [
+        "61003003008|derniers"
+      ],
+      "meta": {
+        "id": "61003003.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003003009|ἡμερῶν"
+      ],
+      "target": [
+        "61003003009|jours"
+      ],
+      "meta": {
+        "id": "61003003.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003003012|ἐμπαῖκται"
+      ],
+      "target": [
+        "61003003014|moqueurs"
+      ],
+      "meta": {
+        "id": "61003003.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003003013|κατὰ"
+      ],
+      "target": [
+        "61003003020|selon"
+      ],
+      "meta": {
+        "id": "61003003.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003003015|ἰδίας"
+      ],
+      "target": [
+        "61003003022|propres"
+      ],
+      "meta": {
+        "id": "61003003.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003003016|ἐπιθυμίας"
+      ],
+      "target": [
+        "61003003023|convoitises"
+      ],
+      "meta": {
+        "id": "61003003.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003003017|αὐτῶν"
+      ],
+      "target": [
+        "61003003021|leurs"
+      ],
+      "meta": {
+        "id": "61003003.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003003018|πορευόμενοι"
+      ],
+      "target": [
+        "61003003019|marchant"
+      ],
+      "meta": {
+        "id": "61003003.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003004001|καὶ"
+      ],
+      "target": [
+        "61003004001|et"
+      ],
+      "meta": {
+        "id": "61003004.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003004002|λέγοντες"
+      ],
+      "target": [
+        "61003004002|disant"
+      ],
+      "meta": {
+        "id": "61003004.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003004003|Ποῦ"
+      ],
+      "target": [
+        "61003004004|Où"
+      ],
+      "meta": {
+        "id": "61003004.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003004004|ἐστιν"
+      ],
+      "target": [
+        "61003004005|est"
+      ],
+      "meta": {
+        "id": "61003004.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003004006|ἐπαγγελία"
+      ],
+      "target": [
+        "61003004007|promesse"
+      ],
+      "meta": {
+        "id": "61003004.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003004008|παρουσίας"
+      ],
+      "target": [
+        "61003004010|avènement"
+      ],
+      "meta": {
+        "id": "61003004.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003004009|αὐτοῦ"
+      ],
+      "target": [
+        "61003004009|son"
+      ],
+      "meta": {
+        "id": "61003004.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003004010|ἀφ"
+      ],
+      "target": [
+        "61003004014|depuis"
+      ],
+      "meta": {
+        "id": "61003004.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003004011|ἧς"
+      ],
+      "target": [
+        "61003004015|que",
+        "61003004016|les"
+      ],
+      "meta": {
+        "id": "61003004.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003004012|γὰρ"
+      ],
+      "target": [
+        "61003004012|Car"
+      ],
+      "meta": {
+        "id": "61003004.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003004014|πατέρες"
+      ],
+      "target": [
+        "61003004017|pères"
+      ],
+      "meta": {
+        "id": "61003004.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003004015|ἐκοιμήθησαν"
+      ],
+      "target": [
+        "61003004019|morts"
+      ],
+      "meta": {
+        "id": "61003004.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003004016|πάντα"
+      ],
+      "target": [
+        "61003004021|tout"
+      ],
+      "meta": {
+        "id": "61003004.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003004017|οὕτως"
+      ],
+      "target": [
+        "61003004022|demeure"
+      ],
+      "meta": {
+        "id": "61003004.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003004019|ἀπ"
+      ],
+      "target": [
+        "61003004023|comme"
+      ],
+      "meta": {
+        "id": "61003004.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003004020|ἀρχῆς"
+      ],
+      "target": [
+        "61003004026|commencement"
+      ],
+      "meta": {
+        "id": "61003004.16",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003004021|κτίσεως"
+      ],
+      "target": [
+        "61003004029|création"
+      ],
+      "meta": {
+        "id": "61003004.17",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003005001|λανθάνει"
+      ],
+      "target": [
+        "61003005003|ignorer"
+      ],
+      "meta": {
+        "id": "61003005.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003005002|γὰρ"
+      ],
+      "target": [
+        "61003005006|effet"
+      ],
+      "meta": {
+        "id": "61003005.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003005003|αὐτοὺς"
+      ],
+      "target": [
+        "61003005001|Ils"
+      ],
+      "meta": {
+        "id": "61003005.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003005005|θέλοντας"
+      ],
+      "target": [
+        "61003005002|veulent"
+      ],
+      "meta": {
+        "id": "61003005.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003005006|ὅτι"
+      ],
+      "target": [
+        "61003005008|que"
+      ],
+      "meta": {
+        "id": "61003005.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003005007|οὐρανοὶ"
+      ],
+      "target": [
+        "61003005010|cieux"
+      ],
+      "meta": {
+        "id": "61003005.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003005008|ἦσαν"
+      ],
+      "target": [
+        "61003005011|existèrent"
+      ],
+      "meta": {
+        "id": "61003005.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003005009|ἔκπαλαι"
+      ],
+      "target": [
+        "61003005012|autrefois"
+      ],
+      "meta": {
+        "id": "61003005.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003005010|καὶ"
+      ],
+      "target": [
+        "61003005020|même"
+      ],
+      "meta": {
+        "id": "61003005.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003005011|γῆ"
+      ],
+      "target": [
+        "61003005023|terre"
+      ],
+      "meta": {
+        "id": "61003005.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003005012|ἐξ"
+      ],
+      "target": [
+        "61003005025|de"
+      ],
+      "meta": {
+        "id": "61003005.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003005013|ὕδατος"
+      ],
+      "target": [
+        "61003005027|eau"
+      ],
+      "meta": {
+        "id": "61003005.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003005014|καὶ"
+      ],
+      "target": [
+        "61003005028|et"
+      ],
+      "meta": {
+        "id": "61003005.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003005015|δι"
+      ],
+      "target": [
+        "61003005032|de"
+      ],
+      "meta": {
+        "id": "61003005.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003005016|ὕδατος"
+      ],
+      "target": [
+        "61003005034|eau"
+      ],
+      "meta": {
+        "id": "61003005.16",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003005017|συνεστῶσα"
+      ],
+      "target": [
+        "61003005024|tirée"
+      ],
+      "meta": {
+        "id": "61003005.17",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003005020|θεοῦ"
+      ],
+      "target": [
+        "61003005017|Dieu"
+      ],
+      "meta": {
+        "id": "61003005.18",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003005021|λόγῳ"
+      ],
+      "target": [
+        "61003005015|parole"
+      ],
+      "meta": {
+        "id": "61003005.19",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003006001|δι"
+      ],
+      "target": [
+        "61003006003|par"
+      ],
+      "meta": {
+        "id": "61003006.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003006002|ὧν"
+      ],
+      "target": [
+        "61003006005|choses"
+      ],
+      "meta": {
+        "id": "61003006.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003006004|τότε"
+      ],
+      "target": [
+        "61003006009|alors"
+      ],
+      "meta": {
+        "id": "61003006.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003006005|κόσμος"
+      ],
+      "target": [
+        "61003006007|monde"
+      ],
+      "meta": {
+        "id": "61003006.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003006006|ὕδατι"
+      ],
+      "target": [
+        "61003006015|eau"
+      ],
+      "meta": {
+        "id": "61003006.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003006007|κατακλυσθεὶς"
+      ],
+      "target": [
+        "61003006012|submergé"
+      ],
+      "meta": {
+        "id": "61003006.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003006008|ἀπώλετο"
+      ],
+      "target": [
+        "61003006010|périt"
+      ],
+      "meta": {
+        "id": "61003006.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003007002|δὲ"
+      ],
+      "target": [
+        "61003007002|que"
+      ],
+      "meta": {
+        "id": "61003007.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003007003|νῦν"
+      ],
+      "target": [
+        "61003007016|présent"
+      ],
+      "meta": {
+        "id": "61003007.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003007004|οὐρανοὶ"
+      ],
+      "target": [
+        "61003007010|cieux"
+      ],
+      "meta": {
+        "id": "61003007.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003007005|καὶ"
+      ],
+      "target": [
+        "61003007011|et"
+      ],
+      "meta": {
+        "id": "61003007.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003007007|γῆ"
+      ],
+      "target": [
+        "61003007013|terre"
+      ],
+      "meta": {
+        "id": "61003007.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003007009|αὐτῷ"
+      ],
+      "target": [
+        "61003007006|même"
+      ],
+      "meta": {
+        "id": "61003007.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003007010|λόγῳ"
+      ],
+      "target": [
+        "61003007007|parole"
+      ],
+      "meta": {
+        "id": "61003007.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003007011|τεθησαυρισμένοι"
+      ],
+      "target": [
+        "61003007018|gardés"
+      ],
+      "meta": {
+        "id": "61003007.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003007012|εἰσὶν"
+      ],
+      "target": [
+        "61003007017|sont"
+      ],
+      "meta": {
+        "id": "61003007.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003007013|πυρὶ"
+      ],
+      "target": [
+        "61003007023|feu"
+      ],
+      "meta": {
+        "id": "61003007.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003007014|τηρούμενοι"
+      ],
+      "target": [
+        "61003007020|réservés"
+      ],
+      "meta": {
+        "id": "61003007.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003007015|εἰς"
+      ],
+      "target": [
+        "61003007025|pour"
+      ],
+      "meta": {
+        "id": "61003007.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003007016|ἡμέραν"
+      ],
+      "target": [
+        "61003007027|jour"
+      ],
+      "meta": {
+        "id": "61003007.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003007017|κρίσεως"
+      ],
+      "target": [
+        "61003007029|jugement"
+      ],
+      "meta": {
+        "id": "61003007.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003007018|καὶ"
+      ],
+      "target": [
+        "61003007030|et"
+      ],
+      "meta": {
+        "id": "61003007.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003007019|ἀπωλείας"
+      ],
+      "target": [
+        "61003007033|ruine"
+      ],
+      "meta": {
+        "id": "61003007.16",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003007021|ἀσεβῶν"
+      ],
+      "target": [
+        "61003007036|impies"
+      ],
+      "meta": {
+        "id": "61003007.17",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003007022|ἀνθρώπων"
+      ],
+      "target": [
+        "61003007035|hommes"
+      ],
+      "meta": {
+        "id": "61003007.18",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003008001|Ἓν"
+      ],
+      "target": [
+        "61003008004|une"
+      ],
+      "meta": {
+        "id": "61003008.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003008002|δὲ"
+      ],
+      "target": [
+        "61003008001|Mais"
+      ],
+      "meta": {
+        "id": "61003008.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003008003|τοῦτο"
+      ],
+      "target": [
+        "61003008005|chose"
+      ],
+      "meta": {
+        "id": "61003008.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003008004|μὴ"
+      ],
+      "target": [
+        "61003008013|pas"
+      ],
+      "meta": {
+        "id": "61003008.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003008005|λανθανέτω"
+      ],
+      "target": [
+        "61003008012|devez"
+      ],
+      "meta": {
+        "id": "61003008.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003008008|ὅτι"
+      ],
+      "target": [
+        "61003008018|que"
+      ],
+      "meta": {
+        "id": "61003008.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003008009|μία"
+      ],
+      "target": [
+        "61003008024|un"
+      ],
+      "meta": {
+        "id": "61003008.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003008010|ἡμέρα"
+      ],
+      "target": [
+        "61003008025|jour"
+      ],
+      "meta": {
+        "id": "61003008.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003008011|παρὰ"
+      ],
+      "target": [
+        "61003008020|devant"
+      ],
+      "meta": {
+        "id": "61003008.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003008012|κυρίῳ"
+      ],
+      "target": [
+        "61003008022|Seigneur"
+      ],
+      "meta": {
+        "id": "61003008.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003008013|ὡς"
+      ],
+      "target": [
+        "61003008027|comme"
+      ],
+      "meta": {
+        "id": "61003008.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003008014|χίλια"
+      ],
+      "target": [
+        "61003008028|mille"
+      ],
+      "meta": {
+        "id": "61003008.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003008015|ἔτη"
+      ],
+      "target": [
+        "61003008029|ans"
+      ],
+      "meta": {
+        "id": "61003008.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003008016|καὶ"
+      ],
+      "target": [
+        "61003008031|et"
+      ],
+      "meta": {
+        "id": "61003008.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003008017|χίλια"
+      ],
+      "target": [
+        "61003008032|mille"
+      ],
+      "meta": {
+        "id": "61003008.16",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003008018|ἔτη"
+      ],
+      "target": [
+        "61003008033|ans"
+      ],
+      "meta": {
+        "id": "61003008.17",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003008019|ὡς"
+      ],
+      "target": [
+        "61003008035|comme"
+      ],
+      "meta": {
+        "id": "61003008.18",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003008020|ἡμέρα"
+      ],
+      "target": [
+        "61003008037|jour"
+      ],
+      "meta": {
+        "id": "61003008.19",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003008021|μία"
+      ],
+      "target": [
+        "61003008036|un"
+      ],
+      "meta": {
+        "id": "61003008.20",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003009001|οὐ"
+      ],
+      "target": [
+        "61003009005|pas"
+      ],
+      "meta": {
+        "id": "61003009.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003009002|βραδύνει"
+      ],
+      "target": [
+        "61003009004|tarde"
+      ],
+      "meta": {
+        "id": "61003009.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003009003|κύριος"
+      ],
+      "target": [
+        "61003009002|Seigneur"
+      ],
+      "meta": {
+        "id": "61003009.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003009005|ἐπαγγελίας"
+      ],
+      "target": [
+        "61003009011|promesse"
+      ],
+      "meta": {
+        "id": "61003009.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003009006|ὥς"
+      ],
+      "target": [
+        "61003009013|comme"
+      ],
+      "meta": {
+        "id": "61003009.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003009007|τινες"
+      ],
+      "target": [
+        "61003009030|aucun"
+      ],
+      "meta": {
+        "id": "61003009.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003009009|ἡγοῦνται"
+      ],
+      "target": [
+        "61003009016|croient"
+      ],
+      "meta": {
+        "id": "61003009.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003009010|ἀλλὰ"
+      ],
+      "target": [
+        "61003009018|mais"
+      ],
+      "meta": {
+        "id": "61003009.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003009011|μακροθυμεῖ"
+      ],
+      "target": [
+        "61003009022|patience"
+      ],
+      "meta": {
+        "id": "61003009.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003009012|εἰς"
+      ],
+      "target": [
+        "61003009023|envers"
+      ],
+      "meta": {
+        "id": "61003009.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003009014|μὴ"
+      ],
+      "target": [
+        "61003009028|pas"
+      ],
+      "meta": {
+        "id": "61003009.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003009015|βουλόμενός"
+      ],
+      "target": [
+        "61003009027|voulant"
+      ],
+      "meta": {
+        "id": "61003009.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003009016|τινας"
+      ],
+      "target": [
+        "61003009030|aucun"
+      ],
+      "meta": {
+        "id": "61003009.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003009017|ἀπολέσθαι"
+      ],
+      "target": [
+        "61003009031|périsse"
+      ],
+      "meta": {
+        "id": "61003009.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003009018|ἀλλὰ"
+      ],
+      "target": [
+        "61003009033|mais"
+      ],
+      "meta": {
+        "id": "61003009.16",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003009019|πάντας"
+      ],
+      "target": [
+        "61003009036|tous"
+      ],
+      "meta": {
+        "id": "61003009.17",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003009020|εἰς"
+      ],
+      "target": [
+        "61003009038|à"
+      ],
+      "meta": {
+        "id": "61003009.18",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003009021|μετάνοιαν"
+      ],
+      "target": [
+        "61003009040|repentance"
+      ],
+      "meta": {
+        "id": "61003009.19",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003009022|χωρῆσαι"
+      ],
+      "target": [
+        "61003009037|arrivent"
+      ],
+      "meta": {
+        "id": "61003009.20",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003010001|ἥξει"
+      ],
+      "target": [
+        "61003010005|viendra"
+      ],
+      "meta": {
+        "id": "61003010.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003010002|δὲ"
+      ],
+      "target": [
+        "61003010001|Le"
+      ],
+      "meta": {
+        "id": "61003010.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003010003|ἡμέρα"
+      ],
+      "target": [
+        "61003010002|jour"
+      ],
+      "meta": {
+        "id": "61003010.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003010004|κυρίου"
+      ],
+      "target": [
+        "61003010004|Seigneur"
+      ],
+      "meta": {
+        "id": "61003010.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003010005|ὡς"
+      ],
+      "target": [
+        "61003010006|comme"
+      ],
+      "meta": {
+        "id": "61003010.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003010006|κλέπτης"
+      ],
+      "target": [
+        "61003010008|voleur"
+      ],
+      "meta": {
+        "id": "61003010.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003010007|ἐν"
+      ],
+      "target": [
+        "61003010010|en"
+      ],
+      "meta": {
+        "id": "61003010.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003010008|ᾗ"
+      ],
+      "target": [
+        "61003010012|jour"
+      ],
+      "meta": {
+        "id": "61003010.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003010010|οὐρανοὶ"
+      ],
+      "target": [
+        "61003010015|cieux"
+      ],
+      "meta": {
+        "id": "61003010.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003010011|ῥοιζηδὸν"
+      ],
+      "target": [
+        "61003010018|fracas"
+      ],
+      "meta": {
+        "id": "61003010.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003010012|παρελεύσονται"
+      ],
+      "target": [
+        "61003010016|passeront"
+      ],
+      "meta": {
+        "id": "61003010.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003010013|στοιχεῖα"
+      ],
+      "target": [
+        "61003010021|éléments"
+      ],
+      "meta": {
+        "id": "61003010.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003010014|δὲ"
+      ],
+      "target": [
+        "61003010020|les"
+      ],
+      "meta": {
+        "id": "61003010.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003010015|καυσούμενα"
+      ],
+      "target": [
+        "61003010022|embrasés"
+      ],
+      "meta": {
+        "id": "61003010.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003010016|λυθήσεται"
+      ],
+      "target": [
+        "61003010024|dissoudront"
+      ],
+      "meta": {
+        "id": "61003010.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003010017|καὶ"
+      ],
+      "target": [
+        "61003010026|et"
+      ],
+      "meta": {
+        "id": "61003010.16",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003010018|γῆ"
+      ],
+      "target": [
+        "61003010028|terre"
+      ],
+      "meta": {
+        "id": "61003010.17",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003010019|καὶ"
+      ],
+      "target": [
+        "61003010029|avec"
+      ],
+      "meta": {
+        "id": "61003010.18",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003010021|ἐν"
+      ],
+      "target": [
+        "61003010034|renferme"
+      ],
+      "meta": {
+        "id": "61003010.19",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003010022|αὐτῇ"
+      ],
+      "target": [
+        "61003010035|sera"
+      ],
+      "meta": {
+        "id": "61003010.20",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003010023|ἔργα"
+      ],
+      "target": [
+        "61003010031|œuvres"
+      ],
+      "meta": {
+        "id": "61003010.21",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003011001|Τούτων"
+      ],
+      "target": [
+        "61003011005|choses"
+      ],
+      "meta": {
+        "id": "61003011.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003011003|πάντων"
+      ],
+      "target": [
+        "61003011003|toutes"
+      ],
+      "meta": {
+        "id": "61003011.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003011004|λυομένων"
+      ],
+      "target": [
+        "61003011008|dissoudre"
+      ],
+      "meta": {
+        "id": "61003011.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003011005|ποταποὺς"
+      ],
+      "target": [
+        "61003011010|quelles"
+      ],
+      "meta": {
+        "id": "61003011.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003011006|δεῖ"
+      ],
+      "target": [
+        "61003011012|doivent"
+      ],
+      "meta": {
+        "id": "61003011.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003011008|ὑμᾶς"
+      ],
+      "target": [
+        "61003011014|être"
+      ],
+      "meta": {
+        "id": "61003011.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003011009|ἐν"
+      ],
+      "target": [
+        "61003011015|la"
+      ],
+      "meta": {
+        "id": "61003011.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003011010|ἁγίαις"
+      ],
+      "target": [
+        "61003011016|sainteté"
+      ],
+      "meta": {
+        "id": "61003011.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003011011|ἀναστροφαῖς"
+      ],
+      "target": [
+        "61003011019|conduite"
+      ],
+      "meta": {
+        "id": "61003011.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003011012|καὶ"
+      ],
+      "target": [
+        "61003011020|et"
+      ],
+      "meta": {
+        "id": "61003011.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003011013|εὐσεβείαις"
+      ],
+      "target": [
+        "61003011022|piété"
+      ],
+      "meta": {
+        "id": "61003011.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003012001|προσδοκῶντας"
+      ],
+      "target": [
+        "61003012004|attendez"
+      ],
+      "meta": {
+        "id": "61003012.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003012002|καὶ"
+      ],
+      "target": [
+        "61003012005|et"
+      ],
+      "meta": {
+        "id": "61003012.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003012003|σπεύδοντας"
+      ],
+      "target": [
+        "61003012006|hâtez"
+      ],
+      "meta": {
+        "id": "61003012.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003012005|παρουσίαν"
+      ],
+      "target": [
+        "61003012008|avènement"
+      ],
+      "meta": {
+        "id": "61003012.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003012008|θεοῦ"
+      ],
+      "target": [
+        "61003012012|Dieu"
+      ],
+      "meta": {
+        "id": "61003012.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003012009|ἡμέρας"
+      ],
+      "target": [
+        "61003012010|jour"
+      ],
+      "meta": {
+        "id": "61003012.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003012010|δι"
+      ],
+      "target": [
+        "61003012015|cause"
+      ],
+      "meta": {
+        "id": "61003012.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003012011|ἣν"
+      ],
+      "target": [
+        "61003012016|duquel"
+      ],
+      "meta": {
+        "id": "61003012.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003012012|οὐρανοὶ"
+      ],
+      "target": [
+        "61003012018|cieux"
+      ],
+      "meta": {
+        "id": "61003012.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003012013|πυρούμενοι"
+      ],
+      "target": [
+        "61003012019|enflammés"
+      ],
+      "meta": {
+        "id": "61003012.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003012014|λυθήσονται"
+      ],
+      "target": [
+        "61003012021|dissoudront"
+      ],
+      "meta": {
+        "id": "61003012.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003012015|καὶ"
+      ],
+      "target": [
+        "61003012022|et"
+      ],
+      "meta": {
+        "id": "61003012.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003012016|στοιχεῖα"
+      ],
+      "target": [
+        "61003012024|éléments"
+      ],
+      "meta": {
+        "id": "61003012.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003012017|καυσούμενα"
+      ],
+      "target": [
+        "61003012025|embrasés"
+      ],
+      "meta": {
+        "id": "61003012.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003012018|τήκεται"
+      ],
+      "target": [
+        "61003012027|fondront"
+      ],
+      "meta": {
+        "id": "61003012.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003013001|καινοὺς"
+      ],
+      "target": [
+        "61003013010|nouveaux"
+      ],
+      "meta": {
+        "id": "61003013.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003013002|δὲ"
+      ],
+      "target": [
+        "61003013001|Mais"
+      ],
+      "meta": {
+        "id": "61003013.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003013003|οὐρανοὺς"
+      ],
+      "target": [
+        "61003013011|cieux"
+      ],
+      "meta": {
+        "id": "61003013.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003013004|καὶ"
+      ],
+      "target": [
+        "61003013012|et"
+      ],
+      "meta": {
+        "id": "61003013.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003013005|γῆν"
+      ],
+      "target": [
+        "61003013015|terre"
+      ],
+      "meta": {
+        "id": "61003013.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003013006|καινὴν"
+      ],
+      "target": [
+        "61003013014|nouvelle"
+      ],
+      "meta": {
+        "id": "61003013.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003013007|κατὰ"
+      ],
+      "target": [
+        "61003013005|selon"
+      ],
+      "meta": {
+        "id": "61003013.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003013009|ἐπάγγελμα"
+      ],
+      "target": [
+        "61003013007|promesse"
+      ],
+      "meta": {
+        "id": "61003013.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003013010|αὐτοῦ"
+      ],
+      "target": [
+        "61003013006|sa"
+      ],
+      "meta": {
+        "id": "61003013.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003013011|προσδοκῶμεν"
+      ],
+      "target": [
+        "61003013003|attendons"
+      ],
+      "meta": {
+        "id": "61003013.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003013012|ἐν"
+      ],
+      "target": [
+        "61003013017|où"
+      ],
+      "meta": {
+        "id": "61003013.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003013013|οἷς"
+      ],
+      "target": [
+        "61003013018|la"
+      ],
+      "meta": {
+        "id": "61003013.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003013014|δικαιοσύνη"
+      ],
+      "target": [
+        "61003013019|justice"
+      ],
+      "meta": {
+        "id": "61003013.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003013015|κατοικεῖ"
+      ],
+      "target": [
+        "61003013020|habitera"
+      ],
+      "meta": {
+        "id": "61003013.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003014001|Διό"
+      ],
+      "target": [
+        "61003014003|pourquoi"
+      ],
+      "meta": {
+        "id": "61003014.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003014003|ταῦτα"
+      ],
+      "target": [
+        "61003014010|choses"
+      ],
+      "meta": {
+        "id": "61003014.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003014004|προσδοκῶντες"
+      ],
+      "target": [
+        "61003014008|attendant"
+      ],
+      "meta": {
+        "id": "61003014.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003014006|ἄσπιλοι"
+      ],
+      "target": [
+        "61003014019|tache"
+      ],
+      "meta": {
+        "id": "61003014.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003014007|καὶ"
+      ],
+      "target": [
+        "61003014020|et"
+      ],
+      "meta": {
+        "id": "61003014.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003014008|ἀμώμητοι"
+      ],
+      "target": [
+        "61003014021|irrépréhensibles"
+      ],
+      "meta": {
+        "id": "61003014.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003014009|αὐτῷ"
+      ],
+      "target": [
+        "61003014017|lui"
+      ],
+      "meta": {
+        "id": "61003014.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003014010|εὑρεθῆναι"
+      ],
+      "target": [
+        "61003014015|trouvés"
+      ],
+      "meta": {
+        "id": "61003014.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003014011|ἐν"
+      ],
+      "target": [
+        "61003014022|dans"
+      ],
+      "meta": {
+        "id": "61003014.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003014012|εἰρήνῃ"
+      ],
+      "target": [
+        "61003014024|paix"
+      ],
+      "meta": {
+        "id": "61003014.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003015001|καὶ"
+      ],
+      "target": [
+        "61003015020|aussi"
+      ],
+      "meta": {
+        "id": "61003015.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003015004|κυρίου"
+      ],
+      "target": [
+        "61003015007|Seigneur"
+      ],
+      "meta": {
+        "id": "61003015.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003015005|ἡμῶν"
+      ],
+      "target": [
+        "61003015006|notre"
+      ],
+      "meta": {
+        "id": "61003015.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003015006|μακροθυμίαν"
+      ],
+      "target": [
+        "61003015004|patience"
+      ],
+      "meta": {
+        "id": "61003015.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003015007|σωτηρίαν"
+      ],
+      "target": [
+        "61003015010|salut"
+      ],
+      "meta": {
+        "id": "61003015.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003015008|ἡγεῖσθε"
+      ],
+      "target": [
+        "61003015001|Croyez"
+      ],
+      "meta": {
+        "id": "61003015.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003015009|καθὼς"
+      ],
+      "target": [
+        "61003015012|comme"
+      ],
+      "meta": {
+        "id": "61003015.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003015013|ἡμῶν"
+      ],
+      "target": [
+        "61003015013|notre"
+      ],
+      "meta": {
+        "id": "61003015.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003015014|ἀδελφὸς"
+      ],
+      "target": [
+        "61003015015|frère"
+      ],
+      "meta": {
+        "id": "61003015.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003015015|Παῦλος"
+      ],
+      "target": [
+        "61003015016|Paul"
+      ],
+      "meta": {
+        "id": "61003015.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003015016|κατὰ"
+      ],
+      "target": [
+        "61003015023|selon"
+      ],
+      "meta": {
+        "id": "61003015.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003015018|δοθεῖσαν"
+      ],
+      "target": [
+        "61003015030|donnée"
+      ],
+      "meta": {
+        "id": "61003015.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003015019|αὐτῷ"
+      ],
+      "target": [
+        "61003015027|lui"
+      ],
+      "meta": {
+        "id": "61003015.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003015020|σοφίαν"
+      ],
+      "target": [
+        "61003015025|sagesse"
+      ],
+      "meta": {
+        "id": "61003015.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003015021|ἔγραψεν"
+      ],
+      "target": [
+        "61003015021|écrit"
+      ],
+      "meta": {
+        "id": "61003015.16",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003015022|ὑμῖν"
+      ],
+      "target": [
+        "61003015017|vous"
+      ],
+      "meta": {
+        "id": "61003015.17",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003016001|ὡς"
+      ],
+      "target": [
+        "61003016006|fait"
+      ],
+      "meta": {
+        "id": "61003016.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003016002|καὶ"
+      ],
+      "target": [
+        "61003016034|et"
+      ],
+      "meta": {
+        "id": "61003016.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003016003|ἐν"
+      ],
+      "target": [
+        "61003016007|dans"
+      ],
+      "meta": {
+        "id": "61003016.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003016004|πάσαις"
+      ],
+      "target": [
+        "61003016008|toutes"
+      ],
+      "meta": {
+        "id": "61003016.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003016006|ἐπιστολαῖς"
+      ],
+      "target": [
+        "61003016010|lettres"
+      ],
+      "meta": {
+        "id": "61003016.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003016007|λαλῶν"
+      ],
+      "target": [
+        "61003016014|parle"
+      ],
+      "meta": {
+        "id": "61003016.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003016008|ἐν"
+      ],
+      "target": [
+        "61003016019|dans"
+      ],
+      "meta": {
+        "id": "61003016.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003016009|αὐταῖς"
+      ],
+      "target": [
+        "61003016048|leur"
+      ],
+      "meta": {
+        "id": "61003016.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003016010|περὶ"
+      ],
+      "target": [
+        "61003016015|de"
+      ],
+      "meta": {
+        "id": "61003016.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003016011|τούτων"
+      ],
+      "target": [
+        "61003016017|choses"
+      ],
+      "meta": {
+        "id": "61003016.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003016013|αἷς"
+      ],
+      "target": [
+        "61003016020|lesquelles"
+      ],
+      "meta": {
+        "id": "61003016.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003016014|ἐστιν"
+      ],
+      "target": [
+        "61003016023|a"
+      ],
+      "meta": {
+        "id": "61003016.12",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003016015|δυσνόητά"
+      ],
+      "target": [
+        "61003016028|comprendre"
+      ],
+      "meta": {
+        "id": "61003016.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003016016|τινα"
+      ],
+      "target": [
+        "61003016025|points"
+      ],
+      "meta": {
+        "id": "61003016.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003016017|ἃ"
+      ],
+      "target": [
+        "61003016030|dont"
+      ],
+      "meta": {
+        "id": "61003016.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003016019|ἀμαθεῖς"
+      ],
+      "target": [
+        "61003016033|ignorantes"
+      ],
+      "meta": {
+        "id": "61003016.16",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003016020|καὶ"
+      ],
+      "target": [
+        "61003016042|celui"
+      ],
+      "meta": {
+        "id": "61003016.17",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003016021|ἀστήρικτοι"
+      ],
+      "target": [
+        "61003016036|affermies"
+      ],
+      "meta": {
+        "id": "61003016.18",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003016022|στρεβλοῦσιν"
+      ],
+      "target": [
+        "61003016039|sens"
+      ],
+      "meta": {
+        "id": "61003016.19",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003016023|ὡς"
+      ],
+      "target": [
+        "61003016041|comme"
+      ],
+      "meta": {
+        "id": "61003016.20",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003016024|καὶ"
+      ],
+      "target": [
+        "61003016043|des"
+      ],
+      "meta": {
+        "id": "61003016.21",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003016026|λοιπὰς"
+      ],
+      "target": [
+        "61003016044|autres"
+      ],
+      "meta": {
+        "id": "61003016.22",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003016027|γραφὰς"
+      ],
+      "target": [
+        "61003016045|Écritures"
+      ],
+      "meta": {
+        "id": "61003016.23",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003016028|πρὸς"
+      ],
+      "target": [
+        "61003016047|pour"
+      ],
+      "meta": {
+        "id": "61003016.24",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003016030|ἰδίαν"
+      ],
+      "target": [
+        "61003016049|propre"
+      ],
+      "meta": {
+        "id": "61003016.25",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003016032|ἀπώλειαν"
+      ],
+      "target": [
+        "61003016050|ruine"
+      ],
+      "meta": {
+        "id": "61003016.26",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003017001|ὑμεῖς"
+      ],
+      "target": [
+        "61003017001|Vous"
+      ],
+      "meta": {
+        "id": "61003017.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003017002|οὖν"
+      ],
+      "target": [
+        "61003017002|donc"
+      ],
+      "meta": {
+        "id": "61003017.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003017004|προγινώσκοντες"
+      ],
+      "target": [
+        "61003017008|avertis"
+      ],
+      "meta": {
+        "id": "61003017.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003017005|φυλάσσεσθε"
+      ],
+      "target": [
+        "61003017013|gardes"
+      ],
+      "meta": {
+        "id": "61003017.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003017010|ἀθέσμων"
+      ],
+      "target": [
+        "61003017023|impies"
+      ],
+      "meta": {
+        "id": "61003017.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003017011|πλάνῃ"
+      ],
+      "target": [
+        "61003017021|égarement"
+      ],
+      "meta": {
+        "id": "61003017.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003017012|συναπαχθέντες"
+      ],
+      "target": [
+        "61003017018|entraînés"
+      ],
+      "meta": {
+        "id": "61003017.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003017013|ἐκπέσητε"
+      ],
+      "target": [
+        "61003017029|déchoir"
+      ],
+      "meta": {
+        "id": "61003017.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003017015|ἰδίου"
+      ],
+      "target": [
+        "61003017031|votre"
+      ],
+      "meta": {
+        "id": "61003017.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003017016|στηριγμοῦ"
+      ],
+      "target": [
+        "61003017032|fermeté"
+      ],
+      "meta": {
+        "id": "61003017.11",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003018001|αὐξάνετε"
+      ],
+      "target": [
+        "61003018002|croissez"
+      ],
+      "meta": {
+        "id": "61003018.1",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003018002|δὲ"
+      ],
+      "target": [
+        "61003018001|Mais"
+      ],
+      "meta": {
+        "id": "61003018.2",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003018003|ἐν"
+      ],
+      "target": [
+        "61003018003|dans"
+      ],
+      "meta": {
+        "id": "61003018.3",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003018004|χάριτι"
+      ],
+      "target": [
+        "61003018005|grâce"
+      ],
+      "meta": {
+        "id": "61003018.4",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003018005|καὶ"
+      ],
+      "target": [
+        "61003018006|et"
+      ],
+      "meta": {
+        "id": "61003018.5",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003018006|γνώσει"
+      ],
+      "target": [
+        "61003018009|connaissance"
+      ],
+      "meta": {
+        "id": "61003018.6",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003018008|κυρίου"
+      ],
+      "target": [
+        "61003018011|notre",
+        "61003018012|Seigneur"
+      ],
+      "meta": {
+        "id": "61003018.7",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003018009|ἡμῶν"
+      ],
+      "target": [
+        "61003018011|notre"
+      ],
+      "meta": {
+        "id": "61003018.8",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003018010|καὶ"
+      ],
+      "target": [
+        "61003018013|et"
+      ],
+      "meta": {
+        "id": "61003018.9",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003018011|σωτῆρος"
+      ],
+      "target": [
+        "61003018014|Sauveur"
+      ],
+      "meta": {
+        "id": "61003018.10",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003018014|αὐτῷ"
+      ],
+      "target": [
+        "61003018018|lui"
+      ],
+      "meta": {
+        "id": "61003018.13",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003018016|δόξα"
+      ],
+      "target": [
+        "61003018021|gloire"
+      ],
+      "meta": {
+        "id": "61003018.14",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003018017|καὶ"
+      ],
+      "target": [
+        "61003018024|et"
+      ],
+      "meta": {
+        "id": "61003018.15",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003018018|νῦν"
+      ],
+      "target": [
+        "61003018023|maintenant"
+      ],
+      "meta": {
+        "id": "61003018.16",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003018020|εἰς"
+      ],
+      "target": [
+        "61003018025|pour"
+      ],
+      "meta": {
+        "id": "61003018.17",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003018022|αἰῶνος"
+      ],
+      "target": [
+        "61003018027|éternité"
+      ],
+      "meta": {
+        "id": "61003018.19",
+        "process": "manual"
+      }
+    },
+    {
+      "source": [
+        "n61003018023|ἀμήν"
+      ],
+      "target": [
+        "61003018029|Amen"
+      ],
+      "meta": {
+        "id": "61003018.20",
+        "process": "manual"
+      }
+    }
+  ]
+}
